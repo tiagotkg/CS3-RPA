@@ -217,16 +217,6 @@ Edite `config.json` para personalizar:
 - **Vendedor**: "Amazon.com.br"
 - **Nível de Risco**: BAIXO
 
-## 📋 Critérios de Avaliação
-
-| Critério | Peso | Status |
-|----------|------|--------|
-| Efetividade da automação (RPA) | 30% | ✅ Implementado |
-| Integração entre RPA e IA | 25% | ✅ Implementado |
-| Qualidade das regras e modelo | 20% | ✅ Implementado |
-| Clareza dos indicadores | 15% | ✅ Implementado |
-| Documentação e reprodutibilidade | 10% | ✅ Implementado |
-
 ## 🚨 Alertas e Monitoramento
 
 O sistema gera alertas automáticos para:
