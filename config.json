@@ -1,0 +1,24 @@
+{
+  "scraping": {
+    "search_terms": [
+      "cartucho HP 667",
+      "cartucho HP 667XL",
+      "cartucho HP 664",
+      "cartucho HP 662"
+    ],
+    "max_pages": 2,
+    "headless": true
+  },
+  "ai": {
+    "model_file": "resultados/modelo_deteccao_pirataria.pkl",
+    "confidence_threshold": 0.7
+  },
+  "risk_analysis": {
+    "high_risk_threshold": 4,
+    "medium_risk_threshold": 2
+  },
+  "output": {
+    "results_file": "resultados/resultados_deteccao_pirataria.csv",
+    "report_file": "resultados/relatorio_pirataria.html"
+  }
+}

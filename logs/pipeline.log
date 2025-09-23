@@ -1,0 +1,466 @@
+2025-09-22 22:59:53,867 - INFO - Configurações carregadas de config.json
+2025-09-22 22:59:53,867 - INFO - ====== WebDriver manager ======
+2025-09-22 22:59:54,170 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:59:54,284 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:59:54,349 - INFO - There is no [mac64] chromedriver "140.0.7339.185" for browser google-chrome "140.0.7339" in cache
+2025-09-22 22:59:54,366 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:59:54,675 - INFO - WebDriver version 140.0.7339.185 selected
+2025-09-22 22:59:54,682 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/140.0.7339.185/mac-arm64/chromedriver-mac-arm64.zip
+2025-09-22 22:59:54,683 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/140.0.7339.185/mac-arm64/chromedriver-mac-arm64.zip
+2025-09-22 22:59:54,808 - INFO - Driver downloading response is 200
+2025-09-22 22:59:54,961 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 22:59:55,446 - INFO - Driver has been saved in cache [/Users/tiagotkg/.wdm/drivers/chromedriver/mac64/140.0.7339.185]
+2025-09-22 22:59:57,314 - INFO - Driver do Chrome configurado com sucesso
+2025-09-22 22:59:57,333 - INFO - Modelo carregado de resultados/modelo_deteccao_pirataria.pkl
+2025-09-22 22:59:57,333 - INFO - Modelo de IA carregado com sucesso
+2025-09-22 22:59:57,333 - INFO - Componentes do pipeline configurados com sucesso
+2025-09-22 23:07:03,021 - INFO - Configurações carregadas de config.json
+2025-09-22 23:07:03,022 - INFO - ====== WebDriver manager ======
+2025-09-22 23:07:03,403 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 23:07:03,854 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 23:07:03,931 - INFO - Driver [/Users/tiagotkg/.wdm/drivers/chromedriver/mac64/140.0.7339.185/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-22 23:07:05,309 - INFO - Driver do Chrome configurado com sucesso
+2025-09-22 23:07:05,310 - INFO - Modelo de IA não encontrado, será treinado com dados existentes
+2025-09-22 23:07:05,311 - INFO - Componentes do pipeline configurados com sucesso
+2025-09-22 23:07:05,312 - INFO - === INICIANDO PIPELINE DE DETECÇÃO DE PIRATARIA ===
+2025-09-22 23:07:05,335 - INFO - Dados existentes carregados: 33 registros
+2025-09-22 23:07:05,335 - INFO - Treinando modelo com dados existentes...
+2025-09-22 23:07:05,336 - INFO - Iniciando treinamento do modelo...
+2025-09-22 23:07:05,336 - INFO - Criando dados de treinamento...
+2025-09-22 23:07:05,564 - INFO - Acurácia do modelo: 0.857
+2025-09-22 23:07:05,574 - INFO - Relatório de classificação:
+              precision    recall  f1-score   support
+
+  COMPATIVEL       1.00      0.50      0.67         2
+    ORIGINAL       0.83      1.00      0.91         5
+
+    accuracy                           0.86         7
+   macro avg       0.92      0.75      0.79         7
+weighted avg       0.88      0.86      0.84         7
+
+2025-09-22 23:07:05,581 - INFO - Modelo salvo em resultados/modelo_deteccao_pirataria.pkl
+2025-09-22 23:07:05,581 - INFO - Modelo treinado com acurácia: 0.857
+2025-09-22 23:07:05,582 - INFO - Iniciando scraping de novos produtos...
+2025-09-22 23:07:05,582 - INFO - Buscando: cartucho HP 667
+2025-09-22 23:07:05,582 - ERROR - Erro ao buscar 'cartucho HP 667': 'AmazonScraper' object has no attribute 'search_products'
+2025-09-22 23:07:05,582 - INFO - Buscando: cartucho HP 667XL
+2025-09-22 23:07:05,582 - ERROR - Erro ao buscar 'cartucho HP 667XL': 'AmazonScraper' object has no attribute 'search_products'
+2025-09-22 23:07:05,583 - INFO - Buscando: cartucho HP 664
+2025-09-22 23:07:05,583 - ERROR - Erro ao buscar 'cartucho HP 664': 'AmazonScraper' object has no attribute 'search_products'
+2025-09-22 23:07:05,583 - INFO - Buscando: cartucho HP 662
+2025-09-22 23:07:05,583 - ERROR - Erro ao buscar 'cartucho HP 662': 'AmazonScraper' object has no attribute 'search_products'
+2025-09-22 23:07:05,583 - INFO - Total de produtos coletados: 0
+2025-09-22 23:07:05,583 - WARNING - Nenhum produto para analisar
+2025-09-22 23:07:05,585 - WARNING - Nenhum resultado para salvar
+2025-09-22 23:07:05,585 - WARNING - Nenhum dado para gerar relatório
+2025-09-22 23:07:05,585 - ERROR - Erro durante execução do pipeline: 'risk_level'
+2025-09-22 23:07:52,605 - INFO - Configurações carregadas de config.json
+2025-09-22 23:07:52,605 - INFO - ====== WebDriver manager ======
+2025-09-22 23:07:52,995 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 23:07:53,106 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 23:07:53,183 - INFO - Driver [/Users/tiagotkg/.wdm/drivers/chromedriver/mac64/140.0.7339.185/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-22 23:07:54,494 - INFO - Driver do Chrome configurado com sucesso
+2025-09-22 23:07:54,496 - INFO - Modelo de IA não encontrado, será treinado com dados existentes
+2025-09-22 23:07:54,496 - INFO - Componentes do pipeline configurados com sucesso
+2025-09-22 23:07:54,496 - INFO - === INICIANDO PIPELINE DE DETECÇÃO DE PIRATARIA ===
+2025-09-22 23:07:54,512 - INFO - Dados existentes carregados: 33 registros
+2025-09-22 23:07:54,512 - INFO - Treinando modelo com dados existentes...
+2025-09-22 23:07:54,512 - INFO - Iniciando treinamento do modelo...
+2025-09-22 23:07:54,512 - INFO - Criando dados de treinamento...
+2025-09-22 23:07:54,735 - INFO - Acurácia do modelo: 0.857
+2025-09-22 23:07:54,741 - INFO - Relatório de classificação:
+              precision    recall  f1-score   support
+
+  COMPATIVEL       1.00      0.50      0.67         2
+    ORIGINAL       0.83      1.00      0.91         5
+
+    accuracy                           0.86         7
+   macro avg       0.92      0.75      0.79         7
+weighted avg       0.88      0.86      0.84         7
+
+2025-09-22 23:07:54,753 - INFO - Modelo salvo em resultados/modelo_deteccao_pirataria.pkl
+2025-09-22 23:07:54,754 - INFO - Modelo treinado com acurácia: 0.857
+2025-09-22 23:07:54,754 - INFO - Iniciando scraping de novos produtos...
+2025-09-22 23:07:54,754 - INFO - Buscando: cartucho HP 667
+2025-09-22 23:07:54,754 - INFO - Iniciando busca por: cartucho HP 667
+2025-09-22 23:08:01,822 - INFO - Resultados carregados com seletor: [data-asin]
+2025-09-22 23:08:01,822 - INFO - Coletando produtos da página 1
+2025-09-22 23:08:03,842 - INFO - Encontrados 58 produtos com seletor: [data-asin]
+2025-09-22 23:08:03,908 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:08:03,958 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:08:04,003 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:08:04,053 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:08:04,101 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:08:13,640 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:08:13,709 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:08:13,769 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:08:13,824 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:08:13,875 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:08:13,888 - INFO - Não há mais páginas disponíveis
+2025-09-22 23:08:13,888 - INFO - Coletados 48 produtos
+2025-09-22 23:08:13,888 - INFO - Encontrados 48 produtos para 'cartucho HP 667'
+2025-09-22 23:08:13,889 - INFO - Buscando: cartucho HP 667XL
+2025-09-22 23:08:13,889 - INFO - Iniciando busca por: cartucho HP 667XL
+2025-09-22 23:08:20,470 - INFO - Resultados carregados com seletor: [data-asin]
+2025-09-22 23:08:20,471 - INFO - Coletando produtos da página 1
+2025-09-22 23:08:22,492 - INFO - Encontrados 58 produtos com seletor: [data-asin]
+2025-09-22 23:08:22,542 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:08:22,590 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:08:22,633 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:08:22,688 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:08:22,754 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:08:32,074 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:08:32,134 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:08:32,190 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:08:32,250 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:08:32,302 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:08:32,311 - INFO - Não há mais páginas disponíveis
+2025-09-22 23:08:32,311 - INFO - Coletados 48 produtos
+2025-09-22 23:08:32,311 - INFO - Encontrados 48 produtos para 'cartucho HP 667XL'
+2025-09-22 23:08:32,311 - INFO - Buscando: cartucho HP 664
+2025-09-22 23:08:32,311 - INFO - Iniciando busca por: cartucho HP 664
+2025-09-22 23:08:37,524 - INFO - Resultados carregados com seletor: [data-asin]
+2025-09-22 23:08:37,525 - INFO - Coletando produtos da página 1
+2025-09-22 23:08:39,547 - INFO - Encontrados 58 produtos com seletor: [data-asin]
+2025-09-22 23:08:39,604 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:08:39,660 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:08:39,718 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:08:39,787 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:08:39,842 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:08:48,805 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:08:48,862 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:08:48,919 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:08:48,971 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:08:49,025 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:08:49,035 - INFO - Não há mais páginas disponíveis
+2025-09-22 23:08:49,035 - INFO - Coletados 48 produtos
+2025-09-22 23:08:49,035 - INFO - Encontrados 48 produtos para 'cartucho HP 664'
+2025-09-22 23:08:49,035 - INFO - Buscando: cartucho HP 662
+2025-09-22 23:08:49,036 - INFO - Iniciando busca por: cartucho HP 662
+2025-09-22 23:08:54,253 - INFO - Resultados carregados com seletor: [data-asin]
+2025-09-22 23:08:54,255 - INFO - Coletando produtos da página 1
+2025-09-22 23:08:56,275 - INFO - Encontrados 67 produtos com seletor: [data-asin]
+2025-09-22 23:08:56,328 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:08:56,381 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:08:56,431 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:08:56,489 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:08:56,546 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:09:08,349 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:09:08,414 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:09:08,476 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:09:08,542 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:09:08,598 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:09:08,608 - INFO - Não há mais páginas disponíveis
+2025-09-22 23:09:08,608 - INFO - Coletados 57 produtos
+2025-09-22 23:09:08,608 - INFO - Encontrados 57 produtos para 'cartucho HP 662'
+2025-09-22 23:09:08,609 - INFO - Total de produtos coletados: 201
+2025-09-22 23:09:08,609 - INFO - Analisando produtos com IA...
+2025-09-22 23:09:08,612 - ERROR - Erro durante execução do pipeline: 'PiracyDetectionClassifier' object has no attribute 'predict'
+2025-09-22 23:09:48,018 - INFO - Configurações carregadas de config.json
+2025-09-22 23:09:48,019 - INFO - ====== WebDriver manager ======
+2025-09-22 23:09:48,382 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 23:09:48,494 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 23:09:48,572 - INFO - Driver [/Users/tiagotkg/.wdm/drivers/chromedriver/mac64/140.0.7339.185/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-22 23:09:49,900 - INFO - Driver do Chrome configurado com sucesso
+2025-09-22 23:09:49,906 - INFO - Modelo de IA não encontrado, será treinado com dados existentes
+2025-09-22 23:09:49,906 - INFO - Componentes do pipeline configurados com sucesso
+2025-09-22 23:09:49,906 - INFO - === INICIANDO PIPELINE DE DETECÇÃO DE PIRATARIA ===
+2025-09-22 23:09:49,922 - INFO - Dados existentes carregados: 33 registros
+2025-09-22 23:09:49,922 - INFO - Treinando modelo com dados existentes...
+2025-09-22 23:09:49,922 - INFO - Iniciando treinamento do modelo...
+2025-09-22 23:09:49,923 - INFO - Criando dados de treinamento...
+2025-09-22 23:09:50,146 - INFO - Acurácia do modelo: 0.857
+2025-09-22 23:09:50,155 - INFO - Relatório de classificação:
+              precision    recall  f1-score   support
+
+  COMPATIVEL       1.00      0.50      0.67         2
+    ORIGINAL       0.83      1.00      0.91         5
+
+    accuracy                           0.86         7
+   macro avg       0.92      0.75      0.79         7
+weighted avg       0.88      0.86      0.84         7
+
+2025-09-22 23:09:50,162 - INFO - Modelo salvo em resultados/modelo_deteccao_pirataria.pkl
+2025-09-22 23:09:50,162 - INFO - Modelo treinado com acurácia: 0.857
+2025-09-22 23:09:50,162 - INFO - Iniciando scraping de novos produtos...
+2025-09-22 23:09:50,162 - INFO - Buscando: cartucho HP 667
+2025-09-22 23:09:50,162 - INFO - Iniciando busca por: cartucho HP 667
+2025-09-22 23:10:03,717 - ERROR - Erro durante a busca: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000103003418 cxxbridge1$str$ptr + 2882044
+1   chromedriver                        0x0000000102ffb3b4 cxxbridge1$str$ptr + 2849176
+2   chromedriver                        0x0000000102b25050 _RNvCslE4myv9Sbr3_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 73436
+3   chromedriver                        0x0000000102b6c410 _RNvCslE4myv9Sbr3_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 365212
+4   chromedriver                        0x0000000102bad604 _RNvCslE4myv9Sbr3_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 631952
+5   chromedriver                        0x0000000102b600d0 _RNvCslE4myv9Sbr3_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 315228
+6   chromedriver                        0x0000000102fc7b08 cxxbridge1$str$ptr + 2638060
+7   chromedriver                        0x0000000102fcad20 cxxbridge1$str$ptr + 2650884
+8   chromedriver                        0x0000000102fa8e58 cxxbridge1$str$ptr + 2511932
+9   chromedriver                        0x0000000102fcb5cc cxxbridge1$str$ptr + 2653104
+10  chromedriver                        0x0000000102f9a59c cxxbridge1$str$ptr + 2452352
+11  chromedriver                        0x0000000102fea9f0 cxxbridge1$str$ptr + 2781140
+12  chromedriver                        0x0000000102feab70 cxxbridge1$str$ptr + 2781524
+13  chromedriver                        0x0000000102ffb000 cxxbridge1$str$ptr + 2848228
+14  libsystem_pthread.dylib             0x00000001934f7c0c _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001934f2b80 thread_start + 8
+
+2025-09-22 23:10:03,717 - INFO - Encontrados 0 produtos para 'cartucho HP 667'
+2025-09-22 23:10:03,717 - INFO - Buscando: cartucho HP 667XL
+2025-09-22 23:10:03,717 - INFO - Iniciando busca por: cartucho HP 667XL
+2025-09-22 23:10:11,004 - INFO - Resultados carregados com seletor: [data-asin]
+2025-09-22 23:10:11,004 - INFO - Coletando produtos da página 1
+2025-09-22 23:10:13,029 - INFO - Encontrados 58 produtos com seletor: [data-asin]
+2025-09-22 23:10:13,100 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:10:13,154 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:10:13,210 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:10:13,476 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:10:13,542 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:10:23,340 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:10:23,419 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:10:23,490 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:10:23,559 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:10:23,635 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:10:23,653 - INFO - Não há mais páginas disponíveis
+2025-09-22 23:10:23,654 - INFO - Coletados 48 produtos
+2025-09-22 23:10:23,654 - INFO - Encontrados 48 produtos para 'cartucho HP 667XL'
+2025-09-22 23:10:23,655 - INFO - Buscando: cartucho HP 664
+2025-09-22 23:10:23,655 - INFO - Iniciando busca por: cartucho HP 664
+2025-09-22 23:10:30,568 - INFO - Resultados carregados com seletor: [data-asin]
+2025-09-22 23:10:30,569 - INFO - Coletando produtos da página 1
+2025-09-22 23:10:32,592 - INFO - Encontrados 58 produtos com seletor: [data-asin]
+2025-09-22 23:10:32,652 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:10:32,719 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:10:32,783 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:10:32,843 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:10:32,906 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:10:44,977 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:10:45,042 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:10:45,109 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:10:45,177 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:10:45,248 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:10:45,260 - INFO - Não há mais páginas disponíveis
+2025-09-22 23:10:45,260 - INFO - Coletados 48 produtos
+2025-09-22 23:10:45,260 - INFO - Encontrados 48 produtos para 'cartucho HP 664'
+2025-09-22 23:10:45,261 - INFO - Buscando: cartucho HP 662
+2025-09-22 23:10:45,261 - INFO - Iniciando busca por: cartucho HP 662
+2025-09-22 23:10:52,046 - INFO - Resultados carregados com seletor: [data-asin]
+2025-09-22 23:10:52,046 - INFO - Coletando produtos da página 1
+2025-09-22 23:10:54,121 - INFO - Encontrados 58 produtos com seletor: [data-asin]
+2025-09-22 23:10:54,226 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:10:54,289 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:10:54,353 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:10:54,412 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:10:54,480 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:11:07,039 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:11:07,107 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:11:07,172 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:11:07,235 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:11:07,303 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:11:07,315 - INFO - Não há mais páginas disponíveis
+2025-09-22 23:11:07,315 - INFO - Coletados 48 produtos
+2025-09-22 23:11:07,315 - INFO - Encontrados 48 produtos para 'cartucho HP 662'
+2025-09-22 23:11:07,316 - INFO - Total de produtos coletados: 144
+2025-09-22 23:11:07,316 - INFO - Analisando produtos com IA...
+2025-09-22 23:11:07,318 - INFO - Fazendo predições...
+2025-09-22 23:11:07,378 - INFO - Analisando níveis de risco...
+2025-09-22 23:11:07,379 - INFO - Analisando níveis de risco...
+2025-09-22 23:11:07,404 - INFO - Resultados salvos em resultados/resultados_deteccao_pirataria.csv
+2025-09-22 23:11:07,409 - INFO - Estatísticas:
+2025-09-22 23:11:07,410 - INFO -   Total de produtos: 144
+2025-09-22 23:11:07,410 - INFO -   Produtos suspeitos: 1
+2025-09-22 23:11:07,410 - INFO -   Produtos de alto risco: 4
+2025-09-22 23:11:07,410 - INFO - Gerando relatório HTML...
+2025-09-22 23:11:07,434 - INFO - Relatório salvo em resultados/relatorio_pirataria.html
+2025-09-22 23:11:07,436 - WARNING - ALERTA: 4 produtos de alto risco detectados!
+2025-09-22 23:11:07,437 - WARNING - PRODUTO SUSPEITO: Tinta 100ml Black Compativel Impressora Cartucho 667xl - R$ 17.0
+2025-09-22 23:11:07,437 - WARNING - PRODUTO SUSPEITO: Cartucho de tinta Tyjtyrjty 2X preto compatível com cartucho 664 XL para HP DeskJet 1115, 2135, 3635, 1118, 2138, 3636, 3638, 4536, 4676 e 4675 - R$ 249.0
+2025-09-22 23:11:07,438 - WARNING - PRODUTO SUSPEITO: Tinta Recarga Preta 500ml Compatível 662 664 122 60 74 - R$ 27.0
+2025-09-22 23:11:07,438 - WARNING - PRODUTO SUSPEITO: Kit Snap Fill + Seringa para Recarga de Cartuchos, Compatível com Modelos 60, 61, 662, 664, 667, 74, 75, 21, 22, 92, 93 - R$ 28.0
+2025-09-22 23:11:07,438 - INFO - === PIPELINE CONCLUÍDO COM SUCESSO ===
+2025-09-22 23:14:23,973 - INFO - Configurações carregadas de config.json
+2025-09-22 23:14:23,973 - INFO - ====== WebDriver manager ======
+2025-09-22 23:14:24,143 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 23:14:24,205 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 23:14:24,257 - INFO - Driver [/Users/tiagotkg/.wdm/drivers/chromedriver/mac64/140.0.7339.185/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-22 23:14:24,976 - INFO - Driver do Chrome configurado com sucesso
+2025-09-22 23:14:24,977 - INFO - Modelo de IA não encontrado, será treinado com dados existentes
+2025-09-22 23:14:24,977 - INFO - Componentes do pipeline configurados com sucesso
+2025-09-22 23:14:24,977 - INFO - === INICIANDO PIPELINE DE DETECÇÃO DE PIRATARIA ===
+2025-09-22 23:14:24,982 - INFO - Dados existentes carregados: 33 registros
+2025-09-22 23:14:24,982 - INFO - Treinando modelo com dados existentes...
+2025-09-22 23:14:24,982 - INFO - Iniciando treinamento do modelo...
+2025-09-22 23:14:24,982 - INFO - Criando dados de treinamento...
+2025-09-22 23:14:25,065 - INFO - Acurácia do modelo: 0.857
+2025-09-22 23:14:25,068 - INFO - Relatório de classificação:
+              precision    recall  f1-score   support
+
+  COMPATIVEL       1.00      0.50      0.67         2
+    ORIGINAL       0.83      1.00      0.91         5
+
+    accuracy                           0.86         7
+   macro avg       0.92      0.75      0.79         7
+weighted avg       0.88      0.86      0.84         7
+
+2025-09-22 23:14:25,070 - INFO - Modelo salvo em resultados/modelo_deteccao_pirataria.pkl
+2025-09-22 23:14:25,070 - INFO - Modelo treinado com acurácia: 0.857
+2025-09-22 23:14:25,070 - INFO - Iniciando scraping de novos produtos...
+2025-09-22 23:14:25,070 - INFO - Buscando: cartucho HP 667
+2025-09-22 23:14:25,070 - INFO - Iniciando busca por: cartucho HP 667
+2025-09-22 23:14:30,257 - INFO - Resultados carregados com seletor: [data-asin]
+2025-09-22 23:14:30,257 - INFO - Coletando produtos da página 1
+2025-09-22 23:14:32,282 - INFO - Encontrados 58 produtos com seletor: [data-asin]
+2025-09-22 23:14:32,326 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:14:32,353 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:14:32,377 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:14:32,401 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:14:32,425 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:14:35,912 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:14:35,935 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:14:35,959 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:14:35,986 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:14:36,055 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:14:36,115 - INFO - Não há mais páginas disponíveis
+2025-09-22 23:14:36,115 - INFO - Coletados 48 produtos
+2025-09-22 23:14:36,115 - INFO - Encontrados 48 produtos para 'cartucho HP 667'
+2025-09-22 23:14:36,115 - INFO - Buscando: cartucho HP 667XL
+2025-09-22 23:14:36,115 - INFO - Iniciando busca por: cartucho HP 667XL
+2025-09-22 23:14:40,767 - INFO - Resultados carregados com seletor: [data-asin]
+2025-09-22 23:14:40,768 - INFO - Coletando produtos da página 1
+2025-09-22 23:14:42,792 - INFO - Encontrados 58 produtos com seletor: [data-asin]
+2025-09-22 23:14:42,822 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:14:42,847 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:14:42,871 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:14:42,895 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:14:42,918 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:14:46,315 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:14:46,339 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:14:46,361 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:14:46,385 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:14:46,408 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:14:46,413 - INFO - Não há mais páginas disponíveis
+2025-09-22 23:14:46,413 - INFO - Coletados 48 produtos
+2025-09-22 23:14:46,413 - INFO - Encontrados 48 produtos para 'cartucho HP 667XL'
+2025-09-22 23:14:46,413 - INFO - Buscando: cartucho HP 664
+2025-09-22 23:14:46,413 - INFO - Iniciando busca por: cartucho HP 664
+2025-09-22 23:14:51,158 - INFO - Resultados carregados com seletor: [data-asin]
+2025-09-22 23:14:51,158 - INFO - Coletando produtos da página 1
+2025-09-22 23:14:53,180 - INFO - Encontrados 62 produtos com seletor: [data-asin]
+2025-09-22 23:14:53,213 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:14:53,239 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:14:53,263 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:14:53,286 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:14:53,310 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:14:56,992 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:14:57,016 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:14:57,041 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:14:57,065 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:14:57,089 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:14:57,092 - INFO - Não há mais páginas disponíveis
+2025-09-22 23:14:57,092 - INFO - Coletados 52 produtos
+2025-09-22 23:14:57,092 - INFO - Encontrados 52 produtos para 'cartucho HP 664'
+2025-09-22 23:14:57,092 - INFO - Buscando: cartucho HP 662
+2025-09-22 23:14:57,093 - INFO - Iniciando busca por: cartucho HP 662
+2025-09-22 23:15:01,772 - INFO - Resultados carregados com seletor: [data-asin]
+2025-09-22 23:15:01,773 - INFO - Coletando produtos da página 1
+2025-09-22 23:15:03,795 - INFO - Encontrados 58 produtos com seletor: [data-asin]
+2025-09-22 23:15:03,828 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:15:03,855 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:15:03,879 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:15:03,902 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:15:03,924 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:15:07,493 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:15:07,516 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:15:07,540 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:15:07,563 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:15:07,586 - WARNING - Não foi possível extrair o título do produto
+2025-09-22 23:15:07,590 - INFO - Não há mais páginas disponíveis
+2025-09-22 23:15:07,590 - INFO - Coletados 48 produtos
+2025-09-22 23:15:07,590 - INFO - Encontrados 48 produtos para 'cartucho HP 662'
+2025-09-22 23:15:07,590 - INFO - Total de produtos coletados: 196
+2025-09-22 23:15:07,590 - INFO - Analisando produtos com IA...
+2025-09-22 23:15:07,590 - INFO - Fazendo predições...
+2025-09-22 23:15:07,604 - INFO - Analisando níveis de risco...
+2025-09-22 23:15:07,604 - INFO - Analisando níveis de risco...
+2025-09-22 23:15:07,610 - INFO - Resultados salvos em resultados/resultados_deteccao_pirataria.csv
+2025-09-22 23:15:07,611 - INFO - Estatísticas:
+2025-09-22 23:15:07,611 - INFO -   Total de produtos: 196
+2025-09-22 23:15:07,611 - INFO -   Produtos suspeitos: 1
+2025-09-22 23:15:07,611 - INFO -   Produtos de alto risco: 5
+2025-09-22 23:15:07,611 - INFO - Gerando relatório HTML...
+2025-09-22 23:15:07,616 - INFO - Relatório salvo em resultados/relatorio_pirataria.html
+2025-09-22 23:15:07,617 - WARNING - ALERTA: 5 produtos de alto risco detectados!
+2025-09-22 23:15:07,617 - WARNING - PRODUTO SUSPEITO: Tinta 100ml Black Compativel Impressora Cartucho 667xl - R$ 17.0
+2025-09-22 23:15:07,617 - WARNING - PRODUTO SUSPEITO: Tinta 100ml Black Compativel Impressora Cartucho 667xl - R$ 17.0
+2025-09-22 23:15:07,617 - WARNING - PRODUTO SUSPEITO: Cartucho de tinta Tyjtyrjty 2X preto compatível com cartucho 664 XL para HP DeskJet 1115, 2135, 3635, 1118, 2138, 3636, 3638, 4536, 4676 e 4675 - R$ 249.0
+2025-09-22 23:15:07,617 - WARNING - PRODUTO SUSPEITO: Tinta Recarga Preta 500ml Compatível 662 664 122 60 74 - R$ 27.0
+2025-09-22 23:15:07,617 - WARNING - PRODUTO SUSPEITO: Kit Snap Fill + Seringa para Recarga de Cartuchos, Compatível com Modelos 60, 61, 662, 664, 667, 74, 75, 21, 22, 92, 93 - R$ 28.0
+2025-09-22 23:15:07,617 - INFO - === PIPELINE CONCLUÍDO COM SUCESSO ===
+2025-09-22 23:15:07,785 - INFO - Driver fechado
+2025-09-22 23:15:07,785 - INFO - Recursos limpos
+2025-09-22 23:42:56,964 - INFO - Configurações carregadas de config.json
+2025-09-22 23:42:56,964 - INFO - ====== WebDriver manager ======
+2025-09-22 23:42:57,118 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 23:42:57,516 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-22 23:42:57,829 - INFO - Driver [/Users/tiagotkg/.wdm/drivers/chromedriver/mac64/140.0.7339.185/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-22 23:42:58,492 - INFO - Driver do Chrome configurado com sucesso
+2025-09-22 23:42:58,498 - INFO - Modelo carregado de resultados/modelo_deteccao_pirataria.pkl
+2025-09-22 23:42:58,498 - INFO - Modelo de IA carregado com sucesso
+2025-09-22 23:42:58,498 - INFO - Componentes do pipeline configurados com sucesso
+2025-09-22 23:42:58,499 - INFO - === INICIANDO PIPELINE DE DETECÇÃO DE PIRATARIA ===
+2025-09-22 23:42:58,510 - INFO - Dados existentes carregados: 33 registros
+2025-09-22 23:42:58,510 - INFO - Iniciando scraping de novos produtos...
+2025-09-22 23:42:58,511 - INFO - Buscando: cartucho HP 667
+2025-09-22 23:42:58,511 - INFO - Iniciando busca por: cartucho HP 667
+2025-09-22 23:43:03,385 - INFO - Resultados carregados com seletor: [data-asin]
+2025-09-22 23:43:03,386 - INFO - Coletando produtos da página 1
+2025-09-22 23:43:05,416 - INFO - Encontrados 64 produtos com seletor: [data-asin]
+2025-09-22 23:43:11,975 - INFO - Não há mais páginas disponíveis
+2025-09-22 23:43:11,976 - INFO - Coletados 64 produtos
+2025-09-22 23:43:11,976 - INFO - Encontrados 64 produtos para 'cartucho HP 667'
+2025-09-22 23:43:11,976 - INFO - Buscando: cartucho HP 667XL
+2025-09-22 23:43:11,976 - INFO - Iniciando busca por: cartucho HP 667XL
+2025-09-22 23:43:16,212 - INFO - Resultados carregados com seletor: [data-asin]
+2025-09-22 23:43:16,213 - INFO - Coletando produtos da página 1
+2025-09-22 23:43:18,234 - INFO - Encontrados 58 produtos com seletor: [data-asin]
+2025-09-22 23:43:23,819 - INFO - Não há mais páginas disponíveis
+2025-09-22 23:43:23,819 - INFO - Coletados 58 produtos
+2025-09-22 23:43:23,819 - INFO - Encontrados 58 produtos para 'cartucho HP 667XL'
+2025-09-22 23:43:23,819 - INFO - Buscando: cartucho HP 664
+2025-09-22 23:43:23,819 - INFO - Iniciando busca por: cartucho HP 664
+2025-09-22 23:43:28,278 - INFO - Resultados carregados com seletor: [data-asin]
+2025-09-22 23:43:28,278 - INFO - Coletando produtos da página 1
+2025-09-22 23:43:30,301 - INFO - Encontrados 58 produtos com seletor: [data-asin]
+2025-09-22 23:43:36,191 - INFO - Não há mais páginas disponíveis
+2025-09-22 23:43:36,191 - INFO - Coletados 58 produtos
+2025-09-22 23:43:36,191 - INFO - Encontrados 58 produtos para 'cartucho HP 664'
+2025-09-22 23:43:36,191 - INFO - Buscando: cartucho HP 662
+2025-09-22 23:43:36,191 - INFO - Iniciando busca por: cartucho HP 662
+2025-09-22 23:43:40,595 - INFO - Resultados carregados com seletor: [data-asin]
+2025-09-22 23:43:40,595 - INFO - Coletando produtos da página 1
+2025-09-22 23:43:42,620 - INFO - Encontrados 58 produtos com seletor: [data-asin]
+2025-09-22 23:43:48,684 - INFO - Não há mais páginas disponíveis
+2025-09-22 23:43:48,684 - INFO - Coletados 58 produtos
+2025-09-22 23:43:48,684 - INFO - Encontrados 58 produtos para 'cartucho HP 662'
+2025-09-22 23:43:48,684 - INFO - Total de produtos coletados: 238
+2025-09-22 23:43:48,684 - INFO - Analisando produtos com IA...
+2025-09-22 23:43:48,686 - INFO - Fazendo predições...
+2025-09-22 23:43:48,707 - INFO - Analisando níveis de risco...
+2025-09-22 23:43:48,707 - INFO - Analisando níveis de risco...
+2025-09-22 23:43:48,713 - INFO - Resultados salvos em resultados/resultados_deteccao_pirataria.csv
+2025-09-22 23:43:48,715 - INFO - Estatísticas:
+2025-09-22 23:43:48,715 - INFO -   Total de produtos: 238
+2025-09-22 23:43:48,715 - INFO -   Produtos suspeitos: 1
+2025-09-22 23:43:48,715 - INFO -   Produtos de alto risco: 7
+2025-09-22 23:43:48,715 - INFO - Gerando relatório HTML...
+2025-09-22 23:43:48,722 - INFO - Relatório salvo em resultados/relatorio_pirataria.html
+2025-09-22 23:43:48,723 - WARNING - ALERTA: 7 produtos de alto risco detectados!
+2025-09-22 23:43:48,723 - WARNING - PRODUTO SUSPEITO: Tinta 100ml Black Compativel Impressora Cartucho 667xl - R$ 17.0
+2025-09-22 23:43:48,723 - WARNING - PRODUTO SUSPEITO: Tinta 100ml Black Compativel Impressora Cartucho 667xl - R$ 17.0
+2025-09-22 23:43:48,723 - WARNING - PRODUTO SUSPEITO: Tinta 100ml Black Compativel Impressora Cartucho 667xl - R$ 17.0
+2025-09-22 23:43:48,723 - WARNING - PRODUTO SUSPEITO: Cartucho de tinta Tyjtyrjty 2X preto compatível com cartucho 664 XL para HP DeskJet 1115, 2135, 3635, 1118, 2138, 3636, 3638, 4536, 4676 e 4675 - R$ 249.0
+2025-09-22 23:43:48,723 - WARNING - PRODUTO SUSPEITO: Cartucho de tinta de substituição 664XL para HP 664 664XL preto e colorido para DeskJet Ink Advantage 2135 1115 2675 3635 3775 Tinta (1 preta/1 cor, 2 unidades) - R$ 28.647
+2025-09-22 23:43:48,723 - WARNING - PRODUTO SUSPEITO: Tinta Recarga Preta 500ml Compatível 662 664 122 60 74 - R$ 27.0
+2025-09-22 23:43:48,723 - WARNING - PRODUTO SUSPEITO: Kit Snap Fill + Seringa para Recarga de Cartuchos, Compatível com Modelos 60, 61, 662, 664, 667, 74, 75, 21, 22, 92, 93 - R$ 28.0
+2025-09-22 23:43:48,723 - INFO - === PIPELINE CONCLUÍDO COM SUCESSO ===
+2025-09-22 23:43:48,890 - INFO - Driver fechado
+2025-09-22 23:43:48,890 - INFO - Recursos limpos
