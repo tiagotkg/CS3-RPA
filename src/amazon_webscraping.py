@@ -133,6 +133,29 @@ class AmazonScraper:
                 
                 for element in product_elements:
                     try:
+                        # Filtrar banners/cabeçalhos/itens sem ASIN
+                        try:
+                            asin_value = element.get_attribute("data-asin")
+                        except Exception:
+                            asin_value = None
+                        if asin_value is not None and asin_value.strip() == "":
+                            if self.debug:
+                                self.logger.info("Elemento sem ASIN (provável banner/cabeçalho) ignorado")
+                            continue
+                        
+                        # Filtrar blocos claramente não-produto (ex.: Patrocinado/cabeçalhos)
+                        try:
+                            element_text_head = (element.text or "").strip().lower()[:60]
+                        except Exception:
+                            element_text_head = ""
+                        if any(flag in element_text_head for flag in [
+                            "patrocinado", "pesquisas relacionadas", "impressoras e acessórios",
+                            "anterior", "próximo", "resultados", "escolha da amazon"
+                        ]):
+                            if self.debug:
+                                self.logger.info(f"Bloco não-produto ignorado: {element_text_head}")
+                            continue
+                        
                         product_data = self.extrair_dados_produto(element)
                         if product_data:
                             products.append(product_data)
@@ -165,6 +188,16 @@ class AmazonScraper:
         Extrai dados de um produto específico
         """
         try:
+            # Validar ASIN do elemento (evita pegar banners/paginação)
+            try:
+                asin_value = element.get_attribute("data-asin")
+            except Exception:
+                asin_value = None
+            if not asin_value or not re.match(r"^[A-Z0-9]{10}$", asin_value.strip(), re.IGNORECASE):
+                if self.debug:
+                    self.logger.info(f"Ignorado por ASIN inválido: '{asin_value}'")
+                return None
+            
             # Título do produto - tentar múltiplos seletores
             title = None
             title_selectors = [
@@ -236,6 +269,12 @@ class AmazonScraper:
                         pass
                 title = "Título não disponível"
             
+            # Validar se é um produto real (não um texto genérico da Amazon)
+            if not self.is_valid_product(title):
+                if self.debug:
+                    self.logger.info(f"Produto inválido filtrado: {title}")
+                return None
+            
             # URL do produto - tentar múltiplos seletores
             url = None
             url_selectors = [
@@ -266,15 +305,6 @@ class AmazonScraper:
                 ".a-price-range .a-price-whole",
                 ".a-price .a-price-symbol + .a-price-whole",
                 ".a-price .a-price-symbol + .a-price-fraction",
-                ".a-price .a-price-whole + .a-price-fraction",
-                ".a-price .a-price-symbol + .a-price-whole + .a-price-fraction",
-                ".a-price .a-price-whole",
-                ".a-price .a-price-fraction",
-                ".a-price .a-price-symbol",
-                ".a-price .a-price-whole + .a-price-fraction",
-                ".a-price .a-price-symbol + .a-price-whole + .a-price-fraction",
-                ".a-price .a-price-whole + .a-price-fraction",
-                ".a-price .a-price-symbol + .a-price-whole + .a-price-fraction",
                 ".a-price .a-price-whole + .a-price-fraction",
                 ".a-price .a-price-symbol + .a-price-whole + .a-price-fraction"
             ]
@@ -351,27 +381,8 @@ class AmazonScraper:
                 except (NoSuchElementException, ValueError):
                     continue
             
-            # Vendedor - tentar múltiplos seletores
-            seller = None
-            seller_selectors = [
-                ".a-size-small .a-link-normal",
-                ".a-size-small",
-                "[data-cy='seller-name']",
-                ".a-color-secondary .a-size-small"
-            ]
-            
-            for selector in seller_selectors:
-                try:
-                    seller_element = element.find_element(By.CSS_SELECTOR, selector)
-                    seller = seller_element.text.strip()
-                    if seller and seller not in ["", "Amazon.com.br"]:
-                        break
-                except NoSuchElementException:
-                    continue
-            
-            # Verificar se é produto da Amazon
-            if not seller:
-                seller = "Amazon.com.br"
+            # Vendedor - extrair nome correto do vendedor
+            seller = self.extract_seller_name(element)
             
             # Determinar se é produto original ou suspeito baseado em palavras-chave
             is_suspicious = self.analyze_product_suspicion(title, seller)
@@ -395,6 +406,260 @@ class AmazonScraper:
             self.logger.warning(f"Erro ao extrair dados do produto: {e}")
             return None
     
+    def extract_seller_name(self, element):
+        """
+        Extrai o nome do vendedor de um elemento de produto
+        """
+        # Primeiro, tentar extrair o vendedor da página de resultados
+        seller = self.extract_seller_from_search_results(element)
+        if seller and seller != "Não identificado":
+            return seller
+        
+        # Se não encontrou na página de resultados, tentar acessar a página do produto
+        return self.extract_seller_from_product_page(element)
+    
+    def extract_seller_from_search_results(self, element):
+        """
+        Extrai o nome do vendedor da página de resultados de busca
+        """
+        seller_selectors = [
+            # Seletores para links de vendedor
+            "a[href*='seller']",
+            "a[href*='merchant']", 
+            "a[href*='storefront']",
+            # Seletores por atributos data
+            "[data-cy='seller-name']",
+            "[data-asin] a[href*='seller']",
+            # Tag específica para informações de vendedor
+            "a[data-csa-c-content-id='odf-desktop-merchant-info']",
+            "a[data-csa-c-slot-id='odf-desktop-merchant-info-anchor-text']",
+            ".offer-display-feature-text-message",
+            "span.offer-display-feature-text-message",
+            # Seletores por classes específicas
+            ".a-size-small .a-link-normal[href*='seller']",
+            ".a-size-small .a-link-normal[href*='merchant']",
+            ".a-size-small .a-link-normal[href*='storefront']",
+            ".a-color-secondary .a-size-small .a-link-normal",
+            ".a-color-secondary .a-size-small",
+            ".a-size-small .a-link-normal",
+            ".a-size-small",
+            # Seletores alternativos
+            ".a-link-normal[href*='seller']",
+            ".a-link-normal[href*='merchant']",
+            ".a-link-normal[href*='storefront']"
+        ]
+        
+        for selector in seller_selectors:
+            try:
+                seller_elements = element.find_elements(By.CSS_SELECTOR, selector)
+                if self.debug:
+                    self.logger.info(f"Seletor '{selector}' encontrou {len(seller_elements)} elementos")
+                
+                for seller_element in seller_elements:
+                    # Para o seletor específico da Amazon, procurar pelo texto do vendedor
+                    if "desktop-merchant-info" in selector:
+                        # Procurar pelo texto do vendedor após "Enviado / Vendido"
+                        try:
+                            # Procurar pelo próximo elemento que contenha o nome do vendedor
+                            parent = seller_element.find_element(By.XPATH, "./..")
+                            all_text = parent.text
+                            
+                            if self.debug:
+                                self.logger.info(f"Texto do elemento desktop-merchant-info: {all_text}")
+                            
+                            # Procurar por padrões como "Enviado por X / Vendido por Y"
+                            import re
+                            patterns = [
+                                r'Enviado\s+por\s+([^/]+)\s*/\s*Vendido\s+por\s+([^\n\r]+)',
+                                r'Vendido\s+por\s+([^\n\r]+)',
+                                r'Enviado\s+por\s+([^\n\r]+)'
+                            ]
+                            
+                            for pattern in patterns:
+                                match = re.search(pattern, all_text, re.IGNORECASE)
+                                if match:
+                                    if len(match.groups()) == 2:
+                                        # "Enviado por X / Vendido por Y" - pegar o vendedor
+                                        seller_name = match.group(2).strip()
+                                    else:
+                                        # "Vendido por X" ou "Enviado por X"
+                                        seller_name = match.group(1).strip()
+                                    
+                                    if self.is_valid_seller_name(seller_name):
+                                        if self.debug:
+                                            self.logger.info(f"Vendedor extraído via desktop-merchant-info: {seller_name}")
+                                        return seller_name
+                        except Exception as e:
+                            if self.debug:
+                                self.logger.warning(f"Erro ao processar desktop-merchant-info: {e}")
+                            continue
+                    else:
+                        # Para outros seletores, usar a lógica original
+                        seller_text = seller_element.text.strip()
+                        if self.debug:
+                            self.logger.info(f"Texto encontrado: '{seller_text}'")
+                        
+                        # Validar se é um nome de vendedor válido
+                        if self.is_valid_seller_name(seller_text):
+                            if self.debug:
+                                self.logger.info(f"Vendedor extraído com seletor '{selector}': {seller_text}")
+                            return seller_text
+                        
+            except NoSuchElementException:
+                continue
+        
+        # Procurar por texto "Vendido por" ou "Enviado por" no elemento
+        try:
+            element_text = element.text
+            if self.debug:
+                self.logger.info(f"Texto do elemento: {element_text[:500]}...")
+            
+            # Procurar por padrões específicos da Amazon
+            import re
+            
+            # Padrão: "Vendido por [Nome do Vendedor]"
+            vendido_por_match = re.search(r'Vendido por\s+([^\n\r]+)', element_text, re.IGNORECASE)
+            if vendido_por_match:
+                seller_name = vendido_por_match.group(1).strip()
+                if self.is_valid_seller_name(seller_name):
+                    if self.debug:
+                        self.logger.info(f"Vendedor encontrado via 'Vendido por': {seller_name}")
+                    return seller_name
+            
+            # Padrão: "Enviado por [Nome] / Vendido por [Nome]"
+            enviado_vendido_match = re.search(r'Enviado por\s+([^/]+)\s*/\s*Vendido por\s+([^\n\r]+)', element_text, re.IGNORECASE)
+            if enviado_vendido_match:
+                seller_name = enviado_vendido_match.group(2).strip()
+                if self.is_valid_seller_name(seller_name):
+                    if self.debug:
+                        self.logger.info(f"Vendedor encontrado via 'Enviado/Vendido por': {seller_name}")
+                    return seller_name
+            
+            # Procurar por indicadores de que é vendido pela Amazon
+            amazon_indicators = [
+                "Vendido por Amazon.com.br",
+                "Vendido por Amazon"
+            ]
+            
+            for indicator in amazon_indicators:
+                if indicator in element_text:
+                    return "Amazon.com.br"
+                    
+        except Exception as e:
+            if self.debug:
+                self.logger.warning(f"Erro ao processar texto do elemento: {e}")
+            pass
+        
+        # Fallback: tentar extrair qualquer texto que possa ser vendedor
+        try:
+            # Procurar por qualquer texto que possa ser nome de vendedor
+            element_text = element.text
+            if self.debug:
+                self.logger.info(f"Fallback - Texto completo: {element_text[:500]}...")
+            
+            # Procurar por padrões mais genéricos
+            import re
+            
+            # Procurar por qualquer texto após "por" ou "by"
+            generic_patterns = [
+                r'Vendido\s+por\s+([A-Za-z][A-Za-z0-9\s\.\-]+)',
+                r'Sold\s+by\s+([A-Za-z][A-Za-z0-9\s\.\-]+)',
+                r'por\s+([A-Za-z][A-Za-z0-9\s\.\-]+)',
+                r'by\s+([A-Za-z][A-Za-z0-9\s\.\-]+)',
+                r'Enviado\s+por\s+([A-Za-z][A-Za-z0-9\s\.\-]+)',
+                r'Shipped\s+by\s+([A-Za-z][A-Za-z0-9\s\.\-]+)'
+            ]
+            
+            for pattern in generic_patterns:
+                match = re.search(pattern, element_text, re.IGNORECASE)
+                if match:
+                    potential_seller = match.group(1).strip()
+                    # Limpar o texto extraído
+                    potential_seller = re.sub(r'\s+', ' ', potential_seller)  # Múltiplos espaços
+                    potential_seller = potential_seller.strip()
+                    
+                    if self.is_valid_seller_name(potential_seller):
+                        if self.debug:
+                            self.logger.info(f"Vendedor encontrado via fallback: {potential_seller}")
+                        return potential_seller
+            
+            # Tentar extrair apenas vendedores específicos conhecidos
+            known_sellers = [
+                'Amazon.com.br', 'Amazon', 'Microjet', 'TECKKIN', 'WISETA', 
+                'Valuetoner', 'GPC Image', 'YATUNINK', 'ASANSH', 'Zencoma',
+                'Supreme Quality', 'HP', 'Epson', 'Canon', 'Brother'
+            ]
+            
+            for seller in known_sellers:
+                if seller.lower() in element_text.lower():
+                    if self.debug:
+                        self.logger.info(f"Vendedor conhecido encontrado: {seller}")
+                    return seller
+            
+            # Se não encontrar nada, retornar "Não identificado"
+            if self.debug:
+                self.logger.warning("Nenhum vendedor identificado, retornando 'Não identificado'")
+            return "Não identificado"
+            
+        except Exception as e:
+            if self.debug:
+                self.logger.warning(f"Erro no fallback: {e}")
+            return "Não identificado"
+    
+    def is_valid_seller_name(self, text):
+        """
+        Valida se o texto é um nome de vendedor válido
+        """
+        if not text or text.strip() == "":
+            return False
+        
+        text = text.strip()
+        
+        # Filtrar textos que claramente não são nomes de vendedores
+        invalid_patterns = [
+            r'^\([0-9,\.\s]+\)$',  # Formato (número)
+            r'^[0-9,\.\s]+$',      # Só números
+            r'^\d+$',              # Apenas dígitos
+            r'^\([0-9]+\)$',       # (número)
+            r'^\d+[,\.]\d*$',      # Números com vírgula/ponto
+            r'^\d+[,\.]\d*\s*(mil|thousand|k)$',  # Números com mil
+            r'^\([0-9,\.\s]+\s*(mil|thousand|k)\)$',  # (número mil)
+        ]
+        
+        for pattern in invalid_patterns:
+            if re.match(pattern, text, re.IGNORECASE):
+                return False
+        
+        # Filtrar palavras-chave que indicam que não é nome de vendedor
+        invalid_keywords = [
+            'avaliação', 'review', 'rating', 'estrela', 'star',
+            'avaliações', 'reviews',
+            'disponível', 'available',
+            'preço', 'price', 'frete', 'shipping', 'entrega', 'delivery'
+        ]
+        
+        text_lower = text.lower()
+        for keyword in invalid_keywords:
+            if keyword in text_lower:
+                return False
+        
+        # Verificar se tem pelo menos 2 caracteres e não é só números
+        if len(text) < 2:
+            return False
+        
+        # Verificar se não começa ou termina com parênteses
+        if text.startswith('(') or text.endswith(')'):
+            return False
+        
+        # Verificar se não é um número puro
+        try:
+            float(text.replace(',', '.'))
+            return False
+        except ValueError:
+            pass
+        
+        return True
+
     def analyze_product_suspicion(self, title, seller):
         """
         Analisa se um produto é suspeito baseado em palavras-chave
@@ -496,6 +761,188 @@ class AmazonScraper:
         if self.driver:
             self.driver.quit()
             self.logger.info("Driver fechado")
+    
+    def is_valid_product(self, title):
+        """
+        Valida se o título representa um produto real
+        """
+        if not title or title == "Título não disponível":
+            return False
+        
+        # Textos genéricos da Amazon que devem ser filtrados
+        invalid_texts = [
+            "Consulte as páginas dos produtos para ver outras opções de compra",
+            "Consulte as páginas dos produtos para ver",
+            "Ver outras opções de compra",
+            "Outras opções de compra",
+            "Ver mais opções",
+            "Mais opções",
+            "Ver produtos similares",
+            "Produtos similares",
+            "Ver ofertas",
+            "Ofertas disponíveis",
+            "Ver detalhes",
+            "Detalhes do produto",
+            "Ver informações",
+            "Informações do produto",
+            # Novos filtros: paginação, patrocinado e cabeçalhos de seções
+            "Pesquisas relacionadas",
+            "Patrocinado",
+            "Impressoras e Acessórios",
+            "Anterior",
+            "Próximo",
+            "Escolha da Amazon",
+            "Mais vendidos",
+            "Departamentos",
+            "Categoria",
+        ]
+        
+        title_lower = title.lower().strip()
+        
+        # Verificar se contém textos inválidos (match por substring)
+        for invalid_text in invalid_texts:
+            if invalid_text.lower() in title_lower:
+                return False
+        
+        # Padrões específicos (regex) para paginação e seções
+        invalid_regex = [
+            r"^anterior\d+próximo$",
+            r"^pesquisas\s+relacionadas$",
+            r"^patrocinado$",
+            r"^impressoras\s+e\s+acessórios$",
+        ]
+        for pattern in invalid_regex:
+            if re.match(pattern, title_lower, re.IGNORECASE):
+                return False
+        
+        # Verificar se é muito curto (menos de 10 caracteres)
+        if len(title.strip()) < 10:
+            return False
+        
+        # Verificar se contém apenas números ou caracteres especiais
+        if title.strip().replace(" ", "").replace("-", "").replace("_", "").isalnum() == False and len(title.strip()) < 20:
+            return False
+        
+        return True
+    
+    def extract_seller_from_product_page(self, element):
+        """
+        Extrai o nome do vendedor acessando a página individual do produto
+        """
+        try:
+            # Encontrar o link do produto
+            product_link = None
+            try:
+                # Tentar encontrar o link do produto
+                link_element = element.find_element(By.CSS_SELECTOR, "h2 a, .a-link-normal[href*='/dp/']")
+                product_link = link_element.get_attribute('href')
+            except:
+                try:
+                    # Tentar encontrar por data-asin
+                    asin_element = element.find_element(By.CSS_SELECTOR, "[data-asin]")
+                    asin = asin_element.get_attribute('data-asin')
+                    if asin:
+                        product_link = f"https://www.amazon.com.br/dp/{asin}"
+                except:
+                    pass
+            
+            if not product_link:
+                if self.debug:
+                    self.logger.warning("Não foi possível encontrar o link do produto")
+                return "Não identificado"
+            
+            if self.debug:
+                self.logger.info(f"Acessando página do produto: {product_link}")
+            
+            # Abrir nova aba e acessar a página do produto
+            original_window = self.driver.current_window_handle
+            self.driver.execute_script("window.open('');")
+            self.driver.switch_to.window(self.driver.window_handles[-1])
+            
+            try:
+                self.driver.get(product_link)
+                time.sleep(2)  # Aguardar carregamento
+                
+                # Procurar pelo vendedor usando o ID sellerProfileTriggerId
+                seller_name = None
+                
+                # Tentar encontrar o elemento com ID sellerProfileTriggerId
+                try:
+                    seller_element = self.driver.find_element(By.ID, "sellerProfileTriggerId")
+                    seller_name = seller_element.text.strip()
+                    if self.debug:
+                        self.logger.info(f"Vendedor encontrado via sellerProfileTriggerId: {seller_name}")
+                except:
+                    # Tentar outros seletores na página do produto
+                    seller_selectors = [
+                        "[data-cel-widget='desktop-merchant-info']",
+                        "[offer-display-feature-name='desktop-merchant-info']",
+                        ".offer-display-feature-label[data-cel-widget='desktop-merchant-info']",
+                        "div[data-cel-widget='desktop-merchant-info']",
+                        "div[offer-display-feature-name='desktop-merchant-info']",
+                        "div.offer-display-feature-label[data-cel-widget='desktop-merchant-info']",
+                        "#sellerProfileTriggerId",
+                        "[data-cy='seller-name']",
+                        "a[href*='seller']",
+                        "a[href*='merchant']",
+                        # Tag específica para informações de vendedor
+                        "a[data-csa-c-content-id='odf-desktop-merchant-info']",
+                        "a[data-csa-c-slot-id='odf-desktop-merchant-info-anchor-text']",
+                        ".offer-display-feature-text-message",
+                        "span.offer-display-feature-text-message"
+                    ]
+                    
+                    for selector in seller_selectors:
+                        try:
+                            seller_elements = self.driver.find_elements(By.CSS_SELECTOR, selector)
+                            for seller_element in seller_elements:
+                                seller_text = seller_element.text.strip()
+                                if self.is_valid_seller_name(seller_text):
+                                    seller_name = seller_text
+                                    if self.debug:
+                                        self.logger.info(f"Vendedor encontrado via seletor '{selector}': {seller_name}")
+                                    break
+                            if seller_name:
+                                break
+                        except:
+                            continue
+                
+                # Se não encontrou, tentar extrair do texto da página
+                if not seller_name:
+                    page_text = self.driver.find_element(By.TAG_NAME, "body").text
+                    import re
+                    
+                    patterns = [
+                        r'Vendido\s+por\s+([^\n\r]+)',
+                        r'Enviado\s+por\s+([^/]+)\s*/\s*Vendido\s+por\s+([^\n\r]+)',
+                        r'Sold\s+by\s+([^\n\r]+)',
+                        r'Shipped\s+by\s+([^/]+)\s*/\s*Sold\s+by\s+([^\n\r]+)'
+                    ]
+                    
+                    for pattern in patterns:
+                        match = re.search(pattern, page_text, re.IGNORECASE)
+                        if match:
+                            if len(match.groups()) == 2:
+                                seller_name = match.group(2).strip()
+                            else:
+                                seller_name = match.group(1).strip()
+                            
+                            if self.is_valid_seller_name(seller_name):
+                                if self.debug:
+                                    self.logger.info(f"Vendedor encontrado via regex: {seller_name}")
+                                break
+                
+                return seller_name if seller_name and self.is_valid_seller_name(seller_name) else "Não identificado"
+                
+            finally:
+                # Fechar a aba e voltar para a aba original
+                self.driver.close()
+                self.driver.switch_to.window(original_window)
+                
+        except Exception as e:
+            if self.debug:
+                self.logger.warning(f"Erro ao extrair vendedor da página do produto: {e}")
+            return "Não identificado"
 
 def main():
     """

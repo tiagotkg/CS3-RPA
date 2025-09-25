@@ -4767,3 +4767,2168 @@ Stacktrace:
 2025-09-23 00:19:09,319 - INFO - Produtos suspeitos: 79
 2025-09-23 00:19:09,319 - INFO - Taxa de suspeita: 31.9%
 2025-09-23 00:19:09,563 - INFO - Driver fechado
+2025-09-23 20:21:09,643 - INFO - ====== WebDriver manager ======
+2025-09-23 20:21:09,891 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-23 20:21:10,041 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-23 20:21:10,116 - INFO - There is no [mac64] chromedriver "140.0.7339.207" for browser google-chrome "140.0.7339" in cache
+2025-09-23 20:21:10,123 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-23 20:21:10,295 - INFO - WebDriver version 140.0.7339.207 selected
+2025-09-23 20:21:10,299 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/140.0.7339.207/mac-arm64/chromedriver-mac-arm64.zip
+2025-09-23 20:21:10,299 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/140.0.7339.207/mac-arm64/chromedriver-mac-arm64.zip
+2025-09-23 20:21:10,505 - INFO - Driver downloading response is 200
+2025-09-23 20:21:14,017 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-23 20:21:14,183 - INFO - Driver has been saved in cache [/Users/tiagotkg/.wdm/drivers/chromedriver/mac64/140.0.7339.207]
+2025-09-23 20:21:16,063 - INFO - Driver do Chrome configurado com sucesso
+2025-09-23 20:21:16,063 - INFO - Iniciando busca por: cartucho HP 667
+2025-09-23 20:22:02,360 - WARNING - Não foi possível carregar os resultados da busca
+2025-09-23 20:22:02,469 - INFO - Driver fechado
+2025-09-23 20:22:09,099 - INFO - ====== WebDriver manager ======
+2025-09-23 20:22:09,311 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-23 20:22:09,462 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-23 20:22:09,533 - INFO - Driver [/Users/tiagotkg/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-23 20:22:10,664 - INFO - Driver do Chrome configurado com sucesso
+2025-09-23 20:22:10,665 - INFO - Iniciando busca por: cartucho HP
+2025-09-23 20:22:37,711 - ERROR - Erro durante a busca: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=140.0.7339.133)
+Stacktrace:
+0   chromedriver                        0x000000010267b274 cxxbridge1$str$ptr + 2882596
+1   chromedriver                        0x00000001026731a0 cxxbridge1$str$ptr + 2849616
+2   chromedriver                        0x000000010219d180 _RNvCslE4myv9Sbr3_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 73420
+3   chromedriver                        0x0000000102177158 chromedriver + 143704
+4   chromedriver                        0x000000010220c560 _RNvCslE4myv9Sbr3_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 529068
+5   chromedriver                        0x0000000102225228 _RNvCslE4myv9Sbr3_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 630644
+6   chromedriver                        0x00000001021d8188 _RNvCslE4myv9Sbr3_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 315092
+7   chromedriver                        0x000000010263ec54 cxxbridge1$str$ptr + 2635268
+8   chromedriver                        0x0000000102641e6c cxxbridge1$str$ptr + 2648092
+9   chromedriver                        0x00000001026205d4 cxxbridge1$str$ptr + 2510724
+10  chromedriver                        0x0000000102642718 cxxbridge1$str$ptr + 2650312
+11  chromedriver                        0x0000000102611d7c cxxbridge1$str$ptr + 2451244
+12  chromedriver                        0x0000000102661dd4 cxxbridge1$str$ptr + 2779012
+13  chromedriver                        0x0000000102661f54 cxxbridge1$str$ptr + 2779396
+14  chromedriver                        0x0000000102672dec cxxbridge1$str$ptr + 2848668
+15  libsystem_pthread.dylib             0x00000001934f7c0c _pthread_start + 136
+16  libsystem_pthread.dylib             0x00000001934f2b80 thread_start + 8
+
+2025-09-23 20:22:37,858 - INFO - Driver fechado
+2025-09-23 20:33:02,583 - INFO - ====== WebDriver manager ======
+2025-09-23 20:33:02,807 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-23 20:33:02,902 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-23 20:33:02,969 - INFO - Driver [/Users/tiagotkg/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-23 20:33:04,000 - INFO - Driver do Chrome configurado com sucesso
+2025-09-23 20:33:04,000 - INFO - Iniciando busca por: cartucho HP 667
+2025-09-23 20:33:50,313 - WARNING - Não foi possível carregar os resultados da busca
+2025-09-23 20:33:50,422 - INFO - Driver fechado
+2025-09-23 20:36:26,977 - INFO - ====== WebDriver manager ======
+2025-09-23 20:36:27,201 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-23 20:36:27,288 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-23 20:36:27,352 - INFO - Driver [/Users/tiagotkg/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-23 20:36:28,188 - INFO - Driver do Chrome configurado com sucesso
+2025-09-23 20:36:28,189 - INFO - Iniciando busca por: cartucho HP 667XL
+2025-09-23 20:36:42,628 - ERROR - Erro durante a busca: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001027eb274 cxxbridge1$str$ptr + 2882596
+1   chromedriver                        0x00000001027e31a0 cxxbridge1$str$ptr + 2849616
+2   chromedriver                        0x000000010230d180 _RNvCslE4myv9Sbr3_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 73420
+3   chromedriver                        0x00000001023544c4 _RNvCslE4myv9Sbr3_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 365072
+4   chromedriver                        0x00000001023956c8 _RNvCslE4myv9Sbr3_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 631828
+5   chromedriver                        0x0000000102348188 _RNvCslE4myv9Sbr3_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 315092
+6   chromedriver                        0x00000001027aec54 cxxbridge1$str$ptr + 2635268
+7   chromedriver                        0x00000001027b1e6c cxxbridge1$str$ptr + 2648092
+8   chromedriver                        0x00000001027905d4 cxxbridge1$str$ptr + 2510724
+9   chromedriver                        0x00000001027b2718 cxxbridge1$str$ptr + 2650312
+10  chromedriver                        0x0000000102781d7c cxxbridge1$str$ptr + 2451244
+11  chromedriver                        0x00000001027d1dd4 cxxbridge1$str$ptr + 2779012
+12  chromedriver                        0x00000001027d1f54 cxxbridge1$str$ptr + 2779396
+13  chromedriver                        0x00000001027e2dec cxxbridge1$str$ptr + 2848668
+14  libsystem_pthread.dylib             0x00000001934f7c0c _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001934f2b80 thread_start + 8
+
+2025-09-23 20:36:42,730 - INFO - Driver fechado
+2025-09-23 20:44:21,493 - INFO - ====== WebDriver manager ======
+2025-09-23 20:44:21,735 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-23 20:44:21,826 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-23 20:44:21,893 - INFO - Driver [/Users/tiagotkg/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-23 20:44:23,692 - INFO - Driver do Chrome configurado com sucesso
+2025-09-23 20:44:23,692 - INFO - Iniciando busca por: cartucho HP 667
+2025-09-23 20:44:37,938 - ERROR - Erro durante a busca: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100b7f274 cxxbridge1$str$ptr + 2882596
+1   chromedriver                        0x0000000100b771a0 cxxbridge1$str$ptr + 2849616
+2   chromedriver                        0x00000001006a1180 _RNvCslE4myv9Sbr3_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 73420
+3   chromedriver                        0x00000001006e84c4 _RNvCslE4myv9Sbr3_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 365072
+4   chromedriver                        0x00000001007296c8 _RNvCslE4myv9Sbr3_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 631828
+5   chromedriver                        0x00000001006dc188 _RNvCslE4myv9Sbr3_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 315092
+6   chromedriver                        0x0000000100b42c54 cxxbridge1$str$ptr + 2635268
+7   chromedriver                        0x0000000100b45e6c cxxbridge1$str$ptr + 2648092
+8   chromedriver                        0x0000000100b245d4 cxxbridge1$str$ptr + 2510724
+9   chromedriver                        0x0000000100b46718 cxxbridge1$str$ptr + 2650312
+10  chromedriver                        0x0000000100b15d7c cxxbridge1$str$ptr + 2451244
+11  chromedriver                        0x0000000100b65dd4 cxxbridge1$str$ptr + 2779012
+12  chromedriver                        0x0000000100b65f54 cxxbridge1$str$ptr + 2779396
+13  chromedriver                        0x0000000100b76dec cxxbridge1$str$ptr + 2848668
+14  libsystem_pthread.dylib             0x00000001934f7c0c _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001934f2b80 thread_start + 8
+
+2025-09-23 20:44:38,034 - INFO - Driver fechado
+2025-09-23 20:47:48,978 - INFO - ====== WebDriver manager ======
+2025-09-23 20:47:49,184 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-23 20:47:49,268 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-23 20:47:49,336 - INFO - Driver [/Users/tiagotkg/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-23 20:47:50,434 - INFO - Driver do Chrome configurado com sucesso
+2025-09-23 20:47:50,434 - INFO - Iniciando busca por: cartucho HP 667
+2025-09-23 20:48:04,614 - ERROR - Erro durante a busca: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000100cc7274 cxxbridge1$str$ptr + 2882596
+1   chromedriver                        0x0000000100cbf1a0 cxxbridge1$str$ptr + 2849616
+2   chromedriver                        0x00000001007e9180 _RNvCslE4myv9Sbr3_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 73420
+3   chromedriver                        0x00000001008304c4 _RNvCslE4myv9Sbr3_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 365072
+4   chromedriver                        0x00000001008716c8 _RNvCslE4myv9Sbr3_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 631828
+5   chromedriver                        0x0000000100824188 _RNvCslE4myv9Sbr3_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 315092
+6   chromedriver                        0x0000000100c8ac54 cxxbridge1$str$ptr + 2635268
+7   chromedriver                        0x0000000100c8de6c cxxbridge1$str$ptr + 2648092
+8   chromedriver                        0x0000000100c6c5d4 cxxbridge1$str$ptr + 2510724
+9   chromedriver                        0x0000000100c8e718 cxxbridge1$str$ptr + 2650312
+10  chromedriver                        0x0000000100c5dd7c cxxbridge1$str$ptr + 2451244
+11  chromedriver                        0x0000000100caddd4 cxxbridge1$str$ptr + 2779012
+12  chromedriver                        0x0000000100cadf54 cxxbridge1$str$ptr + 2779396
+13  chromedriver                        0x0000000100cbedec cxxbridge1$str$ptr + 2848668
+14  libsystem_pthread.dylib             0x00000001934f7c0c _pthread_start + 136
+15  libsystem_pthread.dylib             0x00000001934f2b80 thread_start + 8
+
+2025-09-23 20:48:04,704 - INFO - Driver fechado
+2025-09-23 23:10:59,611 - INFO - ====== WebDriver manager ======
+2025-09-23 23:10:59,770 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-23 23:10:59,826 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-23 23:10:59,875 - INFO - Driver [/Users/tiagotkg/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-23 23:11:00,546 - INFO - Driver do Chrome configurado com sucesso
+2025-09-23 23:11:00,547 - INFO - Iniciando busca por: cartucho HP 667
+2025-09-23 23:11:05,934 - INFO - Resultados carregados com seletor: [data-asin]
+2025-09-23 23:11:05,934 - INFO - Coletando produtos da página 1
+2025-09-23 23:11:07,957 - INFO - Encontrados 54 produtos com seletor: [data-asin]
+2025-09-23 23:11:08,470 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:08,478 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:08,488 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:08,496 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:08,507 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:08,520 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:08,533 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:08,549 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:08,584 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:08,604 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:08,629 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:08,654 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:08,669 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:08,681 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:08,692 - INFO - Seletor '.a-size-small' encontrou 0 elementos
+2025-09-23 23:11:08,702 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:08,711 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:08,721 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:08,733 - INFO - Texto do elemento: Resultados
+Consulte as páginas dos produtos para ver outras opções de compra....
+2025-09-23 23:11:08,741 - INFO - Fallback - Texto completo: Resultados
+Consulte as páginas dos produtos para ver outras opções de compra....
+2025-09-23 23:11:08,749 - WARNING - Nenhum vendedor identificado, retornando 'Não identificado'
+2025-09-23 23:11:08,859 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:08,863 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:08,870 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:08,875 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:08,879 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:08,886 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:08,891 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:08,894 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:08,899 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:08,904 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:08,909 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:08,914 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:08,957 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:08,970 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 1 elementos
+2025-09-23 23:11:08,977 - INFO - Texto encontrado: '(13 mil)'
+2025-09-23 23:11:08,989 - INFO - Seletor '.a-size-small' encontrou 2 elementos
+2025-09-23 23:11:08,997 - INFO - Texto encontrado: '4,7
+(13 mil)'
+2025-09-23 23:11:09,006 - INFO - Texto encontrado: '4,7'
+2025-09-23 23:11:09,011 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:09,020 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:09,024 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:09,039 - INFO - Texto do elemento: Escolha da Amazon
+Cartucho Hp 667 Colorido Original (3ym78al) Para Hp Deskjet 2376, 2774, 2776, 6476
+4,7
+(13 mil)
+Mais de 1 mil compras no mês passado
+R$62
+01
+R$65,00
+à vista no Pix ou em até 2x de
+R$32,50 sem juros
+Entrega GRÁTIS: ter., 7 de out.
+Adicionar ao carrinho...
+2025-09-23 23:11:09,055 - INFO - Fallback - Texto completo: Escolha da Amazon
+Cartucho Hp 667 Colorido Original (3ym78al) Para Hp Deskjet 2376, 2774, 2776, 6476
+4,7
+(13 mil)
+Mais de 1 mil compras no mês passado
+R$62
+01
+R$65,00
+à vista no Pix ou em até 2x de
+R$32,50 sem juros
+Entrega GRÁTIS: ter., 7 de out.
+Adicionar ao carrinho...
+2025-09-23 23:11:09,055 - INFO - Vendedor conhecido encontrado: Amazon
+2025-09-23 23:11:09,223 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:09,233 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:09,246 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:09,258 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:09,268 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:09,281 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:09,295 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:09,306 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:09,316 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:09,325 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:09,335 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:09,345 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:09,354 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:09,359 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 1 elementos
+2025-09-23 23:11:09,366 - INFO - Texto encontrado: '(1,4 mil)'
+2025-09-23 23:11:09,373 - INFO - Seletor '.a-size-small' encontrou 2 elementos
+2025-09-23 23:11:09,379 - INFO - Texto encontrado: '4,7
+(1,4 mil)'
+2025-09-23 23:11:09,386 - INFO - Texto encontrado: '4,7'
+2025-09-23 23:11:09,392 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:09,396 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:09,404 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:09,419 - INFO - Texto do elemento: Kit 2 cartucho HP 667 Preto e Colorido
+4,7
+(1,4 mil)
+Mais de 300 compras no mês passado
+R$145
+00
+em até 4x de
+R$36,25 sem juros
+Entrega GRÁTIS: sex., 26 de set.
+Adicionar ao carrinho
+Mais opções de compra
+R$ 125,00(7 ofertas de novos)...
+2025-09-23 23:11:09,435 - INFO - Fallback - Texto completo: Kit 2 cartucho HP 667 Preto e Colorido
+4,7
+(1,4 mil)
+Mais de 300 compras no mês passado
+R$145
+00
+em até 4x de
+R$36,25 sem juros
+Entrega GRÁTIS: sex., 26 de set.
+Adicionar ao carrinho
+Mais opções de compra
+R$ 125,00(7 ofertas de novos)...
+2025-09-23 23:11:09,436 - INFO - Vendedor conhecido encontrado: HP
+2025-09-23 23:11:09,591 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:09,596 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:09,603 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:09,610 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:09,617 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:09,625 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:09,629 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:09,636 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:09,641 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:09,647 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:09,652 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:09,680 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:09,687 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:09,694 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 1 elementos
+2025-09-23 23:11:09,705 - INFO - Texto encontrado: '(393)'
+2025-09-23 23:11:09,714 - INFO - Seletor '.a-size-small' encontrou 2 elementos
+2025-09-23 23:11:09,723 - INFO - Texto encontrado: '4,7
+(393)'
+2025-09-23 23:11:09,728 - INFO - Texto encontrado: '4,7'
+2025-09-23 23:11:09,732 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:09,740 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:09,747 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:09,758 - INFO - Texto do elemento: KIT 2 CARTUCHO DE TINTA HP 667 PRETO E COLOR ORIGINAL 3YM78L DESKJET INK ADVANTAGE 2776
+4,7
+(393)
+Mais de 100 compras no mês passado
+R$135
+00
+em até 4x de
+R$33,75 sem juros
+Entrega R$ 32,90: 29 de set. - 1 de out.
+Adicionar ao carrinho...
+2025-09-23 23:11:09,771 - INFO - Fallback - Texto completo: KIT 2 CARTUCHO DE TINTA HP 667 PRETO E COLOR ORIGINAL 3YM78L DESKJET INK ADVANTAGE 2776
+4,7
+(393)
+Mais de 100 compras no mês passado
+R$135
+00
+em até 4x de
+R$33,75 sem juros
+Entrega R$ 32,90: 29 de set. - 1 de out.
+Adicionar ao carrinho...
+2025-09-23 23:11:09,772 - INFO - Vendedor conhecido encontrado: HP
+2025-09-23 23:11:09,908 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:09,914 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:09,920 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:09,924 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:09,931 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:09,943 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:09,949 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:09,958 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:09,966 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:09,974 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:09,978 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:09,987 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:09,994 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:09,998 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 1 elementos
+2025-09-23 23:11:10,007 - INFO - Texto encontrado: '(3 mil)'
+2025-09-23 23:11:10,012 - INFO - Seletor '.a-size-small' encontrou 2 elementos
+2025-09-23 23:11:10,016 - INFO - Texto encontrado: '4,7
+(3 mil)'
+2025-09-23 23:11:10,020 - INFO - Texto encontrado: '4,7'
+2025-09-23 23:11:10,024 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:10,028 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:10,034 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:10,048 - INFO - Texto do elemento: Cartucho HP 667 Preto Original (3YM79AL)
+4,7
+(3 mil)
+Mais de 100 compras no mês passado
+R$89
+00
+em até 2x de
+R$44,50 sem juros
+Entrega GRÁTIS: 29 de set. - 7 de out.
+Adicionar ao carrinho
+Mais opções de compra
+R$ 59,00(5 ofertas de produtos novos e usados)...
+2025-09-23 23:11:10,058 - INFO - Fallback - Texto completo: Cartucho HP 667 Preto Original (3YM79AL)
+4,7
+(3 mil)
+Mais de 100 compras no mês passado
+R$89
+00
+em até 2x de
+R$44,50 sem juros
+Entrega GRÁTIS: 29 de set. - 7 de out.
+Adicionar ao carrinho
+Mais opções de compra
+R$ 59,00(5 ofertas de produtos novos e usados)...
+2025-09-23 23:11:10,058 - INFO - Vendedor conhecido encontrado: HP
+2025-09-23 23:11:10,190 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:10,202 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:10,211 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:10,216 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:10,221 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:10,226 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:10,231 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:10,241 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:10,248 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:10,254 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:10,262 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:10,270 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:10,280 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:10,284 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 1 elementos
+2025-09-23 23:11:10,290 - INFO - Texto encontrado: '(2,3 mil)'
+2025-09-23 23:11:10,296 - INFO - Seletor '.a-size-small' encontrou 2 elementos
+2025-09-23 23:11:10,313 - INFO - Texto encontrado: '4,8
+(2,3 mil)'
+2025-09-23 23:11:10,329 - INFO - Texto encontrado: '4,8'
+2025-09-23 23:11:10,340 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:10,349 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:10,357 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:10,382 - INFO - Texto do elemento: Cartucho de Tinta HP, 667 3Ym78AL Color 29290
+4,8
+(2,3 mil)
+Mais de 50 compras no mês passado
+R$65
+00
+em até 2x de
+R$32,50 sem juros
+Entrega R$ 32,40: 29 de set. - 1 de out.
+Adicionar ao carrinho...
+2025-09-23 23:11:10,399 - INFO - Fallback - Texto completo: Cartucho de Tinta HP, 667 3Ym78AL Color 29290
+4,8
+(2,3 mil)
+Mais de 50 compras no mês passado
+R$65
+00
+em até 2x de
+R$32,50 sem juros
+Entrega R$ 32,40: 29 de set. - 1 de out.
+Adicionar ao carrinho...
+2025-09-23 23:11:10,399 - INFO - Vendedor conhecido encontrado: HP
+2025-09-23 23:11:10,545 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:10,552 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:10,558 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:10,564 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:10,577 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:10,590 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:10,597 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:10,605 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:10,613 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:10,620 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:10,626 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:10,634 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:10,646 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:10,658 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 1 elementos
+2025-09-23 23:11:10,673 - INFO - Texto encontrado: '(2,2 mil)'
+2025-09-23 23:11:10,686 - INFO - Seletor '.a-size-small' encontrou 2 elementos
+2025-09-23 23:11:10,702 - INFO - Texto encontrado: '4,8
+(2,2 mil)'
+2025-09-23 23:11:10,716 - INFO - Texto encontrado: '4,8'
+2025-09-23 23:11:10,730 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:10,744 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:10,751 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:10,763 - INFO - Texto do elemento: Cartucho HP 667XL Preto Original (3YM81AL)
+4,8
+(2,2 mil)
+Mais de 300 compras no mês passado
+R$149
+00
+em até 4x de
+R$37,25 sem juros
+Entrega R$ 32,49: 29 de set. - 1 de out.
+Adicionar ao carrinho...
+2025-09-23 23:11:10,796 - INFO - Fallback - Texto completo: Cartucho HP 667XL Preto Original (3YM81AL)
+4,8
+(2,2 mil)
+Mais de 300 compras no mês passado
+R$149
+00
+em até 4x de
+R$37,25 sem juros
+Entrega R$ 32,49: 29 de set. - 1 de out.
+Adicionar ao carrinho...
+2025-09-23 23:11:10,796 - INFO - Vendedor conhecido encontrado: HP
+2025-09-23 23:11:10,924 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:10,930 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:10,933 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:10,937 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:10,941 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:10,945 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:10,948 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:10,951 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:10,954 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:10,957 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:10,962 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:10,969 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:10,974 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:10,979 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 1 elementos
+2025-09-23 23:11:10,984 - INFO - Texto encontrado: '(7,8 mil)'
+2025-09-23 23:11:10,988 - INFO - Seletor '.a-size-small' encontrou 2 elementos
+2025-09-23 23:11:10,993 - INFO - Texto encontrado: '4,2
+(7,8 mil)'
+2025-09-23 23:11:10,996 - INFO - Texto encontrado: '4,2'
+2025-09-23 23:11:11,000 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:11,004 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:11,008 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:11,019 - INFO - Texto do elemento: TECKKIN Cartucho de Tinta Compatível para HP 667 667XL Compatível com HP DeskJet Ink Advantage 2374 1275 2376 2775 2776 DeskJet Plus 6475 6476 6075 (1 Preto 1 Colorido)
+4,2
+(7,8 mil)
+Economize 16%
+R$199
+99
+De:
+R$239,99
+em até 6x de
+R$33,34 sem juros
+Menor preço dos últimos 30 dias
+Entrega GRÁTIS: ter., 7 de out.
+Adicionar ao carrinho...
+2025-09-23 23:11:11,032 - INFO - Fallback - Texto completo: TECKKIN Cartucho de Tinta Compatível para HP 667 667XL Compatível com HP DeskJet Ink Advantage 2374 1275 2376 2775 2776 DeskJet Plus 6475 6476 6075 (1 Preto 1 Colorido)
+4,2
+(7,8 mil)
+Economize 16%
+R$199
+99
+De:
+R$239,99
+em até 6x de
+R$33,34 sem juros
+Menor preço dos últimos 30 dias
+Entrega GRÁTIS: ter., 7 de out.
+Adicionar ao carrinho...
+2025-09-23 23:11:11,032 - INFO - Vendedor conhecido encontrado: TECKKIN
+2025-09-23 23:11:11,097 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:11,101 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:11,104 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:11,108 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:11,111 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:11,115 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:11,119 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:11,124 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:11,128 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:11,132 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:11,137 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:11,140 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:11,144 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:11,148 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 1 elementos
+2025-09-23 23:11:11,152 - INFO - Texto encontrado: '(25,7 mil)'
+2025-09-23 23:11:11,155 - INFO - Seletor '.a-size-small' encontrou 2 elementos
+2025-09-23 23:11:11,160 - INFO - Texto encontrado: '4,4
+(25,7 mil)'
+2025-09-23 23:11:11,165 - INFO - Texto encontrado: '4,4'
+2025-09-23 23:11:11,169 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:11,172 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:11,177 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:11,190 - INFO - Texto do elemento: Valuetoner Cartuchos de Tinta para 667 667XL 667 XL Compatível com DeskJet Ink Advantage 2374 1275 2375 2376 2775 2776e DeskJet Plus 6475 6476 6075 (1 Preto 1 Colorido)
+4,4
+(25,7 mil)
+Mais de 50 compras no mês passado
+Oferta
+R$176
+99
+De:
+R$205,99
+em até 5x de
+R$35,43 sem juros
+Entrega GRÁTIS: ter., 7 de out.
+Adicionar ao carrinho...
+2025-09-23 23:11:11,203 - INFO - Fallback - Texto completo: Valuetoner Cartuchos de Tinta para 667 667XL 667 XL Compatível com DeskJet Ink Advantage 2374 1275 2375 2376 2775 2776e DeskJet Plus 6475 6476 6075 (1 Preto 1 Colorido)
+4,4
+(25,7 mil)
+Mais de 50 compras no mês passado
+Oferta
+R$176
+99
+De:
+R$205,99
+em até 5x de
+R$35,43 sem juros
+Entrega GRÁTIS: ter., 7 de out.
+Adicionar ao carrinho...
+2025-09-23 23:11:11,203 - INFO - Vendedor conhecido encontrado: Valuetoner
+2025-09-23 23:11:11,279 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:11,284 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:11,290 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:11,295 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:11,300 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:11,305 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:11,310 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:11,314 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:11,320 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:11,326 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:11,330 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:11,333 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:11,336 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:11,339 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 1 elementos
+2025-09-23 23:11:11,343 - INFO - Texto encontrado: '(974)'
+2025-09-23 23:11:11,347 - INFO - Seletor '.a-size-small' encontrou 2 elementos
+2025-09-23 23:11:11,351 - INFO - Texto encontrado: '4,8
+(974)'
+2025-09-23 23:11:11,355 - INFO - Texto encontrado: '4,8'
+2025-09-23 23:11:11,358 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:11,361 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:11,364 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:11,376 - INFO - Texto do elemento: Cartucho HP - 667XL Colorido Original (3YM80AL)
+4,8
+(974)
+Mais de 50 compras no mês passado
+R$149
+00
+em até 4x de
+R$37,25 sem juros
+Entrega R$ 32,49: 29 de set. - 1 de out.
+Adicionar ao carrinho
+Mais opções de compra
+R$ 145,01(3 ofertas de produtos novos e usados)...
+2025-09-23 23:11:11,386 - INFO - Fallback - Texto completo: Cartucho HP - 667XL Colorido Original (3YM80AL)
+4,8
+(974)
+Mais de 50 compras no mês passado
+R$149
+00
+em até 4x de
+R$37,25 sem juros
+Entrega R$ 32,49: 29 de set. - 1 de out.
+Adicionar ao carrinho
+Mais opções de compra
+R$ 145,01(3 ofertas de produtos novos e usados)...
+2025-09-23 23:11:11,386 - INFO - Vendedor conhecido encontrado: HP
+2025-09-23 23:11:11,454 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:11,457 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:11,460 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:11,463 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:11,466 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:11,469 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:11,472 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:11,475 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:11,480 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:11,484 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:11,488 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:11,492 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:11,495 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:11,499 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 1 elementos
+2025-09-23 23:11:11,503 - INFO - Texto encontrado: '(1)'
+2025-09-23 23:11:11,507 - INFO - Seletor '.a-size-small' encontrou 2 elementos
+2025-09-23 23:11:11,511 - INFO - Texto encontrado: '5,0
+(1)'
+2025-09-23 23:11:11,515 - INFO - Texto encontrado: '5,0'
+2025-09-23 23:11:11,518 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:11,521 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:11,523 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:11,532 - INFO - Texto do elemento: Cartucho de Tinta 667 Preto e Colorido para Impressora, Conjunto de 2
+5,0
+(1)
+R$162
+90
+em até 5x de
+R$32,58 sem juros
+Entrega GRÁTIS: sex., 26 de set.
+Adicionar ao carrinho...
+2025-09-23 23:11:11,543 - INFO - Fallback - Texto completo: Cartucho de Tinta 667 Preto e Colorido para Impressora, Conjunto de 2
+5,0
+(1)
+R$162
+90
+em até 5x de
+R$32,58 sem juros
+Entrega GRÁTIS: sex., 26 de set.
+Adicionar ao carrinho...
+2025-09-23 23:11:11,543 - WARNING - Nenhum vendedor identificado, retornando 'Não identificado'
+2025-09-23 23:11:11,616 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:11,620 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:11,624 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:11,628 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:11,632 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:11,638 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:11,643 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:11,647 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:11,654 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:11,658 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:11,662 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:11,666 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:11,670 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:11,675 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 1 elementos
+2025-09-23 23:11:11,680 - INFO - Texto encontrado: '(3)'
+2025-09-23 23:11:11,683 - INFO - Seletor '.a-size-small' encontrou 2 elementos
+2025-09-23 23:11:11,688 - INFO - Texto encontrado: '5,0
+(3)'
+2025-09-23 23:11:11,692 - INFO - Texto encontrado: '5,0'
+2025-09-23 23:11:11,697 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:11,701 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:11,706 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:11,717 - INFO - Texto do elemento: Kit Cartucho de Tinta 667 Preto e Colorido para Impressora, Conjunto de 2, combo, black, color, tricolor, preço, do mercado, bk, cl.
+5,0
+(3)
+R$168
+90
+em até 5x de
+R$33,78 sem juros
+Entrega GRÁTIS: 29 de set. - 7 de out.
+Somente 6 em estoque.
+Adicionar ao carrinho...
+2025-09-23 23:11:11,727 - INFO - Fallback - Texto completo: Kit Cartucho de Tinta 667 Preto e Colorido para Impressora, Conjunto de 2, combo, black, color, tricolor, preço, do mercado, bk, cl.
+5,0
+(3)
+R$168
+90
+em até 5x de
+R$33,78 sem juros
+Entrega GRÁTIS: 29 de set. - 7 de out.
+Somente 6 em estoque.
+Adicionar ao carrinho...
+2025-09-23 23:11:11,727 - WARNING - Nenhum vendedor identificado, retornando 'Não identificado'
+2025-09-23 23:11:11,825 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:11,830 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:11,834 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:11,839 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:11,843 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:11,848 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:11,851 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:11,855 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:11,859 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:11,864 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:11,870 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:11,874 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:11,878 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:11,882 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 1 elementos
+2025-09-23 23:11:11,886 - INFO - Texto encontrado: '(4)'
+2025-09-23 23:11:11,890 - INFO - Seletor '.a-size-small' encontrou 2 elementos
+2025-09-23 23:11:11,894 - INFO - Texto encontrado: '4,7
+(4)'
+2025-09-23 23:11:11,899 - INFO - Texto encontrado: '4,7'
+2025-09-23 23:11:11,907 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:11,912 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:11,916 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:11,927 - INFO - Texto do elemento: Kit com 02 Cartuchos H.P 667 - Preto e Colorido
+4,7
+(4)
+R$165
+90
+em até 5x de
+R$33,18 sem juros
+Entrega GRÁTIS: sex., 26 de set.
+Adicionar ao carrinho...
+2025-09-23 23:11:11,938 - INFO - Fallback - Texto completo: Kit com 02 Cartuchos H.P 667 - Preto e Colorido
+4,7
+(4)
+R$165
+90
+em até 5x de
+R$33,18 sem juros
+Entrega GRÁTIS: sex., 26 de set.
+Adicionar ao carrinho...
+2025-09-23 23:11:11,938 - WARNING - Nenhum vendedor identificado, retornando 'Não identificado'
+2025-09-23 23:11:12,029 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:12,034 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:12,038 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:12,043 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:12,047 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:12,050 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:12,053 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:12,057 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:12,060 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:12,063 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:12,066 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:12,070 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:12,074 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:12,077 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 1 elementos
+2025-09-23 23:11:12,081 - INFO - Texto encontrado: '(4)'
+2025-09-23 23:11:12,084 - INFO - Seletor '.a-size-small' encontrou 2 elementos
+2025-09-23 23:11:12,088 - INFO - Texto encontrado: '4,0
+(4)'
+2025-09-23 23:11:12,092 - INFO - Texto encontrado: '4,0'
+2025-09-23 23:11:12,095 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:12,099 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:12,105 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:12,115 - INFO - Texto do elemento: Kit Recarga Cartucho Compatível com Impressora 2700 2774 2776 Deskjet Advantage 667
+4,0
+(4)
+R$79
+90
+em até 2x de
+R$39,95 sem juros
+Economize 5% com o cupom
+Entrega GRÁTIS: ter., 30 de set.
+Somente 1 em estoque.
+Adicionar ao carrinho...
+2025-09-23 23:11:12,125 - INFO - Fallback - Texto completo: Kit Recarga Cartucho Compatível com Impressora 2700 2774 2776 Deskjet Advantage 667
+4,0
+(4)
+R$79
+90
+em até 2x de
+R$39,95 sem juros
+Economize 5% com o cupom
+Entrega GRÁTIS: ter., 30 de set.
+Somente 1 em estoque.
+Adicionar ao carrinho...
+2025-09-23 23:11:12,125 - WARNING - Nenhum vendedor identificado, retornando 'Não identificado'
+2025-09-23 23:11:12,197 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:12,200 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:12,203 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:12,207 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:12,210 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:12,215 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:12,219 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:12,222 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:12,226 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:12,230 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:12,235 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:12,241 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:12,247 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:12,251 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 1 elementos
+2025-09-23 23:11:12,257 - INFO - Texto encontrado: '(19,7 mil)'
+2025-09-23 23:11:12,261 - INFO - Seletor '.a-size-small' encontrou 2 elementos
+2025-09-23 23:11:12,282 - INFO - Texto encontrado: '4,7
+(19,7 mil)'
+2025-09-23 23:11:12,292 - INFO - Texto encontrado: '4,7'
+2025-09-23 23:11:12,296 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:12,301 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:12,309 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:12,320 - INFO - Texto do elemento: Cartucho Hp 664xl Colorido Original (f6v30ab) Para Hp Deskjet 2136, 2676, 3776, 5076, 5276
+4,7
+(19,7 mil)
+Mais de 300 compras no mês passado
+R$143
+10
+R$159,00
+à vista no Pix ou em até 5x de
+R$31,80 sem juros
+Entrega GRÁTIS: ter., 7 de out.
+Adicionar ao carrinho
+Mais opções de compra
+R$ 115,90(12 ofertas de produtos novos e usados)...
+2025-09-23 23:11:12,330 - INFO - Fallback - Texto completo: Cartucho Hp 664xl Colorido Original (f6v30ab) Para Hp Deskjet 2136, 2676, 3776, 5076, 5276
+4,7
+(19,7 mil)
+Mais de 300 compras no mês passado
+R$143
+10
+R$159,00
+à vista no Pix ou em até 5x de
+R$31,80 sem juros
+Entrega GRÁTIS: ter., 7 de out.
+Adicionar ao carrinho
+Mais opções de compra
+R$ 115,90(12 ofertas de produtos novos e usados)...
+2025-09-23 23:11:12,330 - INFO - Vendedor conhecido encontrado: HP
+2025-09-23 23:11:12,392 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:12,395 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:12,397 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:12,400 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:12,403 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:12,407 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:12,411 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:12,414 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:12,418 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:12,421 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:12,424 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:12,426 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:12,429 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:12,432 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 1 elementos
+2025-09-23 23:11:12,438 - INFO - Texto encontrado: '(16,8 mil)'
+2025-09-23 23:11:12,442 - INFO - Seletor '.a-size-small' encontrou 2 elementos
+2025-09-23 23:11:12,446 - INFO - Texto encontrado: '4,4
+(16,8 mil)'
+2025-09-23 23:11:12,450 - INFO - Texto encontrado: '4,4'
+2025-09-23 23:11:12,454 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:12,457 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:12,461 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:12,469 - INFO - Texto do elemento: GPC Image Cartucho de tinta compatível para HP 667 667XL Compatível com HP DeskJet Ink Advantage 1275 2374 2375 2376 2775 2776 6475 Impressora (2 Preto)
+4,4
+(16,8 mil)
+R$199
+99
+em até 6x de
+R$33,34 sem juros
+Economize 13% com o cupom
+Entrega GRÁTIS: ter., 7 de out.
+Adicionar ao carrinho...
+2025-09-23 23:11:12,479 - INFO - Fallback - Texto completo: GPC Image Cartucho de tinta compatível para HP 667 667XL Compatível com HP DeskJet Ink Advantage 1275 2374 2375 2376 2775 2776 6475 Impressora (2 Preto)
+4,4
+(16,8 mil)
+R$199
+99
+em até 6x de
+R$33,34 sem juros
+Economize 13% com o cupom
+Entrega GRÁTIS: ter., 7 de out.
+Adicionar ao carrinho...
+2025-09-23 23:11:12,479 - INFO - Vendedor conhecido encontrado: GPC Image
+2025-09-23 23:11:12,533 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:12,536 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:12,539 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:12,541 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:12,544 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:12,547 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:12,550 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:12,552 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:12,555 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:12,558 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:12,560 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:12,563 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:12,566 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:12,569 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 1 elementos
+2025-09-23 23:11:12,573 - INFO - Texto encontrado: '(24)'
+2025-09-23 23:11:12,576 - INFO - Seletor '.a-size-small' encontrou 2 elementos
+2025-09-23 23:11:12,580 - INFO - Texto encontrado: '4,2
+(24)'
+2025-09-23 23:11:12,583 - INFO - Texto encontrado: '4,2'
+2025-09-23 23:11:12,586 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:12,588 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:12,591 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:12,599 - INFO - Texto do elemento: 667XL 667 XL preto e colorido de substituição para HP 667 XL 667 cartuchos de tinta para Deskjet Ink Advantage 1275 2375, DeskJet2775, 1275 2374 2375 2376 2775 2776 6075 6475 6476 Impressoras (1
+4,2
+(24)
+R$275
+61
+em até 6x de
+R$45,96 sem juros
+Entrega R$ 8,90: sáb., 4 de out.
+Adicionar ao carrinho...
+2025-09-23 23:11:12,608 - INFO - Fallback - Texto completo: 667XL 667 XL preto e colorido de substituição para HP 667 XL 667 cartuchos de tinta para Deskjet Ink Advantage 1275 2375, DeskJet2775, 1275 2374 2375 2376 2775 2776 6075 6475 6476 Impressoras (1
+4,2
+(24)
+R$275
+61
+em até 6x de
+R$45,96 sem juros
+Entrega R$ 8,90: sáb., 4 de out.
+Adicionar ao carrinho...
+2025-09-23 23:11:12,608 - INFO - Vendedor conhecido encontrado: HP
+2025-09-23 23:11:12,668 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:12,671 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:12,674 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:12,676 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:12,680 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:12,683 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:12,686 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:12,689 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:12,692 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:12,695 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:12,698 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:12,702 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:12,705 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:12,707 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:12,710 - INFO - Seletor '.a-size-small' encontrou 0 elementos
+2025-09-23 23:11:12,713 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:12,716 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:12,718 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:12,726 - INFO - Texto do elemento: Cartucho Compatível HP 667XL Preto 14ml + Colorido 13ml para DeskJet 2774 2722 2376 Printech + Microjet 100% novo
+R$229
+00
+em até 6x de
+R$38,20 sem juros
+Entrega GRÁTIS: ter., 7 de out.
+Somente 6 em estoque.
+Adicionar ao carrinho...
+2025-09-23 23:11:12,734 - INFO - Fallback - Texto completo: Cartucho Compatível HP 667XL Preto 14ml + Colorido 13ml para DeskJet 2774 2722 2376 Printech + Microjet 100% novo
+R$229
+00
+em até 6x de
+R$38,20 sem juros
+Entrega GRÁTIS: ter., 7 de out.
+Somente 6 em estoque.
+Adicionar ao carrinho...
+2025-09-23 23:11:12,734 - INFO - Vendedor conhecido encontrado: Microjet
+2025-09-23 23:11:12,786 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:12,789 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:12,792 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:12,794 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:12,797 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:12,800 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:12,803 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:12,805 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:12,808 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:12,811 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:12,813 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:12,816 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:12,819 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:12,821 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 1 elementos
+2025-09-23 23:11:12,825 - INFO - Texto encontrado: '(2)'
+2025-09-23 23:11:12,828 - INFO - Seletor '.a-size-small' encontrou 2 elementos
+2025-09-23 23:11:12,832 - INFO - Texto encontrado: '2,9
+(2)'
+2025-09-23 23:11:12,838 - INFO - Texto encontrado: '2,9'
+2025-09-23 23:11:12,842 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:12,845 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:12,847 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:12,855 - INFO - Texto do elemento: Kit 4 Cartuchos de Tintas 667/2 unid. Preto e 2 unid. Colorido para Impressora, Conjunto de 4, combo, black, color, tricolor, preço, do mercado, bk, cl.
+2,9
+(2)
+R$299
+90
+em até 6x de
+R$50,00 sem juros
+Entrega GRÁTIS: 29 de set. - 7 de out.
+Somente 1 em estoque.
+Adicionar ao carrinho...
+2025-09-23 23:11:12,864 - INFO - Fallback - Texto completo: Kit 4 Cartuchos de Tintas 667/2 unid. Preto e 2 unid. Colorido para Impressora, Conjunto de 4, combo, black, color, tricolor, preço, do mercado, bk, cl.
+2,9
+(2)
+R$299
+90
+em até 6x de
+R$50,00 sem juros
+Entrega GRÁTIS: 29 de set. - 7 de out.
+Somente 1 em estoque.
+Adicionar ao carrinho...
+2025-09-23 23:11:12,864 - WARNING - Nenhum vendedor identificado, retornando 'Não identificado'
+2025-09-23 23:11:12,917 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:12,919 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:12,922 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:12,924 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:12,927 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:12,930 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:12,932 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:12,935 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:12,938 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:12,941 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:12,943 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:12,946 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:12,949 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:12,951 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 1 elementos
+2025-09-23 23:11:12,955 - INFO - Texto encontrado: '(1)'
+2025-09-23 23:11:12,957 - INFO - Seletor '.a-size-small' encontrou 2 elementos
+2025-09-23 23:11:12,961 - INFO - Texto encontrado: '5,0
+(1)'
+2025-09-23 23:11:12,964 - INFO - Texto encontrado: '5,0'
+2025-09-23 23:11:12,967 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:12,970 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:12,974 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:12,982 - INFO - Texto do elemento: Cartucho 667XL Color 13ml Compatível HP 100% Novo – Printech by Microjet (Colorido)
+5,0
+(1)
+R$129
+90
+em até 4x de
+R$32,49 sem juros
+Entrega GRÁTIS: seg., 29 de set.
+Adicionar ao carrinho...
+2025-09-23 23:11:12,991 - INFO - Fallback - Texto completo: Cartucho 667XL Color 13ml Compatível HP 100% Novo – Printech by Microjet (Colorido)
+5,0
+(1)
+R$129
+90
+em até 4x de
+R$32,49 sem juros
+Entrega GRÁTIS: seg., 29 de set.
+Adicionar ao carrinho...
+2025-09-23 23:11:12,991 - INFO - Vendedor encontrado via fallback: Microjet
+2025-09-23 23:11:13,103 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:13,106 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:13,109 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:13,112 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:13,115 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:13,118 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:13,121 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:13,124 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:13,127 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:13,130 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:13,133 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:13,136 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:13,139 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:13,142 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 1 elementos
+2025-09-23 23:11:13,146 - INFO - Texto encontrado: '(8)'
+2025-09-23 23:11:13,149 - INFO - Seletor '.a-size-small' encontrou 2 elementos
+2025-09-23 23:11:13,153 - INFO - Texto encontrado: '4,3
+(8)'
+2025-09-23 23:11:13,156 - INFO - Texto encontrado: '4,3'
+2025-09-23 23:11:13,159 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:13,162 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:13,165 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:13,171 - INFO - Texto do elemento: Kit com 02 Cartuchos de Tinta H P 667XL - Colorido + Preto Original - Para Deskjet Ink Advantage 2376, 2776, 6476, 5076, 5276
+4,3
+(8)
+Ver opções
+Nenhuma opção de compra em destaque
+R$ 364,90(1 nova oferta)...
+2025-09-23 23:11:13,178 - INFO - Fallback - Texto completo: Kit com 02 Cartuchos de Tinta H P 667XL - Colorido + Preto Original - Para Deskjet Ink Advantage 2376, 2776, 6476, 5076, 5276
+4,3
+(8)
+Ver opções
+Nenhuma opção de compra em destaque
+R$ 364,90(1 nova oferta)...
+2025-09-23 23:11:13,178 - WARNING - Nenhum vendedor identificado, retornando 'Não identificado'
+2025-09-23 23:11:13,234 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:13,237 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:13,241 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:13,244 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:13,247 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:13,250 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:13,253 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:13,256 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:13,259 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:13,262 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:13,265 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:13,268 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:13,271 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:13,274 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 1 elementos
+2025-09-23 23:11:13,277 - INFO - Texto encontrado: '(1)'
+2025-09-23 23:11:13,281 - INFO - Seletor '.a-size-small' encontrou 2 elementos
+2025-09-23 23:11:13,285 - INFO - Texto encontrado: '5,0
+(1)'
+2025-09-23 23:11:13,288 - INFO - Texto encontrado: '5,0'
+2025-09-23 23:11:13,291 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:13,294 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:13,297 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:13,307 - INFO - Texto do elemento: Kit Recarga Compatível Com Impressora 2776 Cartucho 667
+5,0
+(1)
+R$84
+90
+em até 2x de
+R$42,45 sem juros
+Entrega GRÁTIS: ter., 30 de set.
+Adicionar ao carrinho...
+2025-09-23 23:11:13,319 - INFO - Fallback - Texto completo: Kit Recarga Compatível Com Impressora 2776 Cartucho 667
+5,0
+(1)
+R$84
+90
+em até 2x de
+R$42,45 sem juros
+Entrega GRÁTIS: ter., 30 de set.
+Adicionar ao carrinho...
+2025-09-23 23:11:13,319 - WARNING - Nenhum vendedor identificado, retornando 'Não identificado'
+2025-09-23 23:11:13,382 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:13,385 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:13,388 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:13,391 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:13,394 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:13,397 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:13,400 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:13,403 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:13,406 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:13,409 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:13,412 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:13,415 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:13,418 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:13,421 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 1 elementos
+2025-09-23 23:11:13,425 - INFO - Texto encontrado: '(4)'
+2025-09-23 23:11:13,428 - INFO - Seletor '.a-size-small' encontrou 2 elementos
+2025-09-23 23:11:13,432 - INFO - Texto encontrado: '5,0
+(4)'
+2025-09-23 23:11:13,436 - INFO - Texto encontrado: '5,0'
+2025-09-23 23:11:13,440 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:13,443 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:13,447 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:13,455 - INFO - Texto do elemento: fannster Cartuchos de tinta de substituição 667XL 667 XL 667 para hp 667 cartuchos de tinta pretos e coloridos para Deskjet 1275 2374 2375 2376 2775 2776 6075 6475 6476 impressora (1 preta e 1
+5,0
+(4)
+R$334
+48
+em até 6x de
+R$55,78 sem juros
+Entrega R$ 8,90: qua., 8 de out.
+Adicionar ao carrinho...
+2025-09-23 23:11:13,464 - INFO - Fallback - Texto completo: fannster Cartuchos de tinta de substituição 667XL 667 XL 667 para hp 667 cartuchos de tinta pretos e coloridos para Deskjet 1275 2374 2375 2376 2775 2776 6075 6475 6476 impressora (1 preta e 1
+5,0
+(4)
+R$334
+48
+em até 6x de
+R$55,78 sem juros
+Entrega R$ 8,90: qua., 8 de out.
+Adicionar ao carrinho...
+2025-09-23 23:11:13,464 - INFO - Vendedor conhecido encontrado: HP
+2025-09-23 23:11:13,583 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:13,586 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:13,589 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:13,592 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:13,594 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:13,597 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:13,600 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:13,603 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:13,606 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:13,609 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:13,612 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:13,615 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:13,618 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:13,621 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 1 elementos
+2025-09-23 23:11:13,625 - INFO - Texto encontrado: '(3)'
+2025-09-23 23:11:13,628 - INFO - Seletor '.a-size-small' encontrou 2 elementos
+2025-09-23 23:11:13,633 - INFO - Texto encontrado: '5,0
+(3)'
+2025-09-23 23:11:13,637 - INFO - Texto encontrado: '5,0'
+2025-09-23 23:11:13,640 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:13,643 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:13,646 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:13,653 - INFO - Texto do elemento: Cartucho de tinta H P 667 Preto Original (3YM79AB) Para Deskjet Ink Advantage 2376, 2776, 6476, 5076, 5276
+5,0
+(3)
+Ver opções
+Nenhuma opção de compra em destaque
+R$ 110,80(1 nova oferta)...
+2025-09-23 23:11:13,659 - INFO - Fallback - Texto completo: Cartucho de tinta H P 667 Preto Original (3YM79AB) Para Deskjet Ink Advantage 2376, 2776, 6476, 5076, 5276
+5,0
+(3)
+Ver opções
+Nenhuma opção de compra em destaque
+R$ 110,80(1 nova oferta)...
+2025-09-23 23:11:13,659 - WARNING - Nenhum vendedor identificado, retornando 'Não identificado'
+2025-09-23 23:11:13,726 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:13,729 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:13,732 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:13,735 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:13,738 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:13,741 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:13,744 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:13,747 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:13,749 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:13,752 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:13,755 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:13,758 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:13,761 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:13,764 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:13,767 - INFO - Seletor '.a-size-small' encontrou 0 elementos
+2025-09-23 23:11:13,771 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:13,774 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:13,777 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:13,785 - INFO - Texto do elemento: Kit 2 Tinta Stkink Black Compatível Advantage 667 667XL 2874 2774 2376 60K46A 100ml
+R$56
+90
+em até 2x de
+R$28,45 sem juros
+Entrega GRÁTIS: seg., 29 de set.
+Adicionar ao carrinho...
+2025-09-23 23:11:13,793 - INFO - Fallback - Texto completo: Kit 2 Tinta Stkink Black Compatível Advantage 667 667XL 2874 2774 2376 60K46A 100ml
+R$56
+90
+em até 2x de
+R$28,45 sem juros
+Entrega GRÁTIS: seg., 29 de set.
+Adicionar ao carrinho...
+2025-09-23 23:11:13,793 - WARNING - Nenhum vendedor identificado, retornando 'Não identificado'
+2025-09-23 23:11:13,851 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:13,854 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:13,857 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:13,860 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:13,863 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:13,866 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:13,869 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:13,871 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:13,874 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:13,880 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:13,883 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:13,886 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:13,889 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:13,892 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 1 elementos
+2025-09-23 23:11:13,896 - INFO - Texto encontrado: '(3)'
+2025-09-23 23:11:13,900 - INFO - Seletor '.a-size-small' encontrou 2 elementos
+2025-09-23 23:11:13,904 - INFO - Texto encontrado: '5,0
+(3)'
+2025-09-23 23:11:13,908 - INFO - Texto encontrado: '5,0'
+2025-09-23 23:11:13,911 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:13,914 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:13,917 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:13,927 - INFO - Texto do elemento: Kit Cartucho 667 Preto E Colorido + Folha A4 500 unid, Kit escritório, econômico, folhas, Resmas, papel de qualidade, Combo, DeskJet Ink Advantage, 2376, 2776, 6476, resma, black, color, original.
+5,0
+(3)
+R$189
+90
+em até 6x de
+R$31,65 sem juros
+Entrega GRÁTIS: sex., 26 de set.
+Somente 4 em estoque.
+Adicionar ao carrinho...
+2025-09-23 23:11:13,935 - INFO - Fallback - Texto completo: Kit Cartucho 667 Preto E Colorido + Folha A4 500 unid, Kit escritório, econômico, folhas, Resmas, papel de qualidade, Combo, DeskJet Ink Advantage, 2376, 2776, 6476, resma, black, color, original.
+5,0
+(3)
+R$189
+90
+em até 6x de
+R$31,65 sem juros
+Entrega GRÁTIS: sex., 26 de set.
+Somente 4 em estoque.
+Adicionar ao carrinho...
+2025-09-23 23:11:13,936 - WARNING - Nenhum vendedor identificado, retornando 'Não identificado'
+2025-09-23 23:11:14,062 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:14,065 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:14,068 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:14,071 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:14,074 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:14,077 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:14,080 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:14,083 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:14,086 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:14,088 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:14,091 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:14,094 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:14,097 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:14,102 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:14,106 - INFO - Seletor '.a-size-small' encontrou 0 elementos
+2025-09-23 23:11:14,109 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:14,112 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:14,115 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:14,121 - INFO - Texto do elemento: Kit com 02 Cartuchos HP 667 Preto e Colorido
+Ver opções
+Nenhuma opção de compra em destaque
+R$ 219,80(1 nova oferta)...
+2025-09-23 23:11:14,127 - INFO - Fallback - Texto completo: Kit com 02 Cartuchos HP 667 Preto e Colorido
+Ver opções
+Nenhuma opção de compra em destaque
+R$ 219,80(1 nova oferta)...
+2025-09-23 23:11:14,127 - INFO - Vendedor conhecido encontrado: HP
+2025-09-23 23:11:14,184 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:14,187 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:14,189 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:14,192 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:14,195 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:14,198 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:14,201 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:14,204 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:14,206 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:14,209 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:14,212 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:14,215 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:14,218 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:14,221 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 1 elementos
+2025-09-23 23:11:14,224 - INFO - Texto encontrado: '(4,1 mil)'
+2025-09-23 23:11:14,227 - INFO - Seletor '.a-size-small' encontrou 2 elementos
+2025-09-23 23:11:14,231 - INFO - Texto encontrado: '4,4
+(4,1 mil)'
+2025-09-23 23:11:14,234 - INFO - Texto encontrado: '4,4'
+2025-09-23 23:11:14,238 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:14,241 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:14,244 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:14,253 - INFO - Texto do elemento: WISETA Cartucho de Tinta Compatível para HP 667 667XL Compatível com DeskJet Ink Advantage 1275 2374 2375 2376 2775 2776 6475 6476 6075 (1 Preto, 1 Colorido)
+4,4
+(4,1 mil)
+R$235
+99
+em até 6x de
+R$39,34 sem juros
+Economize 15% com o cupom
+Entrega GRÁTIS: ter., 7 de out.
+Adicionar ao carrinho...
+2025-09-23 23:11:14,261 - INFO - Fallback - Texto completo: WISETA Cartucho de Tinta Compatível para HP 667 667XL Compatível com DeskJet Ink Advantage 1275 2374 2375 2376 2775 2776 6475 6476 6075 (1 Preto, 1 Colorido)
+4,4
+(4,1 mil)
+R$235
+99
+em até 6x de
+R$39,34 sem juros
+Economize 15% com o cupom
+Entrega GRÁTIS: ter., 7 de out.
+Adicionar ao carrinho...
+2025-09-23 23:11:14,261 - INFO - Vendedor conhecido encontrado: WISETA
+2025-09-23 23:11:14,316 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:14,319 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:14,322 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:14,326 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:14,329 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:14,333 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:14,336 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:14,340 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:14,343 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:14,346 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:14,350 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:14,353 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:14,356 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:14,359 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 1 elementos
+2025-09-23 23:11:14,363 - INFO - Texto encontrado: '(2)'
+2025-09-23 23:11:14,366 - INFO - Seletor '.a-size-small' encontrou 2 elementos
+2025-09-23 23:11:14,370 - INFO - Texto encontrado: '5,0
+(2)'
+2025-09-23 23:11:14,374 - INFO - Texto encontrado: '5,0'
+2025-09-23 23:11:14,377 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:14,380 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:14,383 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:14,394 - INFO - Texto do elemento: Supreme Quality Kit 2x Cartucho Compatível 667XL Rendimento Extra 14ml Novo - Colorido - Água Base - Compatível com HP Deskjet Ink Advantage 1275, 2374, 2375, 2376, 2775, 2776, 6475, 6476
+5,0
+(2)
+R$293
+90
+em até 6x de
+R$49,00 sem juros
+Entrega GRÁTIS: qui., 25 de set.
+Somente 1 em estoque.
+Adicionar ao carrinho...
+2025-09-23 23:11:14,403 - INFO - Fallback - Texto completo: Supreme Quality Kit 2x Cartucho Compatível 667XL Rendimento Extra 14ml Novo - Colorido - Água Base - Compatível com HP Deskjet Ink Advantage 1275, 2374, 2375, 2376, 2775, 2776, 6475, 6476
+5,0
+(2)
+R$293
+90
+em até 6x de
+R$49,00 sem juros
+Entrega GRÁTIS: qui., 25 de set.
+Somente 1 em estoque.
+Adicionar ao carrinho...
+2025-09-23 23:11:14,403 - INFO - Vendedor conhecido encontrado: Supreme Quality
+2025-09-23 23:11:14,459 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:14,461 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:14,464 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:14,467 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:14,470 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:14,473 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:14,476 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:14,479 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:14,482 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:14,485 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:14,487 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:14,490 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:14,493 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:14,496 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 1 elementos
+2025-09-23 23:11:14,499 - INFO - Texto encontrado: '(12)'
+2025-09-23 23:11:14,502 - INFO - Seletor '.a-size-small' encontrou 2 elementos
+2025-09-23 23:11:14,506 - INFO - Texto encontrado: '3,8
+(12)'
+2025-09-23 23:11:14,510 - INFO - Texto encontrado: '3,8'
+2025-09-23 23:11:14,513 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:14,516 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:14,519 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:14,527 - INFO - Texto do elemento: Cartuchos de tinta 667XL pretos e coloridos de substituição para HP 667 XL 667 cartuchos de tinta funcionam para Deskjet Ink Advantage 1275 2375 2775, Deskjet Ink Advantage Plus 6075 6475 6476 (1
+3,8
+(12)
+R$288
+01
+em até 6x de
+R$48,01 sem juros
+Entrega R$ 8,90: ter., 7 de out.
+Adicionar ao carrinho
+Mais opções de compra
+R$ 195,87(1 nova oferta)...
+2025-09-23 23:11:14,536 - INFO - Fallback - Texto completo: Cartuchos de tinta 667XL pretos e coloridos de substituição para HP 667 XL 667 cartuchos de tinta funcionam para Deskjet Ink Advantage 1275 2375 2775, Deskjet Ink Advantage Plus 6075 6475 6476 (1
+3,8
+(12)
+R$288
+01
+em até 6x de
+R$48,01 sem juros
+Entrega R$ 8,90: ter., 7 de out.
+Adicionar ao carrinho
+Mais opções de compra
+R$ 195,87(1 nova oferta)...
+2025-09-23 23:11:14,537 - INFO - Vendedor conhecido encontrado: HP
+2025-09-23 23:11:14,600 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:14,603 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:14,607 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:14,610 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:14,613 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:14,616 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:14,618 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:14,621 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:14,624 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:14,627 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:14,630 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:14,633 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:14,636 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:14,638 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:14,641 - INFO - Seletor '.a-size-small' encontrou 0 elementos
+2025-09-23 23:11:14,644 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:14,647 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:14,650 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:14,658 - INFO - Texto do elemento: Cartucho de tinta 667XL preto e colorido, pacote combo compatível com HP Ink 667 667XL, tinta para impressora, funciona com impressoras DeskJet 1275 2374 2375 2376 2775 2776 6075 6475 6476 (pacote com
+R$317
+78
+em até 6x de
+R$52,98 sem juros
+Compre agora e economize mais 10% na finalização do pedido
+Entrega R$ 8,90: sáb., 4 de out.
+Adicionar ao carrinho...
+2025-09-23 23:11:14,666 - INFO - Fallback - Texto completo: Cartucho de tinta 667XL preto e colorido, pacote combo compatível com HP Ink 667 667XL, tinta para impressora, funciona com impressoras DeskJet 1275 2374 2375 2376 2775 2776 6075 6475 6476 (pacote com
+R$317
+78
+em até 6x de
+R$52,98 sem juros
+Compre agora e economize mais 10% na finalização do pedido
+Entrega R$ 8,90: sáb., 4 de out.
+Adicionar ao carrinho...
+2025-09-23 23:11:14,667 - INFO - Vendedor conhecido encontrado: HP
+2025-09-23 23:11:14,722 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:14,725 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:14,728 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:14,731 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:14,734 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:14,737 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:14,740 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:14,743 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:14,746 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:14,749 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:14,752 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:14,755 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:14,757 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:14,760 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 1 elementos
+2025-09-23 23:11:14,764 - INFO - Texto encontrado: '(5)'
+2025-09-23 23:11:14,767 - INFO - Seletor '.a-size-small' encontrou 2 elementos
+2025-09-23 23:11:14,770 - INFO - Texto encontrado: '4,1
+(5)'
+2025-09-23 23:11:14,774 - INFO - Texto encontrado: '4,1'
+2025-09-23 23:11:14,777 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:14,780 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:14,783 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:14,802 - INFO - Texto do elemento: Cartucho De Impressora 667xl 14ML Preto Compatível
+4,1
+(5)
+R$165
+10
+em até 5x de
+R$33,02 sem juros
+Entrega GRÁTIS
+Somente 1 em estoque.
+Adicionar ao carrinho...
+2025-09-23 23:11:14,813 - INFO - Fallback - Texto completo: Cartucho De Impressora 667xl 14ML Preto Compatível
+4,1
+(5)
+R$165
+10
+em até 5x de
+R$33,02 sem juros
+Entrega GRÁTIS
+Somente 1 em estoque.
+Adicionar ao carrinho...
+2025-09-23 23:11:14,813 - WARNING - Nenhum vendedor identificado, retornando 'Não identificado'
+2025-09-23 23:11:14,932 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:14,935 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:14,937 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:14,940 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:14,943 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:14,946 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:14,949 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:14,952 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:14,955 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:14,958 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:14,960 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:14,963 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:14,966 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:14,969 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:14,972 - INFO - Seletor '.a-size-small' encontrou 0 elementos
+2025-09-23 23:11:14,975 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:14,977 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:14,980 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:14,986 - INFO - Texto do elemento: Cartucho 667 Colorido Original (3YM78AB) Para impressoras Deskjet 1275, 2374, 2375, 2376, 2775, 2776, 6475, 6476, 5076, 5276
+Ver opções
+Nenhuma opção de compra em destaque
+R$ 115,80(1 nova oferta)...
+2025-09-23 23:11:14,991 - INFO - Fallback - Texto completo: Cartucho 667 Colorido Original (3YM78AB) Para impressoras Deskjet 1275, 2374, 2375, 2376, 2775, 2776, 6475, 6476, 5076, 5276
+Ver opções
+Nenhuma opção de compra em destaque
+R$ 115,80(1 nova oferta)...
+2025-09-23 23:11:14,991 - WARNING - Nenhum vendedor identificado, retornando 'Não identificado'
+2025-09-23 23:11:15,047 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:15,050 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:15,053 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:15,056 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:15,059 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:15,062 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:15,064 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:15,067 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:15,070 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:15,073 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:15,076 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:15,078 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:15,081 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:15,084 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 1 elementos
+2025-09-23 23:11:15,088 - INFO - Texto encontrado: '(137)'
+2025-09-23 23:11:15,091 - INFO - Seletor '.a-size-small' encontrou 2 elementos
+2025-09-23 23:11:15,094 - INFO - Texto encontrado: '4,3
+(137)'
+2025-09-23 23:11:15,098 - INFO - Texto encontrado: '4,3'
+2025-09-23 23:11:15,101 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:15,104 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:15,107 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:15,116 - INFO - Texto do elemento: YATUNINK Cartuchos de tinta 667XL 667 pretos e coloridos compatíveis com cartuchos de tinta HP 667, funciona com impressora DeskJet 1275 2374 2375 2376 2775 2776 6075 6475 6476 (1 preto, 1 cor) pacote
+4,3
+(137)
+R$323
+67
+em até 6x de
+R$53,97 sem juros
+Entrega R$ 8,90: sáb., 4 de out.
+Adicionar ao carrinho...
+2025-09-23 23:11:15,124 - INFO - Fallback - Texto completo: YATUNINK Cartuchos de tinta 667XL 667 pretos e coloridos compatíveis com cartuchos de tinta HP 667, funciona com impressora DeskJet 1275 2374 2375 2376 2775 2776 6075 6475 6476 (1 preto, 1 cor) pacote
+4,3
+(137)
+R$323
+67
+em até 6x de
+R$53,97 sem juros
+Entrega R$ 8,90: sáb., 4 de out.
+Adicionar ao carrinho...
+2025-09-23 23:11:15,124 - INFO - Vendedor conhecido encontrado: YATUNINK
+2025-09-23 23:11:15,236 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:15,239 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:15,243 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:15,246 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:15,250 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:15,253 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:15,257 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:15,260 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:15,263 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:15,267 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:15,269 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:15,272 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:15,275 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:15,278 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 1 elementos
+2025-09-23 23:11:15,282 - INFO - Texto encontrado: '(4)'
+2025-09-23 23:11:15,286 - INFO - Seletor '.a-size-small' encontrou 2 elementos
+2025-09-23 23:11:15,290 - INFO - Texto encontrado: '5,0
+(4)'
+2025-09-23 23:11:15,293 - INFO - Texto encontrado: '5,0'
+2025-09-23 23:11:15,297 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:15,299 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:15,303 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:15,309 - INFO - Texto do elemento: Cartucho de tinta H P 667XL Colorido Original (3YM80AB) Para Deskjet Ink Advantage 2376, 2776, 6476, 5076, 5276
+5,0
+(4)
+Ver opções
+Nenhuma opção de compra em destaque
+R$ 208,90(2 ofertas de novos)...
+2025-09-23 23:11:15,316 - INFO - Fallback - Texto completo: Cartucho de tinta H P 667XL Colorido Original (3YM80AB) Para Deskjet Ink Advantage 2376, 2776, 6476, 5076, 5276
+5,0
+(4)
+Ver opções
+Nenhuma opção de compra em destaque
+R$ 208,90(2 ofertas de novos)...
+2025-09-23 23:11:15,316 - WARNING - Nenhum vendedor identificado, retornando 'Não identificado'
+2025-09-23 23:11:15,372 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:15,375 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:15,378 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:15,381 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:15,384 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:15,387 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:15,390 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:15,392 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:15,395 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:15,398 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:15,401 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:15,404 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:15,407 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:15,410 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 1 elementos
+2025-09-23 23:11:15,413 - INFO - Texto encontrado: '(11)'
+2025-09-23 23:11:15,416 - INFO - Seletor '.a-size-small' encontrou 2 elementos
+2025-09-23 23:11:15,420 - INFO - Texto encontrado: '4,6
+(11)'
+2025-09-23 23:11:15,424 - INFO - Texto encontrado: '4,6'
+2025-09-23 23:11:15,427 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:15,431 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:15,434 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:15,444 - INFO - Texto do elemento: Cartucho de tinta 667XL preto e colorido de substituição para HP 667XL 667 XL cartuchos de tinta compatíveis com impressoras HP DeskJet 1275 2374 2375 2376 2775 2776 6075 6475 6476 (2 pretas, 1
+4,6
+(11)
+R$525
+87
+em até 10x de
+R$52,65 sem juros
+Entrega R$ 8,90: sáb., 4 de out.
+Adicionar ao carrinho
+Mais opções de compra
+R$ 334,82(1 nova oferta)...
+2025-09-23 23:11:15,453 - INFO - Fallback - Texto completo: Cartucho de tinta 667XL preto e colorido de substituição para HP 667XL 667 XL cartuchos de tinta compatíveis com impressoras HP DeskJet 1275 2374 2375 2376 2775 2776 6075 6475 6476 (2 pretas, 1
+4,6
+(11)
+R$525
+87
+em até 10x de
+R$52,65 sem juros
+Entrega R$ 8,90: sáb., 4 de out.
+Adicionar ao carrinho
+Mais opções de compra
+R$ 334,82(1 nova oferta)...
+2025-09-23 23:11:15,453 - INFO - Vendedor conhecido encontrado: HP
+2025-09-23 23:11:15,572 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:15,575 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:15,578 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:15,581 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:15,584 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:15,587 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:15,590 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:15,592 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:15,595 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:15,598 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:15,601 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:15,604 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:15,607 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:15,610 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:15,613 - INFO - Seletor '.a-size-small' encontrou 0 elementos
+2025-09-23 23:11:15,616 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:15,619 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:15,622 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:15,627 - INFO - Texto do elemento: Cartucho HP 667 Preto Original (3YM79AB) Para HP Deskjet 2376, 2776, 6476, 5076, 5276 Preto
+Ver opções
+Nenhuma opção de compra em destaque
+R$ 110,80(2 ofertas de novos)...
+2025-09-23 23:11:15,633 - INFO - Fallback - Texto completo: Cartucho HP 667 Preto Original (3YM79AB) Para HP Deskjet 2376, 2776, 6476, 5076, 5276 Preto
+Ver opções
+Nenhuma opção de compra em destaque
+R$ 110,80(2 ofertas de novos)...
+2025-09-23 23:11:15,633 - INFO - Vendedor conhecido encontrado: HP
+2025-09-23 23:11:15,687 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:15,690 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:15,693 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:15,696 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:15,699 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:15,702 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:15,705 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:15,708 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:15,711 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:15,714 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:15,717 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:15,720 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:15,722 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:15,725 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 1 elementos
+2025-09-23 23:11:15,728 - INFO - Texto encontrado: '(9,9 mil)'
+2025-09-23 23:11:15,731 - INFO - Seletor '.a-size-small' encontrou 2 elementos
+2025-09-23 23:11:15,736 - INFO - Texto encontrado: '4,7
+(9,9 mil)'
+2025-09-23 23:11:15,739 - INFO - Texto encontrado: '4,7'
+2025-09-23 23:11:15,742 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:15,745 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:15,748 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:15,757 - INFO - Texto do elemento: Cartucho Hp 662xl Colorido Original (cz106ab) Para 2516, 3516, 3546, 2546, 1516, 4646, 2646
+4,7
+(9,9 mil)
+Mais de 100 compras no mês passado
+R$125
+10
+R$150,10
+à vista no Pix ou em até 4x de
+R$34,75 sem juros
+Entrega GRÁTIS: ter., 7 de out.
+Adicionar ao carrinho...
+2025-09-23 23:11:15,765 - INFO - Fallback - Texto completo: Cartucho Hp 662xl Colorido Original (cz106ab) Para 2516, 3516, 3546, 2546, 1516, 4646, 2646
+4,7
+(9,9 mil)
+Mais de 100 compras no mês passado
+R$125
+10
+R$150,10
+à vista no Pix ou em até 4x de
+R$34,75 sem juros
+Entrega GRÁTIS: ter., 7 de out.
+Adicionar ao carrinho...
+2025-09-23 23:11:15,765 - INFO - Vendedor conhecido encontrado: HP
+2025-09-23 23:11:15,828 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:15,831 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:15,834 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:15,837 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:15,840 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:15,843 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:15,846 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:15,849 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:15,852 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:15,855 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:15,858 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:15,860 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:15,863 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:15,866 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:15,869 - INFO - Seletor '.a-size-small' encontrou 0 elementos
+2025-09-23 23:11:15,871 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:15,874 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:15,877 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:15,885 - INFO - Texto do elemento: Kit 4 Tintas Stkink Compatível Advantage 667 667XL 2874 2774 2376 60K46A 1,25 Litro
+R$134
+90
+em até 4x de
+R$33,74 sem juros
+Entrega GRÁTIS: seg., 29 de set.
+Adicionar ao carrinho...
+2025-09-23 23:11:15,895 - INFO - Fallback - Texto completo: Kit 4 Tintas Stkink Compatível Advantage 667 667XL 2874 2774 2376 60K46A 1,25 Litro
+R$134
+90
+em até 4x de
+R$33,74 sem juros
+Entrega GRÁTIS: seg., 29 de set.
+Adicionar ao carrinho...
+2025-09-23 23:11:15,895 - WARNING - Nenhum vendedor identificado, retornando 'Não identificado'
+2025-09-23 23:11:15,951 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:15,954 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:15,957 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:15,960 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:15,963 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:15,966 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:15,968 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:15,971 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:15,974 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:15,977 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:15,980 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:15,983 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:15,986 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:15,989 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 1 elementos
+2025-09-23 23:11:15,992 - INFO - Texto encontrado: '(1)'
+2025-09-23 23:11:15,995 - INFO - Seletor '.a-size-small' encontrou 2 elementos
+2025-09-23 23:11:15,999 - INFO - Texto encontrado: '5,0
+(1)'
+2025-09-23 23:11:16,002 - INFO - Texto encontrado: '5,0'
+2025-09-23 23:11:16,005 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:16,008 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:16,011 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:16,020 - INFO - Texto do elemento: Kit 4 Tintas Stkink Compatível Advantage 667 667XL 2874 2774 2376 60K46A 500ml
+5,0
+(1)
+R$189
+90
+em até 6x de
+R$31,65 sem juros
+Entrega GRÁTIS: seg., 29 de set.
+Adicionar ao carrinho...
+2025-09-23 23:11:16,028 - INFO - Fallback - Texto completo: Kit 4 Tintas Stkink Compatível Advantage 667 667XL 2874 2774 2376 60K46A 500ml
+5,0
+(1)
+R$189
+90
+em até 6x de
+R$31,65 sem juros
+Entrega GRÁTIS: seg., 29 de set.
+Adicionar ao carrinho...
+2025-09-23 23:11:16,028 - WARNING - Nenhum vendedor identificado, retornando 'Não identificado'
+2025-09-23 23:11:16,091 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:16,094 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:16,096 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:16,099 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:16,102 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:16,105 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:16,108 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:16,111 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:16,114 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:16,117 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:16,120 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:16,122 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:16,125 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:16,128 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:16,131 - INFO - Seletor '.a-size-small' encontrou 0 elementos
+2025-09-23 23:11:16,134 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:16,136 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:16,139 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:16,147 - INFO - Texto do elemento: Cartucho de tinta 667XL preto compatível com HP Ink 667 667XL Tinta de impressora funciona com DeskJet 1275 2374 2375 2376 2775 2776 6075 6475 6476 impressoras (1 volta)
+R$186
+39
+em até 6x de
+R$31,09 sem juros
+Compre agora e economize mais 10% na finalização do pedido
+Entrega R$ 8,90: sáb., 4 de out.
+Adicionar ao carrinho...
+2025-09-23 23:11:16,155 - INFO - Fallback - Texto completo: Cartucho de tinta 667XL preto compatível com HP Ink 667 667XL Tinta de impressora funciona com DeskJet 1275 2374 2375 2376 2775 2776 6075 6475 6476 impressoras (1 volta)
+R$186
+39
+em até 6x de
+R$31,09 sem juros
+Compre agora e economize mais 10% na finalização do pedido
+Entrega R$ 8,90: sáb., 4 de out.
+Adicionar ao carrinho...
+2025-09-23 23:11:16,155 - INFO - Vendedor conhecido encontrado: HP
+2025-09-23 23:11:16,274 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:16,277 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:16,280 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:16,283 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:16,286 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:16,289 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:16,291 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:16,294 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:16,297 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:16,300 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:16,303 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:16,306 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:16,309 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:16,311 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:16,314 - INFO - Seletor '.a-size-small' encontrou 0 elementos
+2025-09-23 23:11:16,317 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:16,320 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:16,323 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:16,328 - INFO - Texto do elemento: Cartucho HP 667XL Preto Original (3YM78AB) Para impressoras HP Deskjet 1275, 2374, 2375, 2376, 2775, 2776, 6475, 6476, 5076, 5276 (Preto, XL)
+Ver opções
+Nenhuma opção de compra em destaque
+R$ 208,90(1 nova oferta)...
+2025-09-23 23:11:16,334 - INFO - Fallback - Texto completo: Cartucho HP 667XL Preto Original (3YM78AB) Para impressoras HP Deskjet 1275, 2374, 2375, 2376, 2775, 2776, 6475, 6476, 5076, 5276 (Preto, XL)
+Ver opções
+Nenhuma opção de compra em destaque
+R$ 208,90(1 nova oferta)...
+2025-09-23 23:11:16,334 - INFO - Vendedor conhecido encontrado: HP
+2025-09-23 23:11:16,394 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:16,397 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:16,400 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:16,403 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:16,406 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:16,409 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:16,412 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:16,415 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:16,418 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:16,421 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:16,424 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:16,427 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:16,430 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:16,433 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 1 elementos
+2025-09-23 23:11:16,436 - INFO - Texto encontrado: '(6)'
+2025-09-23 23:11:16,440 - INFO - Seletor '.a-size-small' encontrou 2 elementos
+2025-09-23 23:11:16,446 - INFO - Texto encontrado: '4,8
+(6)'
+2025-09-23 23:11:16,450 - INFO - Texto encontrado: '4,8'
+2025-09-23 23:11:16,453 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:16,456 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:16,458 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:16,466 - INFO - Texto do elemento: Tinta 100ml Black Compativel Impressora Cartucho 667xl
+4,8
+(6)
+R$17
+90
+Entrega R$ 7,02: ter., 30 de set.
+Adicionar ao carrinho...
+2025-09-23 23:11:16,475 - INFO - Fallback - Texto completo: Tinta 100ml Black Compativel Impressora Cartucho 667xl
+4,8
+(6)
+R$17
+90
+Entrega R$ 7,02: ter., 30 de set.
+Adicionar ao carrinho...
+2025-09-23 23:11:16,475 - WARNING - Nenhum vendedor identificado, retornando 'Não identificado'
+2025-09-23 23:11:16,537 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:16,540 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:16,543 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:16,546 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:16,549 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:16,552 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:16,555 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:16,557 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:16,560 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:16,563 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:16,566 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:16,568 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:16,571 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:16,574 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:16,577 - INFO - Seletor '.a-size-small' encontrou 0 elementos
+2025-09-23 23:11:16,580 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:16,583 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:16,586 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:16,594 - INFO - Texto do elemento: Kit 4 Tintas Stkink Compatível Advantage 667 667XL 2874 2774 2376 60K46A 1,75 Litro
+R$152
+90
+em até 5x de
+R$30,58 sem juros
+Entrega GRÁTIS: seg., 29 de set.
+Adicionar ao carrinho...
+2025-09-23 23:11:16,601 - INFO - Fallback - Texto completo: Kit 4 Tintas Stkink Compatível Advantage 667 667XL 2874 2774 2376 60K46A 1,75 Litro
+R$152
+90
+em até 5x de
+R$30,58 sem juros
+Entrega GRÁTIS: seg., 29 de set.
+Adicionar ao carrinho...
+2025-09-23 23:11:16,601 - WARNING - Nenhum vendedor identificado, retornando 'Não identificado'
+2025-09-23 23:11:16,714 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:16,717 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:16,720 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:16,723 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:16,725 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:16,728 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:16,731 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:16,734 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:16,738 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:16,741 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:16,744 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:16,747 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:16,750 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:16,753 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 1 elementos
+2025-09-23 23:11:16,756 - INFO - Texto encontrado: '(1)'
+2025-09-23 23:11:16,759 - INFO - Seletor '.a-size-small' encontrou 2 elementos
+2025-09-23 23:11:16,763 - INFO - Texto encontrado: '5,0
+(1)'
+2025-09-23 23:11:16,766 - INFO - Texto encontrado: '5,0'
+2025-09-23 23:11:16,770 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:16,773 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:16,776 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:16,782 - INFO - Texto do elemento: Cartucho de tinta H P 667XL Colorido Original (3YM80AB) Para Deskjet Ink Advantage 2376, 2776, 6476, 5076, 5276
+5,0
+(1)
+Ver opções
+Nenhuma opção de compra em destaque
+R$ 203,80(1 nova oferta)...
+2025-09-23 23:11:16,788 - INFO - Fallback - Texto completo: Cartucho de tinta H P 667XL Colorido Original (3YM80AB) Para Deskjet Ink Advantage 2376, 2776, 6476, 5076, 5276
+5,0
+(1)
+Ver opções
+Nenhuma opção de compra em destaque
+R$ 203,80(1 nova oferta)...
+2025-09-23 23:11:16,788 - WARNING - Nenhum vendedor identificado, retornando 'Não identificado'
+2025-09-23 23:11:16,907 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:16,910 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:16,913 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:16,916 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:16,919 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:16,922 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:16,925 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:16,928 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:16,930 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:16,933 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:16,936 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:16,939 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:16,942 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:16,945 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:16,948 - INFO - Seletor '.a-size-small' encontrou 0 elementos
+2025-09-23 23:11:16,951 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:16,954 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:16,957 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:16,964 - INFO - Texto do elemento: Kit com 02 Cartuchos HP 667 - Preto e Colorido
+Ver opções
+Nenhuma opção de compra em destaque
+R$ 219,80(1 nova oferta)...
+2025-09-23 23:11:16,970 - INFO - Fallback - Texto completo: Kit com 02 Cartuchos HP 667 - Preto e Colorido
+Ver opções
+Nenhuma opção de compra em destaque
+R$ 219,80(1 nova oferta)...
+2025-09-23 23:11:16,970 - INFO - Vendedor conhecido encontrado: HP
+2025-09-23 23:11:17,098 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:17,101 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:17,104 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:17,107 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:17,110 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:17,113 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:17,116 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:17,119 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:17,121 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:17,124 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:17,126 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:17,129 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:17,132 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:17,135 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:17,138 - INFO - Seletor '.a-size-small' encontrou 0 elementos
+2025-09-23 23:11:17,141 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:17,144 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:17,147 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:17,152 - INFO - Texto do elemento: Cartucho H P 667 Preto Original (3YM79AB) Para H P Deskjet 2376, 2776, 6476, 5076, 5276
+Ver opções
+Nenhuma opção de compra em destaque
+R$ 115,80(1 nova oferta)...
+2025-09-23 23:11:17,158 - INFO - Fallback - Texto completo: Cartucho H P 667 Preto Original (3YM79AB) Para H P Deskjet 2376, 2776, 6476, 5076, 5276
+Ver opções
+Nenhuma opção de compra em destaque
+R$ 115,80(1 nova oferta)...
+2025-09-23 23:11:17,158 - WARNING - Nenhum vendedor identificado, retornando 'Não identificado'
+2025-09-23 23:11:17,277 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:17,280 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:17,283 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:17,286 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:17,289 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:17,291 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:17,294 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:17,297 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:17,300 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:17,303 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:17,306 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:17,309 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:17,312 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:17,315 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:17,318 - INFO - Seletor '.a-size-small' encontrou 0 elementos
+2025-09-23 23:11:17,321 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:17,323 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:17,326 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:17,332 - INFO - Texto do elemento: Kit com 02 Cartuchos HP 667 - Preto e Colorido
+Ver opções
+Nenhuma opção de compra em destaque
+R$ 224,80(2 ofertas de novos)...
+2025-09-23 23:11:17,337 - INFO - Fallback - Texto completo: Kit com 02 Cartuchos HP 667 - Preto e Colorido
+Ver opções
+Nenhuma opção de compra em destaque
+R$ 224,80(2 ofertas de novos)...
+2025-09-23 23:11:17,337 - INFO - Vendedor conhecido encontrado: HP
+2025-09-23 23:11:17,398 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:17,401 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:17,404 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:17,407 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:17,410 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:17,413 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:17,416 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:17,419 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:17,423 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:17,425 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:17,428 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:17,431 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:17,434 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:17,437 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 1 elementos
+2025-09-23 23:11:17,440 - INFO - Texto encontrado: '(17)'
+2025-09-23 23:11:17,444 - INFO - Seletor '.a-size-small' encontrou 2 elementos
+2025-09-23 23:11:17,448 - INFO - Texto encontrado: '4,2
+(17)'
+2025-09-23 23:11:17,451 - INFO - Texto encontrado: '4,2'
+2025-09-23 23:11:17,454 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:17,457 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:17,460 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:17,468 - INFO - Texto do elemento: Cartucho de tinta 667XL preto e colorido combo de substituição para HP 667XL 667 XL cartuchos de tinta funciona para impressoras HP DeskJet 1275 2374 2375 2376 2775 2776 6075 6475 6476 (1 preta, 1
+4,2
+(17)
+R$554
+17
+em até 10x de
+R$55,48 sem juros
+Entrega R$ 8,90: sáb., 4 de out.
+Somente 6 em estoque.
+Adicionar ao carrinho...
+2025-09-23 23:11:17,477 - INFO - Fallback - Texto completo: Cartucho de tinta 667XL preto e colorido combo de substituição para HP 667XL 667 XL cartuchos de tinta funciona para impressoras HP DeskJet 1275 2374 2375 2376 2775 2776 6075 6475 6476 (1 preta, 1
+4,2
+(17)
+R$554
+17
+em até 10x de
+R$55,48 sem juros
+Entrega R$ 8,90: sáb., 4 de out.
+Somente 6 em estoque.
+Adicionar ao carrinho...
+2025-09-23 23:11:17,477 - INFO - Vendedor conhecido encontrado: HP
+2025-09-23 23:11:17,679 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:17,684 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:17,688 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:17,692 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:17,695 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:17,756 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:17,761 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:17,765 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:17,771 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:17,788 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:17,792 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:17,795 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:17,798 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:17,802 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:17,805 - INFO - Seletor '.a-size-small' encontrou 0 elementos
+2025-09-23 23:11:17,808 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:17,812 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:17,815 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:17,824 - INFO - Texto do elemento: Pesquisas relacionadas
+cartucho hp 667 xl
+cartucho hp 662
+cartucho hp 664
+impressora hp...
+2025-09-23 23:11:17,832 - INFO - Fallback - Texto completo: Pesquisas relacionadas
+cartucho hp 667 xl
+cartucho hp 662
+cartucho hp 664
+impressora hp...
+2025-09-23 23:11:17,832 - INFO - Vendedor conhecido encontrado: HP
+2025-09-23 23:11:18,051 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:18,055 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:18,058 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:18,061 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:18,064 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:18,068 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:18,072 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:18,075 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:18,078 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:18,082 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:18,086 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:18,090 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:18,093 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:18,096 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:18,100 - INFO - Seletor '.a-size-small' encontrou 0 elementos
+2025-09-23 23:11:18,103 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:18,106 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:18,109 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:18,115 - INFO - Texto do elemento: Anterior123Próximo...
+2025-09-23 23:11:18,120 - INFO - Fallback - Texto completo: Anterior123Próximo...
+2025-09-23 23:11:18,120 - WARNING - Nenhum vendedor identificado, retornando 'Não identificado'
+2025-09-23 23:11:18,299 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:18,302 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:18,305 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:18,308 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:18,311 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:18,313 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:18,317 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:18,321 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:18,324 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:18,328 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:18,331 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:18,335 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:18,338 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:18,341 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:18,345 - INFO - Seletor '.a-size-small' encontrou 0 elementos
+2025-09-23 23:11:18,348 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:18,351 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:18,354 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:18,359 - INFO - Texto do elemento: Precisa de ajuda?
+Consulte a seção de ajuda ou entre em contato conosco...
+2025-09-23 23:11:18,364 - INFO - Fallback - Texto completo: Precisa de ajuda?
+Consulte a seção de ajuda ou entre em contato conosco...
+2025-09-23 23:11:18,364 - WARNING - Nenhum vendedor identificado, retornando 'Não identificado'
+2025-09-23 23:11:18,542 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:18,545 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:18,548 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:18,551 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:18,554 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:18,557 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:18,559 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:18,562 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:18,565 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:18,568 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:18,570 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:18,574 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:18,577 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:18,580 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:18,582 - INFO - Seletor '.a-size-small' encontrou 0 elementos
+2025-09-23 23:11:18,585 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:18,588 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:18,591 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:18,595 - INFO - Texto do elemento: Patrocinado...
+2025-09-23 23:11:18,598 - INFO - Fallback - Texto completo: Patrocinado...
+2025-09-23 23:11:18,598 - WARNING - Nenhum vendedor identificado, retornando 'Não identificado'
+2025-09-23 23:11:18,774 - INFO - Seletor '[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:18,777 - INFO - Seletor '[offer-display-feature-name='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:18,780 - INFO - Seletor '.offer-display-feature-label[data-cel-widget='desktop-merchant-info']' encontrou 0 elementos
+2025-09-23 23:11:18,783 - INFO - Seletor 'a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:18,785 - INFO - Seletor 'a[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:18,788 - INFO - Seletor 'a[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:18,791 - INFO - Seletor '[data-cy='seller-name']' encontrou 0 elementos
+2025-09-23 23:11:18,794 - INFO - Seletor '[data-asin] a[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:18,797 - INFO - Seletor '.a-size-small .a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:18,800 - INFO - Seletor '.a-size-small .a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:18,802 - INFO - Seletor '.a-size-small .a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:18,805 - INFO - Seletor '.a-color-secondary .a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:18,808 - INFO - Seletor '.a-color-secondary .a-size-small' encontrou 0 elementos
+2025-09-23 23:11:18,811 - INFO - Seletor '.a-size-small .a-link-normal' encontrou 0 elementos
+2025-09-23 23:11:18,814 - INFO - Seletor '.a-size-small' encontrou 0 elementos
+2025-09-23 23:11:18,817 - INFO - Seletor '.a-link-normal[href*='seller']' encontrou 0 elementos
+2025-09-23 23:11:18,820 - INFO - Seletor '.a-link-normal[href*='merchant']' encontrou 0 elementos
+2025-09-23 23:11:18,823 - INFO - Seletor '.a-link-normal[href*='storefront']' encontrou 0 elementos
+2025-09-23 23:11:18,826 - INFO - Texto do elemento: Patrocinado...
+2025-09-23 23:11:18,830 - INFO - Fallback - Texto completo: Patrocinado...
+2025-09-23 23:11:18,830 - WARNING - Nenhum vendedor identificado, retornando 'Não identificado'
+2025-09-23 23:11:18,830 - INFO - Coletados 54 produtos
+2025-09-23 23:11:18,961 - INFO - Driver fechado

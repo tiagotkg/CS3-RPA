@@ -34,3 +34,4 @@ tail -f logs/amazon_scraper.log
 tail -f logs/ai_classifier.log
 tail -f logs/pipeline.log
 ```
+
