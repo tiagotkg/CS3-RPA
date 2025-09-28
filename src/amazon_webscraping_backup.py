@@ -793,86 +793,33 @@ class AmazonScraperV2:
                 
                 # Combinar dados básicos com detalhes
                 complete_product = {**product, **details}
-                
-                # Verificar se tem vendedor válido antes de adicionar
-                has_seller = (
-                    (complete_product.get('seller_detailed') and 
-                     str(complete_product.get('seller_detailed')).strip() and 
-                     str(complete_product.get('seller_detailed')).lower() not in ['nan', 'none', 'null', '']) or
-                    (complete_product.get('seller') and 
-                     str(complete_product.get('seller')).strip() and 
-                     str(complete_product.get('seller')).lower() not in ['nan', 'none', 'null', ''])
-                )
-                
-                if has_seller:
-                    complete_products.append(complete_product)
-                else:
-                    if self.debug:
-                        self.logger.info(f"Produto sem vendedor filtrado: {complete_product.get('title', 'N/A')[:50]}")
+                complete_products.append(complete_product)
                 
                 # Pausa entre produtos para evitar bloqueio
                 time.sleep(2)
             else:
                 if self.debug:
                     self.logger.warning(f"Produto sem URL: {product['title'][:50]}")
-                # Só adiciona se tiver vendedor mesmo sem URL
-                has_seller = (
-                    (product.get('seller_detailed') and 
-                     str(product.get('seller_detailed')).strip() and 
-                     str(product.get('seller_detailed')).lower() not in ['nan', 'none', 'null', '']) or
-                    (product.get('seller') and 
-                     str(product.get('seller')).strip() and 
-                     str(product.get('seller')).lower() not in ['nan', 'none', 'null', ''])
-                )
-                
-                if has_seller:
-                    complete_products.append(product)
-                else:
-                    if self.debug:
-                        self.logger.info(f"Produto sem vendedor e sem URL filtrado: {product.get('title', 'N/A')[:50]}")
+                complete_products.append(product)
         
         return complete_products
+    
     def save_to_csv(self, products, filename="resultados/produtos_amazon_v2.csv"):
-        """Salva os produtos em CSV, filtrando produtos sem vendedor"""
+        """Salva os produtos em CSV"""
         if not products:
             self.logger.warning("Nenhum produto para salvar")
             return
         
-        # Filtrar produtos sem vendedor
-        products_with_seller = []
-        for product in products:
-            # Verificar se tem vendedor válido (seller_detailed ou seller)
-            has_seller = (
-                (product.get('seller_detailed') and 
-                 str(product.get('seller_detailed')).strip() and 
-                 str(product.get('seller_detailed')).lower() not in ['nan', 'none', 'null', '']) or
-                (product.get('seller') and 
-                 str(product.get('seller')).strip() and 
-                 str(product.get('seller')).lower() not in ['nan', 'none', 'null', ''])
-            )
-            
-            if has_seller:
-                products_with_seller.append(product)
-            else:
-                if self.debug:
-                    self.logger.info(f"Produto sem vendedor filtrado: {product.get('title', 'N/A')[:50]}")
-        
-        if not products_with_seller:
-            self.logger.warning("Nenhum produto com vendedor para salvar")
-            return
-        
-        df = pd.DataFrame(products_with_seller)
+        df = pd.DataFrame(products)
         df.to_csv(filename, index=False, encoding='utf-8')
         self.logger.info(f"Produtos salvos em {filename}")
         
         # Estatísticas
-        self.logger.info(f"Total de produtos processados: {len(products)}")
-        self.logger.info(f"Produtos com vendedor salvos: {len(df)}")
-        self.logger.info(f"Produtos sem vendedor filtrados: {len(products) - len(df)}")
-        
+        self.logger.info(f"Total de produtos: {len(df)}")
         if 'seller_detailed' in df.columns:
             identified_sellers = df['seller_detailed'].notna().sum()
             self.logger.info(f"Vendedores identificados: {identified_sellers}")
+    
     def close(self):
         """Fecha o driver"""
         if self.driver:

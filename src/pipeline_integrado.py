@@ -193,15 +193,39 @@ class IntegratedPiracyDetectionPipeline:
         return all_products
     
     def analyze_products_with_ai(self, products):
-        """Analisa produtos com IA"""
+        """Analisa produtos com IA, filtrando produtos sem vendedor"""
         if not products:
             self.logger.warning("Nenhum produto para analisar")
             return pd.DataFrame()
         
         self.logger.info("Analisando produtos com IA...")
         
+        # Filtrar produtos sem vendedor antes da análise
+        products_with_seller = []
+        for product in products:
+            # Verificar se tem vendedor válido
+            has_seller = (
+                (product.get('seller_detailed') and 
+                 str(product.get('seller_detailed')).strip() and 
+                 str(product.get('seller_detailed')).lower() not in ['nan', 'none', 'null', '']) or
+                (product.get('seller') and 
+                 str(product.get('seller')).strip() and 
+                 str(product.get('seller')).lower() not in ['nan', 'none', 'null', ''])
+            )
+            
+            if has_seller:
+                products_with_seller.append(product)
+            else:
+                self.logger.info(f"Produto sem vendedor filtrado: {product.get('title', 'N/A')[:50]}")
+        
+        if not products_with_seller:
+            self.logger.warning("Nenhum produto com vendedor para analisar")
+            return pd.DataFrame()
+        
+        self.logger.info(f"Produtos com vendedor para análise: {len(products_with_seller)}/{len(products)}")
+        
         # Converter para DataFrame
-        df = pd.DataFrame(products)
+        df = pd.DataFrame(products_with_seller)
         
         # Mapear seller_detailed para seller se disponível
         if 'seller_detailed' in df.columns:
@@ -229,7 +253,6 @@ class IntegratedPiracyDetectionPipeline:
             df['ai_confidence'] = 0.5  # Confiança padrão
         
         return df
-    
     def analisar_niveis_risco(self, df):
         """Analisa níveis de risco dos produtos"""
         if len(df) == 0:
