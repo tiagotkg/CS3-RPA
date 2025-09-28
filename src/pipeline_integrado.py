@@ -4,7 +4,7 @@ from datetime import datetime
 import logging
 import os
 import json
-from amazon_webscraping import AmazonScraper
+from amazon_webscraping import AmazonScraperV2
 from classificador_ia import PiracyDetectionClassifier
 import warnings
 warnings.filterwarnings('ignore')
@@ -73,8 +73,9 @@ class IntegratedPiracyDetectionPipeline:
         """Configura os componentes do pipeline"""
         try:
             # Inicializar scraper
-            self.scraper = AmazonScraper(
-                headless=self.config['scraping']['headless']
+            self.scraper = AmazonScraperV2(
+                headless=self.config['scraping']['headless'],
+                debug=True
             )
             
             # Inicializar classificador
@@ -179,11 +180,9 @@ class IntegratedPiracyDetectionPipeline:
         for term in search_terms:
             self.logger.info(f"Buscando: {term}")
             try:
-                # Compatibilidade: método foi renomeado para buscar_produtos
-                if hasattr(self.scraper, 'buscar_produtos'):
-                    products = self.scraper.buscar_produtos(term, max_pages)
-                else:
-                    products = self.scraper.search_products(term, max_pages)
+                # Usar o novo método de scraping completo
+                search_url = f"https://www.amazon.com.br/s?k={term.replace(' ', '+')}"
+                products = self.scraper.scrape_complete_products(search_url, max_pages)
                 all_products.extend(products)
                 self.logger.info(f"Encontrados {len(products)} produtos para '{term}'")
             except Exception as e:
@@ -203,6 +202,23 @@ class IntegratedPiracyDetectionPipeline:
         
         # Converter para DataFrame
         df = pd.DataFrame(products)
+        
+        # Mapear seller_detailed para seller se disponível
+        if 'seller_detailed' in df.columns:
+            self.logger.info(f"Campo seller_detailed encontrado com {df['seller_detailed'].notna().sum()} valores")
+            df['seller'] = df['seller_detailed'].fillna(df.get('seller', ''))
+            self.logger.info(f"Vendedores mapeados: {df['seller'].notna().sum()}/{len(df)}")
+        else:
+            self.logger.warning("Campo seller_detailed não encontrado nos dados")
+            self.logger.info(f"Colunas disponíveis: {list(df.columns)}")
+        
+        # Mapear price_detailed para price se disponível
+        if 'price_detailed' in df.columns:
+            self.logger.info(f"Campo price_detailed encontrado com {df['price_detailed'].notna().sum()} valores")
+            df['price'] = df['price_detailed'].fillna(df.get('price', ''))
+            self.logger.info(f"Preços mapeados: {df['price'].notna().sum()}/{len(df)}")
+        else:
+            self.logger.warning("Campo price_detailed não encontrado nos dados")
         
         # Fazer predições
         if self.classifier.is_trained:

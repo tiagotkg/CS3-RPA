@@ -7,7 +7,9 @@
       "cartucho HP 662"
     ],
     "max_pages": 2,
-    "headless": true
+    "headless": true,
+    "debug": false,
+    "wait_time": 2
   },
   "ai": {
     "model_file": "resultados/modelo_deteccao_pirataria.pkl",
