@@ -307,6 +307,21 @@ class IntegratedPiracyDetectionPipeline:
                 th, td {{ border: 1px solid #ddd; padding: 8px; text-align: left; }}
                 th {{ background-color: #f2f2f2; }}
                 .alert {{ background-color: #ffcdd2; padding: 10px; border-radius: 5px; margin: 10px 0; }}
+                .product-link {{ 
+                    background-color: #007bff; 
+                    color: white; 
+                    padding: 5px 10px; 
+                    text-decoration: none; 
+                    border-radius: 3px; 
+                    font-size: 12px;
+                    display: inline-block;
+                    transition: background-color 0.3s;
+                }}
+                .product-link:hover {{ 
+                    background-color: #0056b3; 
+                    color: white;
+                    text-decoration: none;
+                }}
             </style>
         </head>
         <body>
@@ -362,9 +377,12 @@ class IntegratedPiracyDetectionPipeline:
         if len(df) == 0:
             return "<p>Nenhum produto de alto risco encontrado.</p>"
         
-        html = "<table><tr><th>Título</th><th>Preço</th><th>Vendedor</th><th>Predição IA</th><th>Score de Risco</th></tr>"
+        html = "<table><tr><th>Título</th><th>Preço</th><th>Vendedor</th><th>Predição IA</th><th>Score de Risco</th><th>Ação</th></tr>"
         
         for _, row in df.iterrows():
+            product_url = row.get('url', '')
+            link_button = f'<a href="{product_url}" target="_blank" class="product-link">Ver Produto</a>' if product_url else 'N/A'
+            
             html += f"""
             <tr>
                 <td>{row.get('title', 'N/A')}</td>
@@ -372,6 +390,7 @@ class IntegratedPiracyDetectionPipeline:
                 <td>{row.get('seller', 'N/A')}</td>
                 <td>{row.get('ai_prediction', 'N/A')}</td>
                 <td>{row.get('risk_score', 'N/A')}</td>
+                <td>{link_button}</td>
             </tr>
             """
         
@@ -396,10 +415,13 @@ class IntegratedPiracyDetectionPipeline:
         if len(df) == 0:
             return "<p>Nenhum produto encontrado.</p>"
         
-        html = "<table><tr><th>Título</th><th>Preço</th><th>Vendedor</th><th>Predição IA</th><th>Nível de Risco</th></tr>"
+        html = "<table><tr><th>Título</th><th>Preço</th><th>Vendedor</th><th>Predição IA</th><th>Nível de Risco</th><th>Ação</th></tr>"
         
         for _, row in df.iterrows():
             risk_class = row.get('risk_level', 'N/A')
+            product_url = row.get('url', '')
+            link_button = f'<a href="{product_url}" target="_blank" class="product-link">Ver Produto</a>' if product_url else 'N/A'
+            
             html += f"""
             <tr class="{risk_class.lower().replace('é', 'e')}-risk">
                 <td>{row.get('title', 'N/A')}</td>
@@ -407,6 +429,7 @@ class IntegratedPiracyDetectionPipeline:
                 <td>{row.get('seller', 'N/A')}</td>
                 <td>{row.get('ai_prediction', 'N/A')}</td>
                 <td>{risk_class}</td>
+                <td>{link_button}</td>
             </tr>
             """
         
