@@ -7,9 +7,12 @@
 - **556984** - Tiago Toshio Kumagai Gibo
 
 
-# Sistema de Hiperautomação para Detecção de Pirataria
+# Sistema de Hiperautomação para Detecção de 
 
 Este projeto implementa um sistema de hiperautomação que combina RPA (Robotic Process Automation) e técnicas de IA leve para identificar automaticamente indícios de pirataria em produtos de cartuchos HP.
+
+## 📁 Link do Github
+https://github.com/tiagotkg/CS3-RPA.git
 
 ## 🎯 Objetivos
 
