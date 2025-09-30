@@ -42,31 +42,19 @@ CS3-RPA/
 │   ├── classificador_ia.py   # Classificador de IA para detecção
 │   ├── pipeline_integrado.py # Pipeline integrado completo
 │   └── analisar_dados.py     # Análise dos dados existentes
-├── tests/                    # Diretório de testes
-│   ├── __init__.py          # Pacote Python
-│   ├── README.md            # Documentação dos testes
-│   ├── testar_pipeline.py   # Testes do sistema
-│   └── testar_pipeline_completo.py # Teste completo
 ├── data/                     # Dados do projeto
-│   ├── base_dados.csv       # Base de dados existente
-│   ├── catalogo.csv         # Catálogo oficial HP
+│   ├── base_dados.csv        # Base de dados existente
+│   ├── catalogo.csv          # Catálogo oficial HP
 │   ├── complete_pipeline_results.csv # Resultados do pipeline
 │   └── products_with_ai_analysis.csv # Produtos com análise de IA
-├── logs/                     # Logs do sistema
-│   ├── README.md            # Documentação dos logs
-│   ├── ai_classifier.log    # Log do classificador
-│   └── amazon_scraper.log   # Log do scraper
 ├── resultados/               # Arquivos de saída
 │   ├── modelo_deteccao_pirataria.pkl # Modelo de IA treinado
 │   ├── resultados_*.csv      # Resultados das análises
 │   └── relatorio_*.html      # Relatórios HTML
-├── config.json              # Configurações do sistema
-├── requirements.txt         # Dependências Python
-├── .gitignore              # Arquivos ignorados pelo Git
-├── README.md               # Este arquivo
-├── Projeto.md              # Especificações do projeto
-├── RELATORIO_TECNICO.md    # Relatório técnico
-└── RESUMO_FINAL.md         # Resumo final
+├── config.json               # Configurações do sistema
+├── requirements.txt          # Dependências Python
+├── .gitignore                # Arquivos ignorados pelo Git
+└── README.md                 # Este arquivo
 ```
 
 ## 🚀 Instalação e Configuração
@@ -101,7 +89,6 @@ O projeto foi organizado seguindo as melhores práticas:
 - **`src/`**: Código principal do sistema
 - **`tests/`**: Testes organizados com documentação
 - **`data/`**: Dados do projeto (CSV, resultados)
-- **`logs/`**: Logs organizados por componente
 - **`.gitignore`**: Configurado para ignorar arquivos desnecessários
 
 ## 📊 Como Usar
@@ -147,7 +134,6 @@ Executa apenas o scraping da Amazon (requer navegador Chrome).
 - **Tecnologia**: Selenium WebDriver
 - **Dados Coletados**: Título, preço, vendedor, avaliações, URL
 - **Filtros**: Identifica produtos suspeitos em tempo real
-- **Logs**: Salvos em `logs/amazon_scraper.log`
 
 ### 2. AI Classifier (`src/classificador_ia.py`)
 
@@ -156,7 +142,6 @@ Executa apenas o scraping da Amazon (requer navegador Chrome).
 - **Classes**: ORIGINAL, SUSPEITO, COMPATIVEL
 - **Acurácia**: ~85.7% nos dados de teste
 - **Modelo**: Salvo em `resultados/modelo_deteccao_pirataria.pkl`
-- **Logs**: Salvos em `logs/ai_classifier.log`
 
 ### 3. Risk Analyzer
 
@@ -235,8 +220,3 @@ O sistema gera alertas automáticos para:
 ### Modelo e Configuração
 - `resultados/modelo_deteccao_pirataria.pkl`: Modelo de IA treinado
 - `config.json`: Configurações do sistema
-
-### Logs
-- `logs/amazon_scraper.log`: Logs do scraper
-- `logs/ai_classifier.log`: Logs do classificador
-- `logs/pipeline.log`: Logs do pipeline integrado
