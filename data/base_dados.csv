@@ -1,5 +1,5 @@
-id,products_url_id,url,title,price,review_rating,review_amount,seller,description,brand,product_line,model,sales_format,page_yield,cartridge_type,comments_scraped,volume_total_ml,data_cadastro_data,data_cadastro_hora,real_prod,real_price
-1,1,https://www.mercadolivre.com.br/cartucho-hp-667-colorido-3ym78ab/p/MLB22658653#polycard_client=search-nordic&searchVariation=MLB22658653&wid=MLB3897978171&position=4&search_layout=grid&type=product&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&sid=search,Cartucho Hp 667 Colorido 3ym78ab,71.9,4.7,1906,vanvan,"Características do Produto:
+id,products_url_id,url,title,price,review_rating,review_amount,seller,description,brand,product_line,model,sales_format,volume_total,page_yield,cartridge_type,comments_scraped,data_cadastro
+1,1,https://www.mercadolivre.com.br/cartucho-hp-667-colorido-3ym78ab/p/MLB22658653#polycard_client=search-nordic&searchVariation=MLB22658653&wid=MLB3897978171&position=4&search_layout=grid&type=product&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&sid=search,Cartucho Hp 667 Colorido 3ym78ab,71.9,4.7,"1,906",vanvan,"Características do Produto:
 Volume de páginas impressas: até 120 páginas.
 Impressões que funcionam todas as vezes. Cartuchos projetados para alto rendimento. Impressões resistentes à água e que não desbotam com o tempo. Cores mais vibrantes e nítidas. Com Tecnologia anti curvas. Fotos e documentos que duram mais de 50 anos sem perder a cor e a qualidade. Resultados superiores da primeira à última página, sem obstruções ou impressões com bandas. Impressão sustentável, os cartuchos HP são feitos com até 50% de material reciclado.
 Compatíveis com a nova geração de impressoras Deskjet Ink Advantage da HP, que contempla as impressoras:
@@ -10,8 +10,8 @@ DESKJET INK ADVANTAGE 2375;
 DESKJET INK ADVANTAGE 2374;
 DESKJET INK ADVANTAGE 1275;
 HP Deskjet Ink Advantage Plus 6475;
-HP Deskjet Ink Advantage Plus 6476.",HP,Ink Advantage,667,Unidade,120,Original,1,2,2025-06-16,03:16:51,,
-2,2,https://www.mercadolivre.com.br/cartucho-hp-667-preto-2376-2776-6476/p/MLB22022306#polycard_client=search-nordic&searchVariation=MLB22022306&wid=MLB3713375243&position=14&search_layout=grid&type=product&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&sid=search,Cartucho HP 667 Preto 2376 2776 6476,60.21,4.7,1906,OBERO INFORMATICA,"cartucho HP 667 (3YM79AB) Preto 2ml
+HP Deskjet Ink Advantage Plus 6476.",HP,Ink Advantage,667,Unidade,2 mL,120,Original,1,2025-06-16 03:16:51
+2,2,https://www.mercadolivre.com.br/cartucho-hp-667-preto-2376-2776-6476/p/MLB22022306#polycard_client=search-nordic&searchVariation=MLB22022306&wid=MLB3713375243&position=14&search_layout=grid&type=product&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&sid=search,Cartucho HP 667 Preto 2376 2776 6476,60.21,4.7,"1,906",OBERO INFORMATICA,"cartucho HP 667 (3YM79AB) Preto 2ml
 
 
 Especificações de impressão
@@ -30,8 +30,65 @@ Hp Deskjet Ink Advantage Plus 6475, 6476
 
 DESCRIÇÃO
 -Imprima todas as fotos e documentos de alta qualidade.
--Desempenho em alta velocidade as tintas originais HP são elaboradas para ajudar você a imprimir rapidamente sem abrir mão da qualidade.",HP,Ink Advantage,667,Unidade,120,Original,1,2,2025-06-16,03:16:58,,
-5,5,https://www.mercadolivre.com.br/cartucho-de-tinta-hp-667-cor-preto-do-2-ml/p/MLB37141763#polycard_client=search-nordic&searchVariation=MLB37141763&wid=MLB5211173074&position=5&search_layout=grid&type=product&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&sid=search,Cartucho De Tinta Hp 667 Cor Preto Do 2 Ml,64.69,4.8,3386,Eshop,"Características do Produto:
+-Desempenho em alta velocidade as tintas originais HP são elaboradas para ajudar você a imprimir rapidamente sem abrir mão da qualidade.",HP,Ink Advantage,667,Unidade,2 mL,120,Original,1,2025-06-16 03:16:58
+3,3,https://www.mercadolivre.com.br/cartucho-de-tinta-hp-667-deskjet-ink-advantage-cor-preto-e-colorido-do-4-ml-2-unidades/p/MLB36785112#polycard_client=search-nordic&searchVariation=MLB36785112&wid=MLB4678636310&position=1&search_layout=grid&type=product&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&sid=search,Cartucho De Tinta Hp 667 Deskjet Ink Advantage Cor Preto E Colorido Do 4 Ml 2 Unidades,153.1,4.8,"1,960",OBERO INFORMATICA,"Itens incluso nesse kit:
+1 cartucho HP 667 (3YM79AB) Preto 2ml
+1 cartucho HP 667 (3YM78AB) Tricolor 2ml
+
+Especificações de impressão
+-Conteúdo: 2ml
+-Tecnologia de impressão: Jato de tinta
+
+Rendimento
+-1 Cartucho 667 preto rende até 120 páginas.
+-1 Cartucho 667 tricolor rende até 100 páginas.
+
+Rendimento considerando 5% de cobertura na folha A4.
+Para um bom rendimento do cartucho o ideal é não ultrapassarmos os 5% área de cobertura. Quando utilizado o recurso de negritar títulos, trechos ou incluímos imagens essa porcentagem de cobertura facilmente sobe para 10%. Isto faz com que seu cartucho dure menos páginas.
+
+Impressoras Compatíveis
+Hp Deskjet Ink Advantage 1275, 2374, 2375, 2376, 2775, 2776
+Hp Deskjet Ink Advantage Plus 6475, 6476
+
+DESCRIÇÃO
+-Imprima todas as fotos e documentos de alta qualidade.",HP,Advantage,667 Deskjet Ink Advantage,Kit,4 mL,220,Original,1,2025-06-16 03:17:04
+4,4,https://www.mercadolivre.com.br/kit-cartucho-hp-664-preto-e-hp-664-colorido/p/MLB36751072#polycard_client=search-nordic&searchVariation=MLB36751072&wid=MLB3789824595&position=6&search_layout=grid&type=product&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&sid=search,Kit Cartucho Hp 664 Preto E Hp 664 Colorido,146.82,4.7,"3,315",Eshop,"KIT DE CARTUCHOS DE TINTA HP ORIGINAL 664 PRETO E COLORIDO
+
+1 Cartucho HP 664 preto + 1 Cartucho HP 664 Color
+
+ESPECIFICAÇÕES:
+- Desempenho: Até 120 páginas
+- Compatibilidade:
+HP DeskJet 1110
+HP DeskJet 1115
+HP DeskJet 2130
+HP DeskJet 2134
+HP DeskJet 2135
+HP DeskJet 2136
+HP Deskjet 2674
+HP Deskjet 2675
+HP Deskjet 2676
+HP DeskJet 3630
+HP DeskJet 3636
+HP OfficeJet 3830
+HP Deskjet Ink Advantage 3776
+HP Deskjet Ink Advantage 3786
+HP Deskjet Ink Advantage 3788
+HP Deskjet Ink Advantage 3790
+HP Deskjet Ink Advantage 3836
+HP Deskjet Ink Advantage 4536
+HP Deskjet Ink Advantage 4676
+HP DeskJet Ink Advantage 5076
+HP DeskJet Ink Advantage 5276
+
+- Cor: Preto
+- Tipo de Desempenho: Padrão
+- Conteúdo da Embalagem: Cartucho novo de tinta HP original
+
+CARACTERÍSTICAS DO PRODUTO:
+Obtenha a qualidade da HP que você conhece e confia. Imprima documentos todos os dias com texto e imagens nítidas e os custos de impressão acessíveis com os cartuchos originais HP. Imprima bordas perfeitas em textos e em gráficos, usando Cartuchos Originais HP. Qualidade impressionante de texto e imagens para desfrutar de documentos e fotos.
+Média baseada em ISO / IEC 24711 ou na metodologia de teste HP e impressão contínua. O desempenho real varia consideravelmente com base no conteúdo das páginas impressas e outros fatores.",HP,Advantage,664,Kit,2 mL,100,Original,1,2025-06-16 03:17:11
+5,5,https://www.mercadolivre.com.br/cartucho-de-tinta-hp-667-cor-preto-do-2-ml/p/MLB37141763#polycard_client=search-nordic&searchVariation=MLB37141763&wid=MLB5211173074&position=5&search_layout=grid&type=product&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&sid=search,Cartucho De Tinta Hp 667 Cor Preto Do 2 Ml,64.69,4.8,"3,386",Eshop,"Características do Produto:
 
 Cartucho HP 667 preto
 
@@ -40,8 +97,8 @@ Rendimento: 100 páginas (com cobertura de 5%).
 Impressoras e Multifuncionais Compatíveis:
 
 Deskjet Ink Advantage 2376; Deskjet Ink Advantage 2776; Deskjet Ink Advantage 6476
-HP DeskJet Plus Ink Advantage 6000 series, HP DeskJet Plus Ink Advantage 6400 series, HP Deskjet Ink Advantage 1200 Printer, HP Deskjet Ink Advantage 2300 All-in-One, HP DeskJet Ink Advantage 2700 All-in-One Printer, HP DeskJet Ink Advantage 4100 All-in-One Printer - Deskjet Ink Advantage 2774.",HP,Advantage,667,Unidade,100,Original,1,2,2025-06-16,03:17:17,,
-6,6,https://produto.mercadolivre.com.br/MLB-2685036387-kit-cartucho-tinta-original-hp-667-pretocolorido-2376-2774-_JM#polycard_client=search-nordic&position=38&search_layout=grid&type=item&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&wid=MLB2685036387&sid=search,Kit Cartucho Tinta Original Hp 667 Preto/colorido 2376 2774,154.9,4.7,3759,OBERO INFORMATICA,"***REVENDEDOR OFICIAL HP BRASIL***
+HP DeskJet Plus Ink Advantage 6000 series, HP DeskJet Plus Ink Advantage 6400 series, HP Deskjet Ink Advantage 1200 Printer, HP Deskjet Ink Advantage 2300 All-in-One, HP DeskJet Ink Advantage 2700 All-in-One Printer, HP DeskJet Ink Advantage 4100 All-in-One Printer - Deskjet Ink Advantage 2774.",HP,Advantage,667,Unidade,2 mL,100,Original,1,2025-06-16 03:17:17
+6,6,https://produto.mercadolivre.com.br/MLB-2685036387-kit-cartucho-tinta-original-hp-667-pretocolorido-2376-2774-_JM#polycard_client=search-nordic&position=38&search_layout=grid&type=item&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&wid=MLB2685036387&sid=search,Kit Cartucho Tinta Original Hp 667 Preto/colorido 2376 2774,154.9,4.7,"3,759",OBERO INFORMATICA,"***REVENDEDOR OFICIAL HP BRASIL***
 
 Obtenha a qualidade da HP que você conhece e confia. Imprima documentos todos os dias com texto e imagens nítidas e os custos de impressão acessíveis com os cartuchos originais HP. Imprima bordas perfeitas em textos e em gráficos, usando Cartuchos Originais HP. Qualidade impressionante de texto e imagens para desfrutar de documentos e fotos.
 
@@ -87,7 +144,32 @@ Kit
 
 1 (um) Cartucho de Tinta HP 667 3YM79AL Original Preto / 2ml
 
-1 (um) Cartucho de Tinta HP 667 3YM78AL Original Colorido / 2ml",HP,Advantage,667,Unidade,100,Original,1,2,2025-06-16,03:17:24,,
+1 (um) Cartucho de Tinta HP 667 3YM78AL Original Colorido / 2ml",HP,Advantage,667,Unidade,2 mL,100,Original,1,2025-06-16 03:17:24
+7,7,https://produto.mercadolivre.com.br/MLB-3142771512-kit-2-cartuchos-tinta-preta-hp-667-original-1275-2374-2375-_JM#is_advertising=true&backend_model=search-backend&position=7&search_layout=grid&type=pad&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=7&ad_click_id=MjJhNDg0YzItMzcwYS00ZmNjLTg1NDYtMjAxYmFmMTNlMTk4,Kit 2 Cartuchos Tinta Preta Hp 667 Original 1275 2374 2375,179.2,4.8,93,SARAIVA COMERCIO,"Kit 2 Cartuchos de Tinta Hp 667 Preta 3YM79AL 1275 2374 2375 2376 2775 2776 6475 6476
+
+Acompanha
+
+- 2 Cartuchos Preto 667
+- Rendimento em Preto 120 paginas por cartucho
+- Tecnologia de impressão: Jato de Tinta
+- Capacidade/Rendimento: 2 ml cada
+
+Compatíveis com a nova geração de impressoras Deskjet Ink Advantage da HP, que contempla as impressoras:
+
+DESKJET INK ADVANTAGE 1275;
+DESKJET INK ADVANTAGE 2374;
+DESKJET INK ADVANTAGE 2375;
+DESKJET INK ADVANTAGE 2376;
+DESKJET INK ADVANTAGE 2774;
+DESKJET INK ADVANTAGE 2775;
+DESKJET INK ADVANTAGE 2776;
+DESKJET INK ADVANTAGE 2874;
+HP Deskjet Ink Advantage Plus 6475;
+HP Deskjet Ink Advantage Plus 6476.
+
+Produto novo, 100% Original, lacrado, com nota fiscal, envio rápido.
+
+Garantia do vendedor: 3 meses",HP,,Impressoras 2774 2874 2376 2775 2776 6475 6476 - 3YM79AB,Kit,4 mL,220,Original,1,2025-06-16 03:17:31
 8,8,https://produto.mercadolivre.com.br/MLB-1754285285-kit-cartucho-667-preto-color-original-hp-2376-2775-2776-6476-_JM#is_advertising=true&backend_model=search-backend&position=8&search_layout=grid&type=pad&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=8&ad_click_id=ZWY1MzQzYWUtNTUyMC00ODFhLWJlMGItODBlMmZkMWNlMjRk,Kit Cartucho 667 Preto Color Original Hp 2376 2775 2776 6476,169.2,4.7,709,Primer Print,"KIT COM 2 CARTUCHOS HP 667 PRETO e COLOR 
  
 Produtos originais com NF-e
@@ -114,8 +196,78 @@ Comprimento da embalagem: 3,63 cm
 Pesos:
 Peso bruto: 0,073 Kg
 Peso líquido: 0,073 Kg
- ",HP,,667,Kit,120,Original,1,4,2025-06-16,03:17:37,,
-12,12,https://www.mercadolivre.com.br/cartucho-de-tinta-hp-667-cor-preto-colorido-do-2-ml/p/MLB36840204#polycard_client=search-nordic&searchVariation=MLB36840204&wid=MLB5247041942&position=11&search_layout=grid&type=product&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&sid=search,Cartucho De Tinta Hp 667 Cor Preto Colorido Do 2 Ml,151.9,4.7,1906,SCOTCH,"Kit Cartucho Hp 667 Preto + Hp 667 Colorido para impressões de alta qualidade. Com este kit, é possível imprimir até 200 páginas. As impressões possuem durabilidade de até 100 anos.
+ ",HP,,667,Kit,4 mL,120,Original,1,2025-06-16 03:17:37
+9,9,https://produto.mercadolivre.com.br/MLB-2864554866-2x-cartucho-tinta-original-hp-667xl-2776-2376-3ym81al-preto-_JM#is_advertising=true&backend_model=search-backend&position=9&search_layout=grid&type=pad&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=9&ad_click_id=ZTQ2NDY4MzAtMTgzNi00NzdhLTkxN2EtZmE5Y2Y4ODA4MWUy,2x Cartucho Tinta Original Hp 667xl 2776 2376 3ym81al Preto,419.94,4.6,7,Tec Print,"02 cartuchos originais novos preto HP 667XL .
+
+Os Cartuchos Originais HP permitem uma excelente qualidade na impressão, com alta performance em impressões da primeira a ultima página.
+
+Características Gerais :
+
+- Volume de páginas impressas: até 480 páginas*
+
+- Economize em papel, tinta e energia com impressões 100% perfeitas .
+
+- Resistente à umidade e água, impressões resistentes a manchas e desbotamentos .
+
+- Tecnologia anti curvas, páginas mais planas e mais secas quando saem da sua impressora .
+
+- Fotos e documentos que duram mais de 50 anos sem perder a cor e a qualidade
+
+- Resultados superiores da primeira à última página, sem obstruções ou impressões com bandas.
+
+- Impressão sustentável, os cartuchos HP originais são feitos com até 50% de material reciclado .
+
+Impressoras Compatíveis:
+
+HP Deskjet Ink Advantage 1275
+HP Deskjet Ink Advantage 2374
+HP Deskjet Ink Advantage 2375
+HP Deskjet Ink Advantage 2376
+HP Deskjet Ink Advantage 2775
+HP Deskjet Ink Advantage 2776
+HP Deskjet Ink Advantage Plus 6475
+HP Deskjet Ink Advantage Plus 6476
+
+Especificações:
+
+Imagens reais do produto
+Referencia no Cartucho: HP 667 - 3YM81AL
+Cor: Preto
+Classe: Original
+Volume de tinta: **8,5ml
+Peso: 38gr
+
+Rendimento: *480 páginas
+Fabricante: Hewlett Packard
+
+
+Garantia: 3 meses para defeito de fabricação com HP
+
+*Rendimento com base em aproximadamente 5% de cobertura por pagina A4.
+
+*O rendimento real varia consideravelmente de acordo com o conteúdo das páginas impressas e outros fatores.",HP,DesignJet,667xl 667 Deskjet Ink Advantage 2376; Deskjet Ink Advantage 2776 Deskjet Ink Advantage 6476,Unidade,"8,5 mL",480,Original,1,2025-06-16 03:17:44
+10,10,https://www.mercadolivre.com.br/cartucho-hp-667-667xl-deskjet-2776-preto/p/MLB22843608#polycard_client=search-nordic&searchVariation=MLB22843608&wid=MLB3905774637&position=12&search_layout=grid&type=product&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&sid=search,Cartucho Hp 667 667xl Deskjet 2776 Preto,129.9,4.3,576,TC20240813115050,"O Cartucho de Tinta HP 667XL Preto é a escolha ideal para quem busca qualidade e eficiência na impressão. Com tinta pigmentada, este cartucho proporciona impressões nítidas e duradouras, garantindo que seus documentos e fotos tenham a melhor apresentação possível. Compatível com as impressoras HP DeskJet 2376, 2774 e 2776, ele se destaca pela facilidade de instalação e uso.
+
+Este cartucho é recarregável, o que representa uma opção sustentável e econômica para quem imprime com frequência. A marca HP é reconhecida mundialmente pela sua confiabilidade e inovação, oferecendo produtos que atendem às necessidades dos usuários mais exigentes. Com o modelo 667XL, você terá um rendimento superior, permitindo que você imprima mais páginas sem a necessidade de troca constante de cartucho.
+
+Ideal para ambientes de trabalho, escolas ou uso doméstico, o Cartucho de Tinta HP 667XL Preto é a solução perfeita para quem não abre mão da qualidade. Invista em impressões de alta definição e mantenha seus projetos sempre em destaque.",HP,DeskJet,667XL,Unidade,,480,Original,1,2025-06-16 03:17:49
+11,11,https://www.mercadolivre.com.br/cartucho-de-tinta-hp-tricolor-667/p/MLB36752162#polycard_client=search-nordic&searchVariation=MLB36752162&wid=MLB3929212729&position=2&search_layout=grid&type=product&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&sid=search,Cartucho De Tinta Hp Tricolor 667,68.55,4.7,"1,203",Eshop,"Cartucho HP 667 Colorido
+
+Maximize o uso de sua impressora HP com tinta de alta qualidade. Imprima fotos e documentos com cores vivas e texto nítido.
+
+Alertas de baixo nível de tinta ajudam a evitar que a tinta acabe em momentos inoportunos.
+
+Os cartuchos são projetados para entregar cores vibrantes e texto claro.
+
+- Rendimento Preto: 100 páginas
+- Tecnologia de impressão: Jato de Tinta
+- Capacidade: 2 ml
+
+Impressoras Compatíveis:
+- HP Deskjet Ink Advantage 2376
+- HP Deskjet Ink Advantage 2776
+- HP Deskjet Ink Advantage 6476",HP,Advantage,HP 667 Colorido,Unidade,2 mL,100,Original,1,2025-06-16 03:17:56
+12,12,https://www.mercadolivre.com.br/cartucho-de-tinta-hp-667-cor-preto-colorido-do-2-ml/p/MLB36840204#polycard_client=search-nordic&searchVariation=MLB36840204&wid=MLB5247041942&position=11&search_layout=grid&type=product&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&sid=search,Cartucho De Tinta Hp 667 Cor Preto Colorido Do 2 Ml,151.9,4.7,"1,906",SCOTCH,"Kit Cartucho Hp 667 Preto + Hp 667 Colorido para impressões de alta qualidade. Com este kit, é possível imprimir até 200 páginas. As impressões possuem durabilidade de até 100 anos.
 
 Compatível com os seguintes modelos de impressoras:
 
@@ -126,7 +278,7 @@ Compatível com os seguintes modelos de impressoras:
 - Deskjet 2775
 - Deskjet 2776
 - Deskjet ink advantage Plus 6475
-- Deskjet ink advantage Plus 6476",HP,Ink Advantage,667,Unidade,120,Original,1,2,2025-06-16,03:18:03,,
+- Deskjet ink advantage Plus 6476",HP,Ink Advantage,667,Unidade,2 mL,120,Original,1,2025-06-16 03:18:03
 13,13,https://produto.mercadolivre.com.br/MLB-3837311410-kit-cartuchos-tinta-hp-667-preto-hp-667-color-menor-preco-_JM#polycard_client=search-nordic&position=39&search_layout=grid&type=item&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&wid=MLB3837311410&sid=search,Kit Cartuchos Tinta Hp 667 Preto + Hp 667 Color Menor Preço,147.99,4.7,573,vanvan,"*** REVENDEDOR OFICIAL HP BRASIL ***
 
 
@@ -172,7 +324,7 @@ Kit
 
 1 (um) Cartucho de Tinta HP 667 3YM79AL Preto / 2ml
 
-1 (um) Cartucho de Tinta HP 667 3YM78AL Colorido / 2ml",HP,,667,Kit,120,Original,1,4,2025-06-16,03:18:09,,
+1 (um) Cartucho de Tinta HP 667 3YM78AL Colorido / 2ml",HP,,667,Kit,4 mL,120,Original,1,2025-06-16 03:18:09
 14,14,https://www.mercadolivre.com.br/cartucho-de-tinta-hp-667-cor-preto-do-2-ml/p/MLB38358712#polycard_client=search-nordic&searchVariation=MLB38358712&wid=MLB4697490898&position=10&search_layout=grid&type=product&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&sid=search,Cartucho De Tinta Hp 667 Cor Preto Do 2 Ml,73.37,4.8,206,JCMULTVENDAS,"- Volume de páginas impressas: até 100 páginas
 
 - Impressões que funcionam todas as vezes. Cartuchos projetados para alto rendimento
@@ -210,7 +362,7 @@ Serie Deskjet Ink Advantage 1200
 Serie DeskJet Ink Advantage 4100
 
 Itens Inclusos na Embalagem:
-- 1 unidade Cartucho de Tinta HP 667 3YM79AL Preto 2ml",HP,Ink Advantage,667,Unidade,100,Original,1,2,2025-06-16,03:18:16,,
+- 1 unidade Cartucho de Tinta HP 667 3YM79AL Preto 2ml",HP,Ink Advantage,667,Unidade,2 mL,100,Original,1,2025-06-16 03:18:16
 15,15,https://www.mercadolivre.com.br/kit-cartucho-hp-667-preto-e-667-colorido-2376-2776/p/MLB39019456#polycard_client=search-nordic&searchVariation=MLB39019456&wid=MLB5081972264&position=20&search_layout=grid&type=product&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&sid=search,Kit Cartucho Hp 667 Preto E 667 Colorido 2376 2776,152.9,4.7,190,TC20240813115050,"KIT CONTENDO: 01 CARTUCHO HP 667 PRETO E 01 HP 667 COLORIDO
 
 DESEMPENHO:
@@ -234,7 +386,61 @@ Imprima fotos e documentos de alta qualidade com cartuchos de tinta HP, que ajud
 - Otimize a impressão e minimize desperdícios de papel, tinta e energia
 - Contribua para a economia circular e colabore com o processo de reciclagem da HP
 
-Média aproximada com base na metodologia de teste ISO / IEC 24711 ou HP e impressão contínua. O desempenho real varia de acordo com o conteúdo das páginas impressas e outros fatores.",HP,Advantage,667,Kit,120,Original,1,4,2025-06-16,03:18:22,,
+Média aproximada com base na metodologia de teste ISO / IEC 24711 ou HP e impressão contínua. O desempenho real varia de acordo com o conteúdo das páginas impressas e outros fatores.",HP,Advantage,667,Kit,4 mL,120,Original,1,2025-06-16 03:18:22
+16,16,https://produto.mercadolivre.com.br/MLB-1852251485-kit-cartucho-tinta-original-hp-667xl-2776-preto-e-colorido-_JM#is_advertising=true&backend_model=search-backend&position=16&search_layout=grid&type=pad&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=16&ad_click_id=YTVkN2QwMGQtNDg4Ni00YjVhLWEwOTUtNWNlMzI5MTQwMDg3,Kit Cartucho Tinta Original Hp 667xl 2776 Preto E Colorido ,439.9,4.9,29,Tec Print,"Os Cartuchos Originais HP permitem uma excelente qualidade na impressão, com alta performance em impressões da primeira a ultima página.
+
+Características Gerais :
+
+- Volume de páginas impressas: até 480 páginas*
+
+- Economize em papel, tinta e energia com impressões 100% perfeitas .
+
+- Resistente à umidade e água, impressões resistentes a manchas e desbotamentos .
+
+- Tecnologia anti curvas, páginas mais planas e mais secas quando saem da sua impressora .
+
+- Fotos e documentos que duram mais de 50 anos sem perder a cor e a qualidade
+
+- Resultados superiores da primeira à última página, sem obstruções ou impressões com bandas.
+
+- Impressão sustentável, os cartuchos HP originais são feitos com até 50% de material reciclado .
+
+Impressoras Compatíveis:
+
+HP Deskjet Ink Advantage 1275
+HP Deskjet Ink Advantage 2374
+HP Deskjet Ink Advantage 2375
+HP Deskjet Ink Advantage 2376
+HP Deskjet Ink Advantage 2775
+HP Deskjet Ink Advantage 2776
+HP Deskjet Ink Advantage Plus 6475
+HP Deskjet Ink Advantage Plus 6476
+
+Especificações:
+
+Imagens reais do produto .
+
+Referencia no Cartucho: HP 667XL
+Cor: Colorido
+Classe: Original
+Volume de tinta: **8,0ml
+Peso: 38gr
+
+Referencia no Cartucho: HP 667 - 3YM81AL
+Cor: Preto
+Classe: Original
+Volume de tinta: **8,5ml
+Peso: 38gr
+
+Rendimento: *480 páginas
+Fabricante: Hewlett Packard
+
+
+Garantia: 3 meses para defeito de fabricação com HP
+
+*Rendimento com base em aproximadamente 5% de cobertura por pagina A4.
+
+*O rendimento real varia consideravelmente de acordo com o conteúdo das páginas impressas e outros fatores.",HP,DesignJet,667xl 667 Deskjet Ink Advantage 2376; Deskjet Ink Advantage 2776 Deskjet Ink Advantage 6476,Unidade,"16,5 mL",400,Original,1,2025-06-16 03:18:29
 17,17,https://produto.mercadolivre.com.br/MLB-4316298374-cartucho-hp-667-preto-original-3ym79ab-667-color-3ym78al-_JM#is_advertising=true&backend_model=search-backend&position=17&search_layout=grid&type=pad&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=17&ad_click_id=YzdiOGMwYWQtODIzNy00M2M3LTkzMTEtNWM4ZjZiOTQyM2Jh,Cartucho Hp 667 Preto Original 3ym79ab + 667 Color 3ym78al,177.75,4.6,67,Tec Print,"Características do Produto .
 
 01 Cartucho HP 667 Preto 3YM79AB HP
@@ -268,7 +474,45 @@ Compatibilidade :
 Deskjet Ink Advantage 2376
 Deskjet Ink Advantage 2774
 Deskjet Ink Advantage 2776
-Deskjet Ink Advantage 6476",HP,Advantage,667,Unidade,100,Original,1,2,2025-06-16,03:18:36,,
+Deskjet Ink Advantage 6476",HP,Advantage,667,Unidade,2 mL,100,Original,1,2025-06-16 03:18:36
+18,18,https://produto.mercadolivre.com.br/MLB-3593038716-02-cartucho-tinta-hp-667-preto-01-cartucho-667-colorido-_JM#is_advertising=true&backend_model=search-backend&position=18&search_layout=grid&type=pad&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=18&ad_click_id=NzBlZWY3NDUtZWM5MC00NDZmLWFkMWYtMjBiN2U1ODc1NzYx,02 Cartucho Tinta Hp 667 Preto + 01 Cartucho 667 Colorido ,279.9,4.7,74,Tec Print,"Obtenha a qualidade da HP que você conhece e confia. Imprima documentos todos os dias com texto e imagens nítidas e os custos de impressão acessíveis com os cartuchos originais HP. Imprima bordas perfeitas em textos e em gráficos, usando Cartuchos Originais HP. Qualidade impressionante de texto e imagens para desfrutar de documentos e fotos.
+
+
+
+- Volume de páginas impressas: até 100 páginas
+
+- Impressões que funcionam todas as vezes. Cartuchos projetados para alto rendimento
+
+- Impressões resistentes à água e que não desbotam com o tempo
+
+- Cores mais vibrantes e nítidas. Com Tecnologia anti curvas
+
+- Fotos e documentos que duram mais de 50 anos sem perder a cor e a qualidade
+
+- Resultados superiores da primeira à última página, sem obstruções ou impressões com bandas
+
+- Impressão sustentável, os cartuchos HP originais são feitos com até 50% de material reciclado
+
+
+
+Compatibilidade
+
+- Deskjet Ink Advantage 2376
+
+- Deskjet Ink Advantage 2776
+
+- Deskjet Ink Advantage 6476
+
+
+
+Kit inclui :
+
+02 ( dois ) Cartuchos de Tinta HP 667 3YM79AL Original Preto / 2ml
+
+01 (um) Cartucho de Tinta HP 667 3YM78AL Original Colorido / 2ml
+
+
+Marca : HP Original",HP,Advantage,667 2376 2776 Deskjet Ink Advantage 2376 - Deskjet Ink Advantage 2776 Deskjet Ink Advantage 6476,Unidade,2 mL,100,Original,1,2025-06-16 03:18:43
 19,19,https://www.mercadolivre.com.br/cartucho-de-tinta-hp-667-kit-preto-e-colorido/p/MLB38766141#polycard_client=search-nordic&searchVariation=MLB38766141&wid=MLB5383767248&position=3&search_layout=grid&type=product&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&sid=search,Cartucho De Tinta Hp 667 Kit Preto E Colorido,155.9,4.8,206,COMERCIAL H10,"Características do Produto
 Imprima seus documentos todos os dias com alta qualidade garantida a um preço acessível com cartuchos de tinta HP originais de baixo custo, projetados com proteção contra fraude e alertas de pouca tinta o que lhe oferece um desempenho sem preocupações e resultados consistentes.
 
@@ -288,8 +532,172 @@ Quantidade de tinta: 2ML de tinta em ambos os cartuchos (Preto e Colorido)
  
 Conteúdo da embalagem:
 - 01 Cartucho Novo Original HP 667 Preto (Black)
-- 01 Cartucho Novo Original HP 667 Colorido (Color)",HP,Ink Advantage,667,Kit,100,Original,1,4,2025-06-16,03:18:49,,
-24,24,https://www.mercadolivre.com.br/kit-com-2-cartuchos-hp-667-preto-2ml-3ym79ab/p/MLB49087253#polycard_client=search-nordic&searchVariation=MLB49087253&wid=MLB4056593427&position=13&search_layout=grid&type=product&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&sid=search,Kit Com 2 Cartuchos Hp 667 Preto 2ml,154.9,5.0,4,Mm Santos,KIT COM 2 CARTUCHOS HP 667 PRETO 2ML - 3YM79AB,HP,,667,Kit,120,Original,1,2,2025-06-16,03:19:22,,
+- 01 Cartucho Novo Original HP 667 Colorido (Color)",HP,Ink Advantage,667,Kit,4 mL,100,Original,1,2025-06-16 03:18:49
+20,20,https://www.mercadolivre.com.br/kit-cartucho-hp-667-667xl-deskjet-2776-preto-e-color/p/MLB36786137#polycard_client=search-nordic&searchVariation=MLB36786137&wid=MLB4020553339&position=30&search_layout=grid&type=product&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&sid=search,Kit Cartucho Hp 667 667xl Deskjet 2776 Preto E Color,329.0,4.3,576,ONDDA DIGITAL,"CARTUCHO HP 667XL | 1 PRETO (3YM81AB) + 1 TRICOLOR (3YM80AL)
+
+O Cartucho HP 667XL é uma excelente escolha para quem busca impressões de alta qualidade em preto e branco. Com uma capacidade de tinta de 8,5 ml, esse cartucho oferece desempenho e durabilidade, sendo uma escolha econômica para uso doméstico ou empresarial.
+
+COMPATIBILIDADE
+
+Cartuchos de Tinta Hp 667XL para uso nas impressoras:
+
+HP DeskJet Plus Ink Advantage 6000 series
+HP DeskJet Plus Ink Advantage 6400 series
+
+HP Deskjet Ink Advantage 1200 Printer
+
+HP Deskjet Ink Advantage 2300 All-in-One
+
+HP DeskJet Ink Advantage 2700 All-in-One Printer
+HP DeskJet Ink Advantage 4100 All-in-One Printer
+
+HP Deskjet Ink Advantage 1275
+HP Deskjet Ink Advantage 2374
+HP Deskjet Ink Advantage 2375
+HP Deskjet Ink Advantage 2376
+HP Deskjet Ink Advantage 2775
+HP Deskjet Ink Advantage 2776
+
+HP Deskjet Ink Advantage Plus 6475
+HP Deskjet Ink Advantage Plus 6476
+
+ESPECIFICAÇÃO
+
+Marca: HP
+Modelo: 667XL Preto (3YM81AB) | 667XL Tricolor (3YM80AL)
+Cor da tinta: Preto | Tricolor
+Tecnologia de impressão: Jato de tinta térmico
+Capacidade de tinta: 8,5ml
+
+BK - Rende aprox. 480 páginas
+Color - Rende aprox. 330 páginas
+
+Contém:
+
+1x Cartucho de Tinta HP 667XL (3YM81AB) Preto
+1x Cartucho de Tinta HP 667XL (3YM80AB) Tricolor",HP,DeskJet,667XL,Kit,"8,5 mL",480,Original,1,2025-06-16 03:18:55
+21,21,https://www.mercadolivre.com.br/cartucho-tinta-tricolor-667xl-hp/p/MLB22653316#polycard_client=search-nordic&searchVariation=MLB22653316&wid=MLB5151202986&position=19&search_layout=grid&type=product&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&sid=search,Cartucho Tinta Tricolor 667xl Hp,130.58,4.5,83,TECNO EKN,,HP,DesignJet,667XL,Unidade,8 mL,330,Original,1,2025-06-16 03:19:02
+22,22,https://www.mercadolivre.com.br/cartucho-hp-667-xl-black-original/up/MLBU1436486297#polycard_client=search-nordic&searchVariation=MLBU1436486297&wid=MLB2940953349&position=21&search_layout=grid&type=product&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&sid=search,Cartucho Hp 667 Xl Black Original,143.91,4.5,236,TECNO EKN,"Cartucho original HP 667 XL (alto rendimento)
+Para quem busca mais rendimento e qualidade.
+Recomendado para uso nas maquinas:
+1275 / 2374 / 2375 / 2376 / 2775 / 2776 / 6475 / 6476
+
+• Informações Legais:
+
+Marcas e Modelos são citados apenas para melhor compreensão dos clientes e como referência técnica para utilização correta dos produtos. Decorre de necessidade legal, além de ser previsto em lei que não pode haver impedimento para tal, conforme o Art. 31 do Código de Defesa do Consumidor (Lei nº. 8.078/90) e Art. 132, inciso II, da Lei da Propriedade Industrial (nº. 9.279/96), que são leis federais e seguem transcritos tais dispositivos:
+
+Art. 31 do CDC (Lei nº. 8.078/90): “A oferta e apresentação de produtos e serviços devem assegurar informações corretas, claras, precisas, ostensivas e em língua portuguesa sobre suas características, qualidade, quantidade, composição, preço, garantia, prazos de validade e origem, entre outros dados, bem como sobre os riscos que apresentem à saúde e segurança dos consumidores.”
+
+Art. 132, inciso II da LPI (nº. 9.279/96): O titular da marca não poderá: (...) II- impedir que fabricantes de acessórios utilizem a marca para indicar a destinação do produto, desde que obedecidas ás práticas leais de concorrência”.
+
+The brands cited in the ad belong to their respective manufacturers. Only mentioned as references for the correct use of the product, as Article 31 of the Act: 8078 of 11.09.1990.
+
+Rendimento médio informado conforme Norma ISO/IEC 19752.
+
+Imagens meramente ilustrativas.
+
+Garantia do vendedor: 7 dias",HP,DesignJet,667XL,Unidade,"8,5 mL",,Original,1,2025-06-16 03:19:08
+23,23,https://produto.mercadolivre.com.br/MLB-3208180972-kit-2-cartucho-hp-667-667xl-deskjet-2776-preto-_JM#polycard_client=search-nordic&position=40&search_layout=grid&type=item&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&wid=MLB3208180972&sid=search,Kit 2 Cartucho Hp 667 667xl Deskjet 2776 Preto,193.9,4.4,463,Park Ecom,"PARK ECOM, LOJA OFICIAL DO MERCADO LIVRE.
+APROVEITE AS MELHORES CONDIÇÕES DE COMPRA COM ENVIO GRÁTIS A PARTIR DE 79,00!
+
+--- QUALIDADE GARANTIDA.
+
+--- PRODUTO NOVO.
+
+--- EMITIMOS NOTA FISCAL PARA PESSOA FÍSICA E JURÍDICA.
+
+--- GARANTIA CONTRA DEFEITOS DE FABRICAÇÃO.
+
+ANÚNCIO CONTENDO: 02 CARTUCHOS HP 667XL PRETO
+
+DESEMPENHO:
+CARTUCHO HP 667XL PRETO: ATÉ 480 PÁGINAS (com base na cobertura de 5% da página)
+
+VOLUME DE TINTA EM CADA CARTUCHO PRETO: 8,5ml
+
+***PREZADO CLIENTE, ANTES DE CONFIRMAR A COMPRA, VERIFICAR A COMPATIBILIDADE DO CARTUCHO PARA SUA IMPRESSORA. NÃO TROCAMOS CARTUCHOS VIOLADOS POR ERRO DE COMPRA.***
+
+Compatibilidade:
+Cartucho Compatível com as impressoras:
+HP Deskjet Ink Advantage 1275, 2374, 2375, 2376,2774,2776, 2874, 6476.
+
+Aproveite ao máximo sua impressora HP e também sua tinta. Imprima todas as fotos e documentos de alta qualidade que precisar usando os cartuchos de tinta originais HP, que ajudam a garantir que sua impressora HP ofereça os resultados consistentes que você espera.
+
+Ajude a garantir as melhores impressões possíveis na escola, em casa e no trabalho com cartuchos HP desenvolvidos e testados com sua impressora HP e projetados para oferecer impressões consistentemente excepcionais.
+
+- Desenvolvido para oferecer desempenho ótimo desde o primeiro uso
+- Produza impressões duradouras e resistentes à descoloração de fotos e documentos que poderão ser apreciados por gerações.
+- Otimize a impressão e minimize desperdícios de papel, tinta e energia
+- Ao optar pelas tintas originais da HP, você contribui para a economia circular e colabora com o processo de reciclagem da HP, que permite que os produtos tenham uma nova chance de vida.
+
+Média aproximada com base na metodologia de teste ISO / IEC 24711 ou HP e impressão contínua. O desempenho real varia consideravelmente de acordo com o conteúdo das páginas impressas e outros fatores.
+
+Qualquer dúvida entre em contato conosco. Estamos à disposição! :)
+
+Garantia do vendedor: 3 meses",HP,Advantage,667 XL 2376 667XL 2776 2774,Kit,8 mL,300,Original,1,2025-06-16 03:19:15
+24,24,https://www.mercadolivre.com.br/kit-com-2-cartuchos-hp-667-preto-2ml-3ym79ab/p/MLB49087253#polycard_client=search-nordic&searchVariation=MLB49087253&wid=MLB4056593427&position=13&search_layout=grid&type=product&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&sid=search,Kit Com 2 Cartuchos Hp 667 Preto 2ml,154.9,5.0,4,Mm Santos,KIT COM 2 CARTUCHOS HP 667 PRETO 2ML - 3YM79AB,HP,,667,Kit,2 mL,120,Original,1,2025-06-16 03:19:22
+25,25,https://produto.mercadolivre.com.br/MLB-2813292506-cartucho-tinta-original-hp-667xl-2776-2774-6476-colorido-_JM#is_advertising=true&backend_model=search-backend&position=25&search_layout=grid&type=pad&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=25&ad_click_id=MzVlODNhNGYtYzAyNC00YTJhLWE0MDUtMjkyMjFlMTgyZDUw,Cartucho Tinta Original Hp 667xl 2776 2774 6476 Colorido,229.9,4.7,62,Tec Print,"Imprima seus documentos todos os dias com alta qualidade garantida a um preço acessível com cartuchos de tinta HP originais de baixo custo, projetados com proteção contra fraude e alertas de pouca tinta o que lhe oferece um desempenho sem preocupações e resultados consistentes.
+
+Especificações
+
+Cartucho HP 667 xl colorido
+
+Rendimento Medio com cobertura de 5% : 330 páginas
+
+Compatibilidade .
+
+Deskjet Ink Advantage 2376
+Deskjet Ink Advantage 2774
+Deskjet Ink Advantage 2776
+Deskjet Ink Advantage 6476
+
+Marca : HP
+Garantia : 90 dias contra defeito Fabricação",HP,DesignJet,2300 2700 667 667XL Deskjet Ink Advantage 2376 Deskjet Ink Advantage 2774 Deskjet Ink Advantage 2776 Deskjet Ink Advantage 6476,Unidade,8 mL,300,Original,1,2025-06-16 03:19:28
+26,26,https://produto.mercadolivre.com.br/MLB-1807118313-kit-cartuchos-hp-667-preto-color-1275-2376-2775-2776-6476-_JM#is_advertising=true&backend_model=search-backend&position=26&search_layout=grid&type=pad&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=26&ad_click_id=NzRlZDEzZWQtZjBiYy00OWM3LTgwOWUtYmUwNGRjYWI3ZWY5,Kit Cartuchos Hp 667 Preto Color 1275 2376 2775 2776 6476,215.0,4.2,5,LKF COMERCIO,"Acompanha
+
+- 1 Cartucho Preto 667
+- 1 Cartucho Colorido 667
+
+- Rendimento em Preto 120 paginas
+- Rendimento em Colorido 100 paginas
+
+- Tecnologia de impressão: Jato de Tinta
+
+- Capacidade/Rendimento: 2 ml cada
+
+Compatíveis com a nova geração de impressoras Deskjet Ink Advantage da HP, que contempla as impressoras:
+
+DESKJET INK ADVANTAGE 1275;
+DESKJET INK ADVANTAGE 2374;
+DESKJET INK ADVANTAGE 2375;
+DESKJET INK ADVANTAGE 2376;
+DESKJET INK ADVANTAGE 2774;
+DESKJET INK ADVANTAGE 2775;
+DESKJET INK ADVANTAGE 2776;
+DESKJET INK ADVANTAGE 2874;
+HP Deskjet Ink Advantage Plus 6475;
+HP Deskjet Ink Advantage Plus 6476.
+
+Produto novo, 100% Original, lacrado, com nota fiscal, envio rápido.
+
+Garantia do vendedor: 3 meses",HP,,Impressoras 2774 2874 2374 2375 6475,Kit,4 mL,220,Original,1,2025-06-16 03:19:35
+27,27,https://produto.mercadolivre.com.br/MLB-2813311538-cartucho-tinta-original-hp-667xl-2776-2774-6476-colorido-_JM#is_advertising=true&backend_model=search-backend&position=27&search_layout=grid&type=pad&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=27&ad_click_id=ZDIwMzFiMGYtNWNjYS00NGY0LWFhNGYtYWQ5OTRiNzk4YTlj,Cartucho Tinta Original Hp 667xl 2776 2774 6476 Colorido,219.99,4.6,58,Tec Print,"Imprima seus documentos todos os dias com alta qualidade garantida a um preço acessível com cartuchos de tinta HP originais de baixo custo, projetados com proteção contra fraude e alertas de pouca tinta o que lhe oferece um desempenho sem preocupações e resultados consistentes.
+
+Especificações
+
+Cartucho HP 667 xl colorido
+
+Rendimento Medio com cobertura de 5% : 330 páginas
+
+Compatibilidade .
+
+Deskjet Ink Advantage 2376
+Deskjet Ink Advantage 2774
+Deskjet Ink Advantage 2776
+Deskjet Ink Advantage 6476
+
+Marca : HP
+Garantia : 90 dias contra defeito Fabricação",HP,DesignJet,3YM80AL 2300 2700 667 667XL Deskjet Ink Advantage 2376 Deskjet Ink Advantage 2774 Deskjet Ink Advantage 2776 Deskjet Ink Advantage 6476,Unidade,8 mL,300,Original,1,2025-06-16 03:19:42
 28,28,https://www.mercadolivre.com.br/cartucho-tinta-tricolor-667-hp/p/MLB22546333#polycard_client=search-nordic&searchVariation=MLB22546333&wid=MLB3750409891&position=23&search_layout=grid&type=product&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&sid=search,Cartucho Tinta Tricolor 667 Hp,78.0,4.7,77,Park Ecom,"--- QUALIDADE GARANTIDA.
 
 --- PRODUTO NOVO.
@@ -324,7 +732,139 @@ Ajude a garantir as melhores impressões possíveis na escola, em casa e no trab
 - Otimize a impressão e minimize desperdícios de papel, tinta e energia
 - Ao optar pelas tintas originais da HP, você contribui para a economia circular e colabora com o processo de reciclagem da HP, que permite que os produtos tenham uma nova chance de vida.
 
-Média aproximada com base na metodologia de teste ISO / IEC 24711 ou HP e impressão contínua. O desempenho real varia consideravelmente de acordo com o conteúdo das páginas impressas e outros fatores.",HP,Deskjet Ink Advantage,667,Unidade,100,Original,1,2,2025-06-16,03:19:48,,
+Média aproximada com base na metodologia de teste ISO / IEC 24711 ou HP e impressão contínua. O desempenho real varia consideravelmente de acordo com o conteúdo das páginas impressas e outros fatores.",HP,Deskjet Ink Advantage,667,Unidade,2 mL,100,Original,1,2025-06-16 03:19:48
+29,29,https://produto.mercadolivre.com.br/MLB-1953458246-kit-cartuchos-hp-667-preto-color-2374-a-2376-2775-2776-6475-_JM#polycard_client=search-nordic&position=41&search_layout=grid&type=item&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&wid=MLB1953458246&sid=search,Kit Cartuchos Hp 667 Preto Color 2374 A 2376 2775 2776 6475 ,179.2,4.7,852,SARAIVA COMERCIO,"Acompanha
+
+- 1 Cartucho Preto 667
+- 1 Cartucho Colorido 667
+
+- Rendimento em Preto 120 páginas
+- Rendimento em Colorido 100 páginas
+
+- Tecnologia de impressão: Jato de Tinta
+
+- Capacidade/Rendimento: 2 ml cada
+
+Compatíveis com a nova geração de impressoras Deskjet Ink Advantage da HP, que contempla as impressoras:
+
+DESKJET INK ADVANTAGE 1275;
+DESKJET INK ADVANTAGE 2374;
+DESKJET INK ADVANTAGE 2375;
+DESKJET INK ADVANTAGE 2376;
+DESKJET INK ADVANTAGE 2774;
+DESKJET INK ADVANTAGE 2775;
+DESKJET INK ADVANTAGE 2776;
+DESKJET INK ADVANTAGE 2874;
+HP Deskjet Ink Advantage Plus 6475;
+HP Deskjet Ink Advantage Plus 6476.
+
+Produto novo, 100% Original, lacrado, com nota fiscal, envio rápido.
+
+Garantia do vendedor: 3 meses",HP,,Impressoras 2774 2874 1275 2375 6476,Kit,2 mL,220,Original,1,2025-06-16 03:19:55
+30,30,https://www.mercadolivre.com.br/kit-2-cartuchos-hp-664-1un-preto-1un-color/p/MLB39028313#polycard_client=search-nordic&searchVariation=MLB39028313&wid=MLB3968119643&position=28&search_layout=grid&type=product&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&sid=search,Kit 2 Cartuchos Hp 664: 1un Preto + 1un Color,166.49,4.7,"3,315",CASAPRINT SPEED,"Neste anúncio tem:
+01 Cartucho de Tinta HP 664 Colorido Advantage
+01 Cartucho de Tinta HP 664 Preto Advantage
+
+CARACTERISTICAS:
+Os cartuchos de tinta HP oferecem qualidade excepcional e desempenho confiável para suas necessidades de impressão. Com tintas de alta qualidade, eles proporcionam impressões nítidas, cores vibrantes e texto claro. Além disso, a identificação inteligente dos cartuchos permite que a impressora reconheça automaticamente os níveis de tinta, fornecendo alertas precisos quando estiverem baixos. A instalação é fácil e rápida, e os cartuchos são compatíveis com as impressoras HP, garantindo resultados profissionais em todos os trabalhos de impressão. A preocupação da HP com a sustentabilidade também se reflete nos programas de reciclagem de cartuchos, ajudando a reduzir o impacto ambiental dos resíduos de impressão. Com os cartuchos de tinta HP, você tem qualidade, confiabilidade e facilidade de uso em uma solução de impressão completa.
+
+VERIFIQUE AS CARACTERÍSTICAS HOLOGRÁFICAS DAS ETIQUETAS:
+- Incline a caixa de frente para trás para ver o Hp ou “OK” se moverem em sentidos OPOSTOS.
+- Incline a caixa da esquerda para direita para ver o Hp ou o “OK” se moverem no MESMO sentido.
+
+VERIFIQUE POR CÓDIGO QR:
+- Basta fazer a leitura do código QR da etiqueta com seu smartphone para verificar o produto.
+
+COMPATIBILIDADE:
+HP DeskJet 1110, HP DeskJet 1115, HP DeskJet 2130, HP DeskJet 2135, HP DeskJet 3630, HP ENVY 4520, HP OfficeJet 3830
+
+ESPECIFICAÇÕES DE IMPRESSÃO:
+Cor (Es) Dos Suprimentos De Impressão: Tricolor e Preto
+Dimensões Com Embalagem L X P X A: 114 x 36,3 x 102,9 mm (cada)
+Peso Com Embalagem: 0.05 kg (cada)
+Volume Do Cartucho De Impressão: 2 ml (cada)
+Rendimento:
+TRICOLOR: Aproximadamente 100 páginas
+PRETO: Aproximadamente 120 páginas",HP,Advantage,664,Kit,2 mL,100,Original,1,2025-06-16 03:20:02
+31,31,https://www.mercadolivre.com.br/cartucho-de-tinta-preta-hp-667xl/p/MLB36803813#polycard_client=search-nordic&searchVariation=MLB36803813&wid=MLB4053886579&position=29&search_layout=grid&type=product&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&sid=search,Cartucho de tinta preta Hp 667xl,121.41,4.7,151,LMPLUS,,HP,Advantage,667XL,Unidade,"8,5 mL",300,Original,1,2025-06-16 03:20:07
+32,32,https://produto.mercadolivre.com.br/MLB-2685026197-2x-cartucho-tinta-preto-original-hp-667-2376-2774-6476-_JM#polycard_client=search-nordic&position=42&search_layout=grid&type=item&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&wid=MLB2685026197&sid=search,2x Cartucho Tinta Preto Original Hp 667 2376 2774 6476 ,147.99,4.7,431,OBERO INFORMATICA,"*** REVENDEDOR OFICIAL HP BRASIL***
+
+Descrição .
+
+Características do Produto :
+
+Imprima seus documentos todos os dias com alta qualidade garantida a um preço acessível com cartuchos de tinta HP originais de baixo custo, projetados com proteção contra fraude e alertas de pouca tinta o que lhe oferece um desempenho sem preocupações e resultados consistentes.
+
+Especificações :
+
+Cartucho HP 667 preto
+Rendimento: 120 páginas ( com cobertura de 5% ) .
+
+Impressoras e Multifuncionais Compatíveis:
+
+Compatibilidade
+Serie Deskjet Ink Advantage 2300
+- Deskjet Ink Advantage 2374
+- Deskjet Ink Advantage 2375
+- Deskjet Ink Advantage 2376
+Serie Deskjet Ink Advantage 2700
+- Deskjet Ink Advantage 2774
+- Deskjet Ink Advantage 2775
+- Deskjet Ink Advantage 2776
+- Deskjet Ink Advantage 6476
+Serie DeskJet Plus Ink Advantage série 6000
+Serie DeskJet Plus Ink Advantage série 6400
+Serie Deskjet Ink Advantage 1200
+Serie DeskJet Ink Advantage 4100
+
+
+
+02 cartucho tinta original hp 667 na cor preta .",HP,,667 preto 2376 2776 Deskjet Ink Advantage 2376 - Deskjet Ink Advantage 2776 Deskjet Ink Advantage 6476,kit com 02 cartuchos,2 mL,100,Original,1,2025-06-16 03:20:13
+33,33,https://www.mercadolivre.com.br/kit-3-cartucho-hp-667-667xl-deskjet-2776-preto/p/MLB48075604#polycard_client=search-nordic&searchVariation=MLB48075604&wid=MLB4031888871&position=22&search_layout=grid&type=product&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&sid=search,Kit 3 Cartucho Hp 667 667xl Deskjet 2776 Preto,298.5,4.6,5,Park Ecom,"--- QUALIDADE GARANTIDA.
+
+ANÚNCIO CONTENDO: 03 CARTUCHOS HP 667XL PRETO
+
+DESEMPENHO:
+CARTUCHO HP 667XL PRETO: ATÉ 480 PÁGINAS (com base na cobertura de 5% da página)
+
+VOLUME DE TINTA EM CADA CARTUCHO PRETO: 8,5ml
+
+***ANTES DE CONFIRMAR A COMPRA, VERIFICAR A COMPATIBILIDADE DO CARTUCHO PARA SUA IMPRESSORA. NÃO TROCAMOS CARTUCHOS VIOLADOS POR ERRO DE COMPRA.***
+
+Compatibilidade:
+Cartucho Compatível com as impressoras:
+HP Deskjet Ink Advantage 1275, 2374, 2375, 2376, 2774, 2776, 2874, 6476.
+
+Ajude a garantir as melhores impressões possíveis na escola, em casa e no trabalho com cartuchos HP desenvolvidos e testados com sua impressora HP e projetados para oferecer impressões consistentes.
+
+- Desenvolvido para oferecer desempenho ótimo desde o primeiro uso
+- Produza impressões duradouras e resistentes à descoloração de fotos e documentos
+- Otimize a impressão e minimize desperdícios de papel, tinta e energia
+- Ao optar pelas tintas da HP, você contribui para a economia circular e colabora com o processo de reciclagem da HP.
+
+Média aproximada com base na metodologia de teste ISO / IEC 24711 ou HP e impressão contínua. O desempenho real varia consideravelmente de acordo com o conteúdo das páginas impressas e outros fatores.",HP,DeskJet,667 XL 2376 667XL 2776 2774,Kit,8 mL,480,Original,1,2025-06-16 03:20:20
+34,34,https://www.mercadolivre.com.br/kit-2-cartuchos-preto-e-colorido-hp-662-para-impressoras-1516-2515-2516-3515-3516-2546-3546-4646/p/MLB36794457#polycard_client=search-nordic&searchVariation=MLB36794457&wid=MLB5247594054&position=15&search_layout=grid&type=product&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&sid=search,Kit 2 cartuchos Preto e Colorido HP 662 para Impressoras 1516 2515 2516 3515 3516 2546 3546 4646,151.36,4.6,366,Eshop,"Itens incluso nesse kit:
+1 Cartucho HP 662 Preto(CZ103AB) 2ml
+1 Cartucho HP 662 Tricolor(CZ104AB) 2ml
+
+Especificações de impressão
+-Conteúdo: 2ml
+-Tecnologia de impressão: Jato de tinta
+
+Rendimento
+-1 Cartucho 662 preto rende até 120 páginas.
+-1 Cartucho 662 tricolor rende até 100 páginas.
+
+Rendimento considerando 5% da folha A4
+-Quando utilizado o recurso de negritar títulos, trechos ou incluímos imagens essa porcentagem de cobertura facilmente sobe para 10%. Isto faz com que seu cartucho dure menos páginas.
+
+
+Impressoras compatíveis
+Impressoras HP Deskjet Ink Advantage 1516/2516/2546/2646/3516/3546/4646
+
+DESCRIÇÃO
+-Imprima todas as fotos e documentos de alta qualidade.
+-Desempenho em alta velocidade as tintas originais HP são elaboradas para ajudar você a imprimir rapidamente sem abrir mão da qualidade.",HP,Advantage,662,Unidade,2 mL,100,Original,1,2025-06-16 03:20:26
 35,35,https://produto.mercadolivre.com.br/MLB-3670234132-kit-com-2-cartuchos-hp-667-preto-original-envio-imediato-_JM#polycard_client=search-nordic&position=43&search_layout=grid&type=item&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&wid=MLB3670234132&sid=search,Kit Com 2 Cartuchos Hp 667 Preto Original Envio Imediato,146.57,4.7,73,vanvan,"Descrição:
 
 Características do Produto
@@ -339,8 +879,54 @@ Rendimento: 100 páginas*
 
 * em modo rascunho com 5% de cobertura do papel
 
-Impressoras e Multifuncionais Compatíveis: Deskjet Ink Advantage 2376; Deskjet Ink Advantage 2776; Deskjet Ink Advantage 6476",HP,,667,Kit,,Original,1,2,2025-06-16,03:20:31,,
-37,37,https://www.mercadolivre.com.br/kit-2-cartucho-hp-667-preto-3ym79al-2776-2376-6476/p/MLB43815192#polycard_client=search-nordic&searchVariation=MLB43815192&wid=MLB5196092166&position=24&search_layout=grid&type=product&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&sid=search,Kit 2 Cartucho Hp 667 Preto 3ym79al 2776 2376 6476,178.89,4.7,1906,VIIT,"========================================
+Impressoras e Multifuncionais Compatíveis: Deskjet Ink Advantage 2376; Deskjet Ink Advantage 2776; Deskjet Ink Advantage 6476",HP,,667,Kit,2 mL,,Original,1,2025-06-16 03:20:31
+36,36,https://produto.mercadolivre.com.br/MLB-3282016341-kit-cartucho-hp-667-preto-667-colorido-original-2376-2774-_JM#polycard_client=search-nordic&position=44&search_layout=grid&type=item&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&wid=MLB3282016341&sid=search,Kit Cartucho Hp 667 Preto + 667 Colorido Original 2376 2774,169.9,4.7,895,Park Ecom,"PARK ECOM, LOJA OFICIAL DO MERCADO LIVRE.
+APROVEITE AS MELHORES CONDIÇÕES DE COMPRA COM ENVIO FULL!
+
+--- QUALIDADE GARANTIDA.
+
+--- PRODUTO NOVO.
+
+--- EMITIMOS NOTA FISCAL PARA PESSOA FÍSICA E JURÍDICA.
+
+--- GARANTIA CONTRA DEFEITOS DE FABRICAÇÃO.
+
+KIT CONTENDO: 01 CARTUCHO HP 667 PRETO E 01 CARTUCHO HP 667 COLORIDO ORIGINAL
+
+DESEMPENHO:
+CARTUCHO HP 667 PRETO: ATÉ 120 PÁGINAS
+CARTUCHO HP 667 TRICOLOR: ATÉ 100 PÁGINAS
+
+VOLUME DE TINTA EM CADA CARTUCHO: 2ml
+
+***PREZADO CLIENTE, ANTES DE CONFIRMAR A COMPRA, VERIFICAR A COMPATIBILIDADE DO CARTUCHO PARA SUA IMPRESSORA. NÃO TROCAMOS CARTUCHOS VIOLADOS POR ERRO DE COMPRA.***
+
+Compatibilidade:
+Cartucho Compatível com as impressoras:
+HP Deskjet Ink Advantage 1275;
+2374;
+2375;
+2376;
+2774;
+2776;
+2874;
+6476.
+
+Aproveite ao máximo sua impressora HP e também sua tinta. Imprima todas as fotos e documentos de alta qualidade que precisar usando os cartuchos de tinta originais HP, que ajudam a garantir que sua impressora HP ofereça os resultados consistentes que você espera.
+
+Ajude a garantir as melhores impressões possíveis na escola, em casa e no trabalho com cartuchos HP desenvolvidos e testados com sua impressora HP e projetados para oferecer impressões consistentemente excepcionais.
+
+- Desenvolvido para oferecer desempenho ótimo desde o primeiro uso
+- Produza impressões duradouras e resistentes à descoloração de fotos e documentos que poderão ser apreciados por gerações.
+- Otimize a impressão e minimize desperdícios de papel, tinta e energia
+- Ao optar pelas tintas originais da HP, você contribui para a economia circular e colabora com o processo de reciclagem da HP, que permite que os produtos tenham uma nova chance de vida.
+
+Média aproximada com base na metodologia de teste ISO / IEC 24711 ou HP e impressão contínua. O desempenho real varia consideravelmente de acordo com o conteúdo das páginas impressas e outros fatores.
+
+Qualquer dúvida entre em contato conosco. Estamos à disposição! :)
+
+Garantia do vendedor: 3 meses",HP,,667 XL 2376 667XL 2776 2774,Kit,4 mL,120,Original,1,2025-06-16 03:20:38
+37,37,https://www.mercadolivre.com.br/kit-2-cartucho-hp-667-preto-3ym79al-2776-2376-6476/p/MLB43815192#polycard_client=search-nordic&searchVariation=MLB43815192&wid=MLB5196092166&position=24&search_layout=grid&type=product&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&sid=search,Kit 2 Cartucho Hp 667 Preto 3ym79al 2776 2376 6476,178.89,4.7,"1,906",VIIT,"========================================
 Kit 2 Cartucho Hp 667 Preto 3ym79al 2776 2376 6476
 ========================================
 
@@ -372,7 +958,112 @@ Abaixo estão algumas maneiras de verificar se o seu produto é genuíno HP:
 - Verifique a etiqueta de segurança na caixa e certifique-se de que, à medida que você a movimenta para cima e para baixo e de um lado para o outro, as cores mudam ou o ""HP"" se movimenta pela etiqueta.
 
 2. Digitalize o código
-Use o aplicativo HP SureSupply ou algum leitor de código QR para digitalizar o código do selo de segurança do cartucho. Se não for possível captar os códigos QR com o smartphone para fazer a validação on-line.",HP,Ink Advantage,667,Unidade,120,Original,1,4,2025-06-16,03:20:45,,
+Use o aplicativo HP SureSupply ou algum leitor de código QR para digitalizar o código do selo de segurança do cartucho. Se não for possível captar os códigos QR com o smartphone para fazer a validação on-line.",HP,Ink Advantage,667,Unidade,4 mL,120,Original,1,2025-06-16 03:20:45
+38,38,https://www.mercadolivre.com.br/kit-cartucho-hp-667-667xl-deskjet-2776-preto-e-color-full/p/MLB48152766#polycard_client=search-nordic&searchVariation=MLB48152766&wid=MLB5424197204&position=34&search_layout=grid&type=product&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&sid=search,Kit Cartucho Hp 667 667xl Deskjet 2776 Preto E Color Full,314.0,5.0,26,Park Computadores,"--- QUALIDADE GARANTIDA.
+
+ANÚNCIO CONTENDO: 01 CARTUCHO HP 667XL PRETO E 01 CARTUCHO HP 667XL COLORIDO
+
+DESEMPENHO:
+CARTUCHO HP 667XL PRETO: ATÉ 480 PÁGINAS (com base na cobertura de 5% da página)
+CARTUCHO HP 667XL COLORIDO: ATÉ 330 PÁGINAS (com base na cobertura de 5% da página)
+
+VOLUME DE TINTA NO CARTUCHO PRETO: 8,5ml
+VOLUME DE TINTA NO CARTUCHO COLORIDO: 8ml
+
+Compatibilidade:
+Cartucho Compatível com as impressoras:
+HP Deskjet Ink Advantage 1275, 2374, 2375, 2376, 2774, 2776, 2874, 6476.
+
+Ajude a garantir as melhores impressões possíveis na escola, em casa e no trabalho com cartuchos HP desenvolvidos e testados com sua impressora HP e projetados para oferecer impressões consistentes.
+
+- Desenvolvido para oferecer desempenho ótimo desde o primeiro uso
+- Produza impressões duradouras e resistentes à descoloração de fotos e documentos
+- Otimize a impressão e minimize desperdícios de papel, tinta e energia
+- Ao optar pelas tintas da HP, você contribui para a economia circular e colabora com o processo de reciclagem da HP.
+
+Média aproximada com base na metodologia de teste ISO / IEC 24711 ou HP e impressão contínua. O desempenho real varia consideravelmente de acordo com o conteúdo das páginas impressas e outros fatores.",HP,DeskJet,667 XL 2376 667XL 2776 2774,Kit,8 mL,480,Original,1,2025-06-16 03:20:51
+39,39,https://www.mercadolivre.com.br/kit-cartucho-hp-667xl-colorido-preto/p/MLB44959957#polycard_client=search-nordic&searchVariation=MLB44959957&wid=MLB5256333138&position=35&search_layout=grid&type=product&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&sid=search,Kit Cartucho Hp 667xl Colorido + Preto,359.99,3.3,3,ONIX_TECNOLOGIA,"Características
+- Marca: HP
+- Modelo: 667XL
+- Referência: 3YM81AL/3YM80AB
+- Cor: Preto e Colorido
+
+Imprima documentos e fotos de alta qualidade com cartuchos acessíveis. Obtenha tinta HP com resultados confiáveis e consistentes, projetados para impressoras HP.
+
+Conte com cartuchos de tinta para desempenho de impressão. Garanta impressões nítidas e intensas em casa, na escola e no trabalho, com cartuchos desenvolvidos e testados para fácil uso.
+
+Resultados consistentes de alta qualidade e facilidade para repetir o pedido.
+
+Especificações Técnicas
+
+- Conteúdo: 8 ml
+- Rendimento: 480 páginas
+- Jato de Tinta Térmico HP
+- Compatibilidade:
+
+HP Deskjet Ink Advantage 1275, 2374, 2375, 2376, 2775, 2776
+HP Deskjet Ink Advantage Plus 6475, 6476
+
+Conteúdo da embalagem:
+
+- 1 Cartucho de tinta preto, 1 Cartucho de tinta colorido
+
+Dimensões:
+
+- 5 x 10 x 15cm
+
+- 200g",HP,,667XL,Unidade,,,Original,1,2025-06-16 03:20:57
+40,40,https://produto.mercadolivre.com.br/MLB-2173467724-cartucho-tinta-original-hp-667-colorido-advantage-2376-2776-_JM#polycard_client=search-nordic&position=45&search_layout=grid&type=item&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&wid=MLB2173467724&sid=search,Cartucho Tinta Original Hp 667 Colorido Advantage 2376 2776 ,97.55,,,siad,"Cartucho de Tinta HP 667 Colorido Advantage Original - 3YM78AL Tinta Colorida
+
+Obtenha a qualidade da HP que você conhece e confia. Imprima documentos todos os dias com texto e imagens nítidas e os custos de impressão acessíveis com os cartuchos originais HP. Imprima bordas perfeitas em textos e em gráficos, usando Cartuchos Originais HP. Qualidade impressionante de texto e imagens para desfrutar de documentos e fotos.
+
+* ESPECIFICAÇÕES TÉCNICAS
+- Cor - Tinta Colorida
+- Rendimento - 100 Páginas
+
+* COMPATIVEL
+- Impressora HP Deskjet Ink Advantage 1275
+- Impressora HP Deskjet Ink Advantage 2374
+- Impressora HP Deskjet Ink Advantage 2375
+- Impressora HP Deskjet Ink Advantage 2376
+- Impressora HP Deskjet Ink Advantage 2774
+- Impressora HP Deskjet Ink Advantage 2775
+- Impressora HP Deskjet Ink Advantage 2776
+- Impressora HP Deskjet Ink Advantage Plus 6475
+- Impressora HP Deskjet Ink Advantage Plus 6476
+
+CONTEÚDO DA EMBALAGEM
+- 1 (um) Cartucho de Tinta HP 667 3YM78AL Colorido 2ml
+
+Garantia do vendedor: 7 dias",HP,Advantage,667 - 3YM78AL - HP Deskjet Advantage 1275 - 2374 - 2375 - 2376 - 2774 - 2775- 2776 - HP Deskjet Ink Advantage Plus 6475 - 6476,Unidade,2 mL,100,Original,1,2025-06-16 03:21:03
+41,41,https://produto.mercadolivre.com.br/MLB-3550224509-cartucho-tinta-original-hp-667-preto-advantage-2376-3ym79al-_JM#polycard_client=search-nordic&position=46&search_layout=grid&type=item&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&wid=MLB3550224509&sid=search,Cartucho Tinta Original Hp 667 Preto Advantage 2376 3ym79al,77.99,4.9,102,Tec Print,"Cartucho de Tinta HP Preto 667 com 3YM79L 3YM79AL 3YM79A utilizado nos equipamentos Deskjet Ink Advantage 2776. Rende aproximadamente 120 páginas dependendo do conteúdo impresso. Produto original com garantia de 03 meses para defeitos de fabricação. Marca: HP.
+
+Compatibilidade .
+
+Cartucho de Tinta HP 667 Black 3YM79L utilizado em:
+
+HP Deskjet Ink Advantage 2776
+
+Especificação .
+
+Produto Original
+Cartucho de Tinta HP 667
+Cor: Preto, Black
+Cód. Ref.: 3YM79L
+Rendimento de páginas: aprox. 120 páginas
+Garantia de 03 meses em caso de defeito de fabricação
+Marca: HP",HP,Deskjet Ink Advantage,667 3YM79AL,Unidade,2 mL,100,Original,1,2025-06-16 03:21:10
+42,42,https://www.mercadolivre.com.br/kit-cartucho-de-tinta-hp-667xl-preto-colorido/p/MLB39023091#polycard_client=search-nordic&searchVariation=MLB39023091&wid=MLB5424242716&position=33&search_layout=grid&type=product&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&sid=search,Kit Cartucho De Tinta Hp 667xl Preto + Colorido,270.0,4.6,80,Park Computadores,"Características do Produto:
+
+Cartucho HP 667XL Preto
+Rendimento: 480 páginas
+Compatibilidade: HP Deskjet Ink Advantage 2376, HP Deskjet Ink Advantage 2774, HP Deskjet Ink Advantage 2776, HP DeskJet Ink Advantage 6476
+
+Cartucho HP 667XL Colorido
+Rendimento: 330 páginas
+Compatibilidade: HP Deskjet Ink Advantage 2376, HP Deskjet Ink Advantage 2774, HP Deskjet Ink Advantage 2776, HP DeskJet Ink Advantage 6476
+
+Conteúdo de embalagem: 1 Cartucho HP 667XL Preto e 1 Cartucho HP 667XL Colorido.",HP,Ink Advantage,667XL,Kit,8 mL,330,Original,1,2025-06-16 03:21:16
 43,43,https://produto.mercadolivre.com.br/MLB-2685019937-cartucho-de-tinta-hp-667-preto-original-1275-2376-2775-6475-_JM#polycard_client=search-nordic&position=47&search_layout=grid&type=item&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&wid=MLB2685019937&sid=search,Cartucho De Tinta Hp 667 Preto Original 1275 2376 2775 6475,66.9,4.4,12,OBERO INFORMATICA,"Características do Produto:
 
 Volume de páginas impressas: até 120 páginas.
@@ -388,22 +1079,225 @@ DESKJET INK ADVANTAGE 1275;
 HP Deskjet Ink Advantage Plus 6475;
 HP Deskjet Ink Advantage Plus 6476.
 
-Garantia do vendedor: 30 dias",HP,Ink Advantage,667,Unidade,120,Original,1,2,2025-06-16,03:21:23,,
+Garantia do vendedor: 30 dias",HP,Ink Advantage,667,Unidade,2 mL,120,Original,1,2025-06-16 03:21:23
+44,44,https://produto.mercadolivre.com.br/MLB-3295749445-kit-cartucho-tinta-original-hp-667-pretocolorido-2376-2774-_JM#polycard_client=search-nordic&position=48&search_layout=grid&type=item&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&wid=MLB3295749445&sid=search,Kit Cartucho Tinta Original Hp 667 Preto/colorido 2376 2774,167.1,4.8,423,Park Ecom,"PARK ECOM, LOJA OFICIAL DO MERCADO LIVRE.
+APROVEITE AS MELHORES CONDIÇÕES DE COMPRA COM ENVIO FULL!
+
+--- QUALIDADE GARANTIDA.
+
+--- PRODUTO NOVO.
+
+--- EMITIMOS NOTA FISCAL PARA PESSOA FÍSICA E JURÍDICA.
+
+--- GARANTIA CONTRA DEFEITOS DE FABRICAÇÃO.
+
+KIT CONTENDO: 01 CARTUCHO HP 667 PRETO E 01 HP 667 COLORIDO ORIGINAL
+
+DESEMPENHO:
+CARTUCHO HP 667 PRETO: 120 PÁGINAS
+CARTUCHO HP 667 TRICOLOR: 100 PÁGINAS
+
+***PREZADO CLIENTE, ANTES DE CONFIRMAR A COMPRA, VERIFICAR A COMPATIBILIDADE DO CARTUCHO PARA SUA IMPRESSORA. NÃO TROCAMOS CARTUCHOS VIOLADOS POR ERRO DE COMPRA.
+
+Compatibilidade:
+Cartucho Compatível com as impressoras:
+HP Deskjet Ink Advantage 1275;
+2374;
+2375;
+2376;
+2774;
+2776;
+2874;
+6476.
+
+Aproveite ao máximo sua impressora HP e também sua tinta. Imprima todas as fotos e documentos de alta qualidade que precisar usando os cartuchos de tinta originais HP, que ajudam a garantir que sua impressora HP ofereça os resultados consistentes que você espera.
+
+Ajude a garantir as melhores impressões possíveis na escola, em casa e no trabalho com cartuchos HP desenvolvidos e testados com sua impressora HP e projetados para oferecer impressões consistentemente excepcionais.
+
+- Desenvolvido para oferecer desempenho ótimo desde o primeiro uso
+- Produza impressões duradouras e resistentes à descoloração de fotos e documentos que poderão ser apreciados por gerações.
+- Otimize a impressão e minimize desperdícios de papel, tinta e energia
+- Ao optar pelas tintas originais da HP, você contribui para a economia circular e colabora com o processo de reciclagem da HP, que permite que os produtos tenham uma nova chance de vida.
+
+Média aproximada com base na metodologia de teste ISO / IEC 24711 ou HP e impressão contínua. O desempenho real varia consideravelmente de acordo com o conteúdo das páginas impressas e outros fatores.
+
+Qualquer dúvida entre em contato conosco. Estamos à disposição! :)
+
+Garantia do vendedor: 3 meses",HP,Advantage,667 2774 Deskjet Ink Advantage 2376; Deskjet Ink Advantage 2776 Deskjet Ink Advantage 6476,Unidade,2 mL,100,Original,1,2025-06-16 03:21:30
 45,45,https://produto.mercadolivre.com.br/MLB-2685026226-kit-cartucho-hp-667-preto-hp-667-colorido-originais-_JM#polycard_client=search-nordic&position=49&search_layout=grid&type=item&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&wid=MLB2685026226&sid=search,Kit Cartucho Hp 667 Preto + Hp 667 Colorido Originais ,153.1,4.6,91,OBERO INFORMATICA,"Tenha em sua casa ou em seu escritório os cartuchos originais Hp 667 preto e Hp 667 colorido, com o kit você imprime até 200 paginas. Garanta as melhores impressões para seus trabalhos, imprima suas fotos com a qualidade que dura até 100 anos.
 
 Veja quais modelos de impressoras utilizam este modelo.
 
 Hp deskjet 1275, deskjet 2374, deskjet 2375, deskjet 2376 deskjet 2775 deskjet 2776 deskjet ink advantage Plus 6475 e deskjet ink advantage Plus 6476
 
-Aguardamos sua Compra !",HP,,667,Unidade,100,Original,1,2,2025-06-16,03:21:35,,
+Aguardamos sua Compra !",HP,,667,Unidade,2 mL,100,Original,1,2025-06-16 03:21:35
+46,46,https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949#polycard_client=search-nordic&searchVariation=MLB37822949&wid=MLB4052720505&position=37&search_layout=grid&type=product&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&sid=search,"Cartucho Hp 667xl Preto 8,5ml",155.0,4.5,31,ONDDA DIGITAL,"PRINCIPAIS CARACTERÍSTICAS
+
+Imprima documentos diários com texto claros e gráficos nítidos, mantendo baixos os custos de impressão com cartuchos de tinta HP.
+
+Os cartuchos de tinta HP são projetados para evitar danos na cabeça de impressão e prontos para carregar rapidamente.
+
+Imprima o que você precisa enquanto reduz seu impacto no meio ambiente. Escolha um cartucho de baixo custo fabricado com até 70% de conteúdo reciclado e obtenha reciclagem de cartucho através do HP Planet Partners.
+
+DESCRIÇÃO DO PRODUTO
+
+PARA UTILIZAÇÃO NAS SEGUINTES IMPRESSORAS
+
+Impressora HP Deskjet Ink Advantage 2376
+
+Impressora HP Deskjet Ink Advantage 2774
+Impressora HP Deskjet Ink Advantage 2776
+Impressora HP Deskjet Ink Advantage 6476
+
+CÓDIGO DO CARTUCHO
+
+3YM81AL | HP 667XL
+
+QUANTIDADE
+
+8,5 ml 480 páginas imprimindo páginas com 5% de cobertura
+
+COR
+
+Black (Preto)
+
+TECNOLOGIA
+
+Jato de Tinta",HP,DesignJet,Black 3YM81AL,Unidade,"8,5 mL",480,Original,1,2025-06-16 03:21:42
+47,47,https://www.mercadolivre.com.br/cartucho-de-tinta-preta-hp-advantage-664-de-2-ml/p/MLB36751629#polycard_client=search-nordic&searchVariation=MLB36751629&wid=MLB3866554217&position=36&search_layout=grid&type=product&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&sid=search,Cartucho de tinta preta HP Advantage 664 de 2 ml,61.94,4.7,"3,315",OBERO INFORMATICA,"Imprima documentos do dia a dia com alta qualidade e a um preço acessível com cartuchos de tinta HP de baixo custo, projetados com proteção contra fraudes e alertas inteligentes de pouca tinta para oferecer desempenho sem preocupações e resultados consistentes com os quais você pode contar.
+
+Impressão de cores consumíveis: Preto
+Gota de tinta: 22 pl
+Tipos de tinta: à base de pigmento
+- Rendimento de páginas (preto e branco): 120 páginas
+- Faixa de temperatura operacional de 15 a 32°C
+- Temperatura de armazenamento: limites -40 a 60°C
+- Umidade durante o armazenamento De 20 a 80% UR
+
+Impressoras compatíveis: HP DeskJet 1110, HP DeskJet 1115, HP DeskJet 2130, HP DeskJet 2135, HP DeskJet 3630, HP ENVY 4520, HP OfficeJet 3830",HP,Advantage,664,Unidade,2 mL,100,Original,1,2025-06-16 03:21:48
 48,48,https://www.mercadolivre.com.br/kit-com-2-cartuchos-hp-667-preto-imediato/p/MLB51185641#polycard_client=search-nordic&searchVariation=MLB51185641&wid=MLB5432446438&position=31&search_layout=grid&type=product&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&sid=search,Kit Com 2 Cartuchos Hp 667 Preto Imediato,159.9,4.8,96,THAISAGUIARDASILVASILVA,"O Kit com 2 Cartuchos HP 667 Preto é a escolha ideal para quem busca qualidade e eficiência na impressão. Com tinta pigmentada, proporciona resultados nítidos e vibrantes, garantindo que cada página impressa atenda aos mais altos padrões de clareza.
 
 Desenvolvido para ser totalmente compatível com impressoras HP, este kit possui uma cor de tinta que se destaca, ideal para documentos e gráficos. O volume de 2 mL por cartucho maximiza seu rendimento, permitindo a impressão de um número significativo de páginas.
 
 A praticidade de adquirir dois cartuchos em um único kit aumenta não apenas a conveniência, mas também a produtividade no seu dia a dia. Com a entrega imediata, você poderá reabastecer rapidamente sua impressora e manter suas atividades em pleno funcionamento sem interrupções.
 
-Escolha o Kit com 2 Cartuchos HP 667 Preto e experimente um desempenho superior em suas impressões. A satisfação garantida está na qualidade da tinta que oferece resultados consistentes que se alinham com suas necessidades diárias de impressão.",HP,,667,Kit,,Original,1,2,2025-06-16,03:21:54,,
-53,53,https://produto.mercadolivre.com.br/MLB-5211250278-cartucho-tinta-hp-667-preto-advantage-original-_JM#polycard_client=search-nordic&position=53&search_layout=grid&type=item&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&wid=MLB5211250278&sid=search,Cartucho Tinta Hp 667 Preto Advantage Original,66.99,5.0,,Eshop,"Aproveite ao máximo sua impressora HP e também sua tinta. Imprima todas as fotos e documentos de alta qualidade que precisar usando os cartuchos de tinta originais HP, que ajudam a garantir que sua impressora HP ofereça os resultados consistentes que você espera.
+Escolha o Kit com 2 Cartuchos HP 667 Preto e experimente um desempenho superior em suas impressões. A satisfação garantida está na qualidade da tinta que oferece resultados consistentes que se alinham com suas necessidades diárias de impressão.",HP,,667,Kit,2 mL,,Original,1,2025-06-16 03:21:54
+49,49,https://www.mercadolivre.com.br/cartucho-de-tinta-hp-664-cor-pretotricolor-do-4-ml/p/MLB36804595#polycard_client=search-nordic&searchVariation=MLB36804595&wid=MLB5107301780&position=32&search_layout=grid&type=product&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&sid=search,Cartucho De Tinta Hp 664 Cor Preto/tricolor Do 4 Ml,169.09,4.7,"3,315",SMCORP,"Especificações
+
+Cartucho de Tinta HP 664 F6V29AB F6V29A Preto
+
+Cor: Preto
+
+Quantidade de Tinta: 2 ml
+
+Rendimento: Aproximadamente 120 páginas
+
+Tipo: Pigmentada
+
+Modelo: 664 / F6V29AB / F6V29A
+
++
+
+Cartucho de Tinta HP 664 F6V28AB F6V28A Colorido
+
+Cor: Colorido
+
+Quantidade de Tinta: 2 ml
+
+Rendimento: Aproximadamente 100 páginas
+
+Tipo: Corante
+
+Modelo: 664 / F6V28AB / F6V28A
+
+Impressoras Compatíveis
+
+HP Deskjet Ink Advantage 1115
+HP Deskjet Ink Advantage 2136
+HP Deskjet Ink Advantage 2676
+HP Deskjet Ink Advantage 3635
+HP Deskjet Ink Advantage 3636
+HP Deskjet Ink Advantage 3776
+HP Deskjet Ink Advantage 3786
+HP Deskjet Ink Advantage 3788
+HP Deskjet Ink Advantage 3790
+HP Deskjet Ink Advantage 3836
+HP Deskjet Ink Advantage 4536
+HP Deskjet Ink Advantage 4676
+HP Deskjet Ink Advantage 5076
+HP Deskjet Ink Advantage 5276
+
+Benefícios do Cartucho HP
+
+Impressões consistentes de alta qualidade.
+Resistência à água e durabilidade das impressões ao longo do tempo.
+Cores vivas e precisas com tecnologia avançada.
+Documentos e fotos com durabilidade de mais de 50 anos sem perder qualidade.
+Desempenho confiável do início ao fim, sem obstruções ou falhas.
+Contribuição para a sustentabilidade, fabricados com até 50% de material reciclado.
+Alertas de nível de tinta para reposição adequada.",HP,Advantage,664,Unidade,4 mL,100,Original,1,2025-06-16 03:22:00
+50,50,https://produto.mercadolivre.com.br/MLB-5261166892-cartucho-de-tinta-hp-667-preto-e-colorido-advantage-original-_JM#polycard_client=search-nordic&position=50&search_layout=grid&type=item&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&wid=MLB5261166892&sid=search,Cartucho De Tinta Hp 667 Preto E Colorido Advantage Original,156.6,5.0,4,Eshop,"Aproveite ao máximo sua impressora HP e também sua tinta. Imprima todas as fotos e documentos de alta qualidade que precisar usando os cartuchos de tinta originais HP, que ajudam a garantir que sua impressora HP ofereça os resultados consistentes que você espera.
+
+
+
+Conclua facilmente seus projetos. Alertas precisos podem ajudar a garantir que você não fique sem tinta na hora errada.
+
+Crie documentos atraentes com os cartuchos de tinta HP, projetados para oferecer cores intensas e texto nítido e preciso.
+
+- Rendimento Preto 120 paginas
+- Rendimento Colorido 100 paginas
+- Tecnologia de impressão: Jato de Tinta
+- Capacidade/Rendimento: 4 ml total
+
+
+Impressoras Compatíveis:
+
+- HP Deskjet Ink Advantage Séries 2376
+- HP Deskjet Ink Advantage Séries 2776
+- HP Deskjet Ink Advantage Séries 6476",HP,Advantage,667 Deskjet Ink Advantage,Kit,4 mL,220,Original,1,2025-06-16 03:22:07
+51,51,https://produto.mercadolivre.com.br/MLB-2685019645-cartucho-de-tinta-hp-667-colorido-advantage-original-_JM#polycard_client=search-nordic&position=51&search_layout=grid&type=item&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&wid=MLB2685019645&sid=search,Cartucho De Tinta Hp 667 Colorido Advantage Original,72.9,5.0,7,OBERO INFORMATICA,"Descrição do produto:
+
+Apresentamos o Cartucho de Tinta HP 667 Colorido Advantage Original, perfeito para aproveitar ao máximo sua impressora HP e obter resultados de alta qualidade. Com este cartucho de tinta original HP, você terá a confiança de imprimir fotos e documentos com cores vibrantes e precisas.
+
+Desenvolvido para garantir resultados consistentes, o Cartucho de Tinta HP 667 oferece um rendimento de até 100 páginas coloridas, permitindo que você conclua facilmente seus projetos sem preocupações. Além disso, os alertas precisos ajudam a evitar ficar sem tinta no momento mais inoportuno.
+
+A tecnologia de impressão a jato de tinta garante que suas impressões sejam nítidas e com cores intensas, proporcionando documentos atraentes e de alta qualidade. Com capacidade de 2 ml, este cartucho oferece desempenho confiável e resultados impressionantes.
+
+Compatível com as impressoras HP Deskjet Ink Advantage 2376, 2776 e 6476, o Cartucho de Tinta HP 667 é a escolha ideal para quem busca qualidade e durabilidade em suas impressões.
+
+Além disso, oferecemos envio ágil para as compras realizadas durante o expediente comercial, com postagem até as 15:00 no mesmo dia após a confirmação do pagamento. Você também pode contar com produtos autênticos, acompanhados de nota fiscal, garantindo a procedência e qualidade.
+
+Com uma garantia total de 90 dias contra defeitos de fabricação, você tem a tranquilidade de adquirir um produto confiável e duradouro. E não se preocupe com a validade, pois o Cartucho de Tinta HP 667 não possui prazo de validade enquanto estiver em uso, permitindo que você aproveite ao máximo cada impressão.
+
+Invista no Cartucho de Tinta HP 667 Colorido Advantage Original e tenha a certeza de obter impressões excepcionais em suas atividades diárias. Garanta resultados impressionantes, cores vibrantes e a qualidade que apenas os cartuchos originais HP podem oferecer.
+
+*Imagens meramente ilustrativas.
+
+Garantia do vendedor: 3 meses",HP,Advantage,667 Colorido - Modelos 2376 2776 Deskjet Ink Advantage 2376 - Deskjet Ink Advantage 2776 Deskjet Ink Advantage 6476,Unidade,2 mL,100,Original,1,2025-06-16 03:22:14
+52,52,https://produto.mercadolivre.com.br/MLB-5397003728-cartucho-de-tinta-hp-667-cor-preto-do-2-ml-_JM#polycard_client=search-nordic&position=52&search_layout=grid&type=item&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&wid=MLB5397003728&sid=search,Cartucho De Tinta Hp 667 Cor Preto Do 2 Ml,73.92,,,MegaByteMagazine,"Somos a Mega Byte, loja física e online que atua há mais de 17 anos no comércio de produtos de informática, celulares e outros.
+Confira algumas das vantagens de comprar na Mega Byte:
+- Emitimos Nota Fiscal eletrônica;
+- Produtos originais e caixa lacrada;
+- Somos empresa consolidada no mercado.
+
+O Cartucho HP 667 oferece a qualidade e confiabilidade que você precisa para suas impressões diárias. Compatível com uma variedade de impressoras HP Deskjet Ink Advantage, este cartucho garante cores vibrantes, pretos intensos e uma durabilidade superior.
+
+Descrição:
+- Marca: HP
+- Linha: DeskJet
+- Modelo: 3YM78AL
+- Modelo Detalhado: 3YM78AL
+- Modelo alfanumérico: 3YM78AL
+
+Especificações:
+- Tipo de cartucho: Original
+- Conteúdo total em volume: 2 mL
+- Cor da tinta: Preto
+- Formato de venda: Unidade
+- Tipo de tinta: CORANTE
+- Rendimento de páginas: 100
+- É recarregável: Não",HP,Advantage,3YM79AB,Unidade,2 mL,100,Original,1,2025-06-16 03:22:20
+53,53,https://produto.mercadolivre.com.br/MLB-5211250278-cartucho-tinta-hp-667-preto-advantage-original-_JM#polycard_client=search-nordic&position=53&search_layout=grid&type=item&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&wid=MLB5211250278&sid=search,Cartucho Tinta Hp 667 Preto Advantage Original,66.99,5.0,1 avaliação,Eshop,"Aproveite ao máximo sua impressora HP e também sua tinta. Imprima todas as fotos e documentos de alta qualidade que precisar usando os cartuchos de tinta originais HP, que ajudam a garantir que sua impressora HP ofereça os resultados consistentes que você espera.
 
 Conclua facilmente seus projetos. Alertas precisos podem ajudar a garantir que você não fique sem tinta na hora errada.
 
@@ -420,7 +1314,42 @@ Impressoras Compatíveis:
 - HP Deskjet Ink Advantage 2376
 - HP Deskjet Ink Advantage 2774
 - HP Deskjet Ink Advantage 2776
-- HP Deskjet Ink Advantage 6476",HP,Ink Advantage,667,Unidade,120,Original,1,2,2025-06-16,03:22:27,,
+- HP Deskjet Ink Advantage 6476",HP,Ink Advantage,667,Unidade,2 mL,120,Original,1,2025-06-16 03:22:27
+54,54,https://produto.mercadolivre.com.br/MLB-1757242271-cartucho-tinta-original-hp-667-colorido-advantage-2376-2776-_JM#polycard_client=search-nordic&position=54&search_layout=grid&type=item&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&wid=MLB1757242271&sid=search,Cartucho Tinta Original Hp 667 Colorido Advantage 2376 2776 ,78.99,4.6,46,Tec Print,"Descrição .
+
+Características do Produto :
+
+Imprima seus documentos todos os dias com alta qualidade garantida a um preço acessível com cartuchos de tinta HP originais de baixo custo, projetados com proteção contra fraude e alertas de pouca tinta o que lhe oferece um desempenho sem preocupações e resultados consistentes.
+
+Especificações :
+
+Cartucho HP 667 colorido
+Rendimento: 100 páginas ( com cobertura de 5% ) .
+
+Impressoras e Multifuncionais Compatíveis:
+
+Deskjet Ink Advantage 2376; Deskjet Ink Advantage 2776; Deskjet Ink Advantage 6476",HP,Advantage,667 colorido 2376 2776 Deskjet Ink Advantage 2376 - Deskjet Ink Advantage 2776 Deskjet Ink Advantage 6476,Unidade,2 mL,100,Original,1,2025-06-16 03:22:33
+55,55,https://produto.mercadolivre.com.br/MLB-5211174164-cartucho-de-tinta-hp-667xl-85ml-preto-advantage-original-_JM#polycard_client=search-nordic&position=55&search_layout=grid&type=item&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&wid=MLB5211174164&sid=search,"Cartucho De Tinta Hp 667xl 8,5ml Preto Advantage Original",205.0,,,Eshop,"Cartucho HP 667XL Preto
+
+Aproveite ao máximo sua impressora HP e também sua tinta. Imprima todas as fotos e documentos de alta qualidade que precisar usando os cartuchos de tinta originais HP, que ajudam a garantir que sua impressora HP ofereça os resultados consistentes que você espera.
+
+Conclua facilmente seus projetos. Alertas precisos podem ajudar a garantir que você não fique sem tinta na hora errada.
+
+Crie documentos atraentes com os cartuchos de tinta HP, projetados para oferecer cores intensas e texto nítido e preciso.
+
+- Rendimento Preto 480 paginas
+- Tecnologia de impressão: Jato de Tinta
+- Capacidade/Rendimento: 8.5 ml
+
+Impressoras Compatíveis:
+- HP Deskjet Ink Advantage 1275
+- HP Deskjet Ink Advantage 2374
+- HP Deskjet Ink Advantage 2375
+- HP Deskjet Ink Advantage 2376
+- HP Deskjet Ink Advantage 2775
+- HP Deskjet Ink Advantage 2776
+- HP Deskjet Ink Advantage Plus 6475
+- HP Deskjet Ink Advantage Plus 6476",HP,DesignJet,Black 3YM81AL,Unidade,"8,5 mL",480,Original,1,2025-06-16 03:22:40
 56,56,https://produto.mercadolivre.com.br/MLB-3557268917-kit-cartucho-tinta-original-hp-667-preto-colorido-2376-2774-_JM#polycard_client=search-nordic&position=56&search_layout=grid&type=item&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&wid=MLB3557268917&sid=search,Kit Cartucho Tinta Original Hp 667 Preto Colorido 2376 2774,187.75,4.7,112,Tec Print,"Obtenha a qualidade da HP que você conhece e confia. Imprima documentos todos os dias com texto e imagens nítidas e os custos de impressão acessíveis com os cartuchos originais HP. Imprima bordas perfeitas em textos e em gráficos, usando Cartuchos Originais HP. Qualidade impressionante de texto e imagens para desfrutar de documentos e fotos.
 
 
@@ -457,7 +1386,70 @@ Kit
 
 1 (um) Cartucho de Tinta HP 667 3YM79AL Original Preto / 2ml
 
-1 (um) Cartucho de Tinta HP 667 3YM78AL Original Colorido / 2ml",HP,Advantage,667,Unidade,100,Original,1,2,2025-06-16,03:22:46,,
+1 (um) Cartucho de Tinta HP 667 3YM78AL Original Colorido / 2ml",HP,Advantage,667,Unidade,2 mL,100,Original,1,2025-06-16 03:22:46
+57,57,https://produto.mercadolivre.com.br/MLB-3593038716-02-cartucho-tinta-hp-667-preto-01-cartucho-667-colorido-_JM#polycard_client=search-nordic&backend_model=search-backend&position=57&search_layout=grid&type=item&tracking_id=206f77b1-f99f-425e-b5b2-1c0e286966da&wid=MLB3593038716&sid=search,02 Cartucho Tinta Hp 667 Preto + 01 Cartucho 667 Colorido ,279.9,4.7,74,Tec Print,"Obtenha a qualidade da HP que você conhece e confia. Imprima documentos todos os dias com texto e imagens nítidas e os custos de impressão acessíveis com os cartuchos originais HP. Imprima bordas perfeitas em textos e em gráficos, usando Cartuchos Originais HP. Qualidade impressionante de texto e imagens para desfrutar de documentos e fotos.
+
+
+
+- Volume de páginas impressas: até 100 páginas
+
+- Impressões que funcionam todas as vezes. Cartuchos projetados para alto rendimento
+
+- Impressões resistentes à água e que não desbotam com o tempo
+
+- Cores mais vibrantes e nítidas. Com Tecnologia anti curvas
+
+- Fotos e documentos que duram mais de 50 anos sem perder a cor e a qualidade
+
+- Resultados superiores da primeira à última página, sem obstruções ou impressões com bandas
+
+- Impressão sustentável, os cartuchos HP originais são feitos com até 50% de material reciclado
+
+
+
+Compatibilidade
+
+- Deskjet Ink Advantage 2376
+
+- Deskjet Ink Advantage 2776
+
+- Deskjet Ink Advantage 6476
+
+
+
+Kit inclui :
+
+02 ( dois ) Cartuchos de Tinta HP 667 3YM79AL Original Preto / 2ml
+
+01 (um) Cartucho de Tinta HP 667 3YM78AL Original Colorido / 2ml
+
+
+Marca : HP Original",HP,Advantage,667 2376 2776 Deskjet Ink Advantage 2376 - Deskjet Ink Advantage 2776 Deskjet Ink Advantage 6476,Unidade,2 mL,100,Original,1,2025-06-16 03:22:53
+58,58,https://produto.mercadolivre.com.br/MLB-3142771512-kit-2-cartuchos-tinta-preta-hp-667-original-1275-2374-2375-_JM#is_advertising=true&backend_model=search-backend&position=1&search_layout=grid&type=pad&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=1&ad_click_id=NTZmMzdmN2UtMjYzOS00YTExLTlmZTktNGNkMDZlZjk2ZTIz,Kit 2 Cartuchos Tinta Preta Hp 667 Original 1275 2374 2375,179.2,4.8,93,SARAIVA COMERCIO,"Kit 2 Cartuchos de Tinta Hp 667 Preta 3YM79AL 1275 2374 2375 2376 2775 2776 6475 6476
+
+Acompanha
+
+- 2 Cartuchos Preto 667
+- Rendimento em Preto 120 paginas por cartucho
+- Tecnologia de impressão: Jato de Tinta
+- Capacidade/Rendimento: 2 ml cada
+
+Compatíveis com a nova geração de impressoras Deskjet Ink Advantage da HP, que contempla as impressoras:
+
+DESKJET INK ADVANTAGE 1275;
+DESKJET INK ADVANTAGE 2374;
+DESKJET INK ADVANTAGE 2375;
+DESKJET INK ADVANTAGE 2376;
+DESKJET INK ADVANTAGE 2774;
+DESKJET INK ADVANTAGE 2775;
+DESKJET INK ADVANTAGE 2776;
+DESKJET INK ADVANTAGE 2874;
+HP Deskjet Ink Advantage Plus 6475;
+HP Deskjet Ink Advantage Plus 6476.
+
+Produto novo, 100% Original, lacrado, com nota fiscal, envio rápido.
+
+Garantia do vendedor: 3 meses",HP,,Impressoras 2774 2874 2376 2775 2776 6475 6476 - 3YM79AB,Kit,4 mL,220,Original,1,2025-06-16 03:23:00
 59,59,https://produto.mercadolivre.com.br/MLB-1754285285-kit-cartucho-667-preto-color-original-hp-2376-2775-2776-6476-_JM#is_advertising=true&backend_model=search-backend&position=2&search_layout=grid&type=pad&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=2&ad_click_id=ODI1OTIyZjYtNDBhOS00ZGMyLWI3YTgtMjFiZTFkMGZkZjVh,Kit Cartucho 667 Preto Color Original Hp 2376 2775 2776 6476,169.2,4.7,709,Primer Print,"KIT COM 2 CARTUCHOS HP 667 PRETO e COLOR 
  
 Produtos originais com NF-e
@@ -484,7 +1476,35 @@ Comprimento da embalagem: 3,63 cm
 Pesos:
 Peso bruto: 0,073 Kg
 Peso líquido: 0,073 Kg
- ",HP,,667,Kit,120,Original,1,4,2025-06-16,03:23:06,,
+ ",HP,,667,Kit,4 mL,120,Original,1,2025-06-16 03:23:06
+60,60,https://produto.mercadolivre.com.br/MLB-3550224509-cartucho-tinta-original-hp-667-preto-advantage-2376-3ym79al-_JM#is_advertising=true&backend_model=search-backend&position=3&search_layout=grid&type=pad&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=3&ad_click_id=MmM3MDQ1OGEtYWU3Ny00MjE3LWFjOWMtNjY0ZTc3ODE3OWE4,Cartucho Tinta Original Hp 667 Preto Advantage 2376 3ym79al,77.99,4.9,102,Tec Print,"Cartucho de Tinta HP Preto 667 com 3YM79L 3YM79AL 3YM79A utilizado nos equipamentos Deskjet Ink Advantage 2776. Rende aproximadamente 120 páginas dependendo do conteúdo impresso. Produto original com garantia de 03 meses para defeitos de fabricação. Marca: HP.
+
+Compatibilidade .
+
+Cartucho de Tinta HP 667 Black 3YM79L utilizado em:
+
+HP Deskjet Ink Advantage 2776
+
+Especificação .
+
+Produto Original
+Cartucho de Tinta HP 667
+Cor: Preto, Black
+Cód. Ref.: 3YM79L
+Rendimento de páginas: aprox. 120 páginas
+Garantia de 03 meses em caso de defeito de fabricação
+Marca: HP",HP,Deskjet Ink Advantage,667 3YM79AL,Unidade,2 mL,100,Original,1,2025-06-16 03:23:13
+61,61,https://produto.mercadolivre.com.br/MLB-1683012717-kit-3-cartuchos-hp-originais-2-667-preto-1-667-color-_JM#polycard_client=search-nordic&position=7&search_layout=grid&type=item&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&wid=MLB1683012717&sid=search,Kit 3 Cartuchos Hp Originais 2-667 Preto 1-667 Color ,249.99,5.0,4,ONIX_TECNOLOGIA,"Kit 3 cartuchos HP originais 667
+2 pçs 667 preto 2 ml na validade
+1 pc 667 color 2 ml na validade
+Para impressoras 6475 6476 2374 ETC..
+
+
+ATENÇÃO
+CERTIFIQUE DE ESTAR COMPRANDO OS CARTUCHOS CERTOS!!
+QUALQUER DÚVIDA FAÇA PERGUNTAS.
+
+Garantia do vendedor: 30 dias",HP,,667 preto 667 color,Venda,6 mL,600,Original,1,2025-06-16 03:23:20
 62,62,https://produto.mercadolivre.com.br/MLB-3872004082-cartucho-hp-667-preto-original-1200-2300-2700-_JM#polycard_client=search-nordic&position=8&search_layout=grid&type=item&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&wid=MLB3872004082&sid=search,Cartucho Hp 667 Preto Original,78.97,4.6,97,informticaponto,"Adquira para sua impressora a melhor tinta do mercado! Com impressões inteligentes, que proporcionam excelente desempenho do início ao fim do insumo. Confira mais detalhes do produto abaixo:
 
 Cartucho Hp 667 Preto Original Ink Advantage
@@ -523,7 +1543,24 @@ Garantimos o total respeito ao consumidor. Prestamos um atendimento ágil e ráp
 
 Somos a PONTO NET INFORMÁTICA, atuamos há 15 anos oferecendo as melhores oportunidades em toners, impressoras, tintas de recarga e materiais de informática.
 
-Garantia do vendedor: 7 dias",HP,Ink Advantage,667,Unidade,100,Original,1,2,2025-06-16,03:23:26,,
+Garantia do vendedor: 7 dias",HP,Ink Advantage,667,Unidade,2 mL,100,Original,1,2025-06-16 03:23:26
+63,63,https://produto.mercadolivre.com.br/MLB-4316334724-cartucho-tinta-original-hp-667-preto-advantage-2376-3ym79al-_JM#polycard_client=search-nordic&position=9&search_layout=grid&type=item&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&wid=MLB4316334724&sid=search,Cartucho Tinta Original Hp 667 Preto Advantage 2376 3ym79al,105.88,4.9,102,Tec Print,"Cartucho de Tinta HP Preto 667 com 3YM79L 3YM79AL 3YM79A utilizado nos equipamentos Deskjet Ink Advantage 2776. Rende aproximadamente 120 páginas dependendo do conteúdo impresso. Produto original com garantia de 03 meses para defeitos de fabricação. Marca: HP.
+
+Compatibilidade .
+
+Cartucho de Tinta HP 667 Black 3YM79L utilizado em:
+
+HP Deskjet Ink Advantage 2776
+
+Especificação .
+
+Produto Original
+Cartucho de Tinta HP 667
+Cor: Preto, Black
+Cód. Ref.: 3YM79L
+Rendimento de páginas: aprox. 120 páginas
+Garantia de 03 meses em caso de defeito de fabricação
+Marca: HP",HP,Deskjet Ink Advantage,667 3YM79AL,Unidade,2 mL,100,Original,1,2025-06-16 03:23:33
 64,64,https://produto.mercadolivre.com.br/MLB-1817041778-cartucho-hp-667-preto-original-_JM#polycard_client=search-nordic&position=13&search_layout=grid&type=item&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&wid=MLB1817041778&sid=search,Cartucho Hp 667 Preto Original,109.13,4.8,17,TRILHA MULTICOISAS,"Características do Produto:
 
 Volume de páginas impressas: até 120 páginas.
@@ -536,7 +1573,132 @@ DESKJET INK ADVANTAGE 2375;
 DESKJET INK ADVANTAGE 2374;
 DESKJET INK ADVANTAGE 1275;
 HP Deskjet Ink Advantage Plus 6475;
-HP Deskjet Ink Advantage Plus 6476.",HP,Ink Advantage,667,Unidade,,Original,1,2,2025-06-16,03:23:39,,
+HP Deskjet Ink Advantage Plus 6476.",HP,Ink Advantage,667,Unidade,2 mL,,Original,1,2025-06-16 03:23:39
+65,65,https://produto.mercadolivre.com.br/MLB-3389954163-cartucho-667-hp-preto-original-1275-2374-2376-2775-6476-_JM#polycard_client=search-nordic&position=14&search_layout=grid&type=item&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&wid=MLB3389954163&sid=search,Cartucho 667 Hp Preto Original  1275 2374  2376 2775  6476,66.9,4.6,19,vanvan,"Imprima os documentos e as fotos de alta qualidade que você precisa por um ótimo valor. Com cartuchos com preço muito acessível, obtenha tinta HP original por um preço acessível, além de resultados confiáveis e consistentes de cartuchos projetados com a impressora HP.
+Aproveite as vantagens da qualidade premium original HP a um custo acessível.
+
+Cause uma boa impressão com os cartuchos de tinta originais HP, projetados para proporcionar texto nítido e preciso.
+
+Imprima até duas vezes mais páginas em preto e em cores com os cartuchos de tinta originais HP de alto rendimento opcionais.[1]
+
+Conte com os cartuchos de tinta originais HP para obter desempenho de impressão. Ajude a garantir impressões nítidas e intensas em casa, na escola e no trabalho com cartuchos desenvolvidos e testados com a impressora HP e projetados para facilitar o uso.
+Escolha cartuchos de tinta originais HP especialmente desenvolvidos para funcionar com sua impressora HP.
+
+Conclua facilmente seus projetos. Alertas de baixo nível de tinta podem ajudar a garantir que você não fique sem tinta na hora errada.
+
+Economize tempo com o app HP Smart. Saiba quando a tinta estiver acabando e compre mais sem complicações, diretamente no seu smartphone.[3]
+
+As tintas originais HP foram projetadas para ajudá-lo a imprimir com eficiência, sem comprometer a qualidade.
+
+Cartuchos originais HP que se encaixam na maneira como você vive, trabalha e imprime. Conte com resultados consistentes de alta qualidade e com a facilidade para repetir o pedido que você espera da HP em casa ou em qualquer lugar.
+Os cartuchos originais HP devolvidos por meio do HP Planet Partners nunca são enviados para aterros sanitários, e a HP nunca recarrega nem revende cartuchos originais HP.[4]
+
+Preto
+Jato de Tinta Térmico HP
+~120 páginas
+Cartuchos de tinta de capacidade padrão
+O que vem na caixa?
+Cartucho de tinta
+Hardware compatibility
+HP DeskJet Plus Ink Advantage série 6000, HP DeskJet Plus Ink Advantage série 6400, Impressora HP Deskjet Ink Advantage 1200, Multifuncional HP Deskjet Ink Advantage 2300, Impressora multifuncional HP DeskJet Ink Advantage 2700, Impressora multifuncional HP DeskJet Ink Advantage 4100",HP,Advantage,664,Unidade,2 mL,100,Original,1,2025-06-16 03:23:46
+66,66,https://produto.mercadolivre.com.br/MLB-4247361628-2x-cartucho-tinta-original-hp-667-preto-deskjet-2376-2776-_JM#polycard_client=search-nordic&position=15&search_layout=grid&type=item&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&wid=MLB4247361628&sid=search,2x Cartucho Tinta Original Hp 667 Preto Deskjet 2376 2776 ,194.9,4.6,41,Tec Print,"Descrição .
+
+Características do Produto :
+
+Imprima seus documentos todos os dias com alta qualidade garantida a um preço acessível com cartuchos de tinta HP originais de baixo custo, projetados com proteção contra fraude e alertas de pouca tinta o que lhe oferece um desempenho sem preocupações e resultados consistentes.
+
+Especificações :
+
+2x Cartucho HP 667 preto
+Rendimento: 120 páginas ( com cobertura de 5% ) .
+
+Impressoras e Multifuncionais Compatíveis:
+
+Deskjet Ink Advantage 2376; Deskjet Ink Advantage 2776; Deskjet Ink Advantage 6476
+HP DeskJet Plus Ink Advantage 6000 series, HP DeskJet Plus Ink Advantage 6400 series, HP Deskjet Ink Advantage 1200 Printer, HP Deskjet Ink Advantage 2300 All-in-One, HP DeskJet Ink Advantage 2700 All-in-One Printer, HP DeskJet Ink Advantage 4100 All-in-One Printer",HP,DeskJet,3YM79AL 667 2376 2776 2376 2776 6476,Unidade,2 mL,100,Original,1,2025-06-16 03:23:52
+67,67,https://produto.mercadolivre.com.br/MLB-2864554866-2x-cartucho-tinta-original-hp-667xl-2776-2376-3ym81al-preto-_JM#is_advertising=true&backend_model=search-backend&position=10&search_layout=grid&type=pad&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=10&ad_click_id=ZDlmZGQxYWUtN2I3Zi00MzY5LWFjYWMtNTE3NDM1MmEzMzU3,2x Cartucho Tinta Original Hp 667xl 2776 2376 3ym81al Preto,419.94,4.6,7,Tec Print,"02 cartuchos originais novos preto HP 667XL .
+
+Os Cartuchos Originais HP permitem uma excelente qualidade na impressão, com alta performance em impressões da primeira a ultima página.
+
+Características Gerais :
+
+- Volume de páginas impressas: até 480 páginas*
+
+- Economize em papel, tinta e energia com impressões 100% perfeitas .
+
+- Resistente à umidade e água, impressões resistentes a manchas e desbotamentos .
+
+- Tecnologia anti curvas, páginas mais planas e mais secas quando saem da sua impressora .
+
+- Fotos e documentos que duram mais de 50 anos sem perder a cor e a qualidade
+
+- Resultados superiores da primeira à última página, sem obstruções ou impressões com bandas.
+
+- Impressão sustentável, os cartuchos HP originais são feitos com até 50% de material reciclado .
+
+Impressoras Compatíveis:
+
+HP Deskjet Ink Advantage 1275
+HP Deskjet Ink Advantage 2374
+HP Deskjet Ink Advantage 2375
+HP Deskjet Ink Advantage 2376
+HP Deskjet Ink Advantage 2775
+HP Deskjet Ink Advantage 2776
+HP Deskjet Ink Advantage Plus 6475
+HP Deskjet Ink Advantage Plus 6476
+
+Especificações:
+
+Imagens reais do produto
+Referencia no Cartucho: HP 667 - 3YM81AL
+Cor: Preto
+Classe: Original
+Volume de tinta: **8,5ml
+Peso: 38gr
+
+Rendimento: *480 páginas
+Fabricante: Hewlett Packard
+
+
+Garantia: 3 meses para defeito de fabricação com HP
+
+*Rendimento com base em aproximadamente 5% de cobertura por pagina A4.
+
+*O rendimento real varia consideravelmente de acordo com o conteúdo das páginas impressas e outros fatores.",HP,DesignJet,667xl 667 Deskjet Ink Advantage 2376; Deskjet Ink Advantage 2776 Deskjet Ink Advantage 6476,Unidade,"8,5 mL",480,Original,1,2025-06-16 03:23:59
+68,68,https://produto.mercadolivre.com.br/MLB-2813311538-cartucho-tinta-original-hp-667xl-2776-2774-6476-colorido-_JM#is_advertising=true&backend_model=search-backend&position=11&search_layout=grid&type=pad&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=11&ad_click_id=ZjMyMjA0ODUtYmY3Ni00MTNjLThmNzEtMWYxYWRiZTcwNzM3,Cartucho Tinta Original Hp 667xl 2776 2774 6476 Colorido,219.99,4.6,58,Tec Print,"Imprima seus documentos todos os dias com alta qualidade garantida a um preço acessível com cartuchos de tinta HP originais de baixo custo, projetados com proteção contra fraude e alertas de pouca tinta o que lhe oferece um desempenho sem preocupações e resultados consistentes.
+
+Especificações
+
+Cartucho HP 667 xl colorido
+
+Rendimento Medio com cobertura de 5% : 330 páginas
+
+Compatibilidade .
+
+Deskjet Ink Advantage 2376
+Deskjet Ink Advantage 2774
+Deskjet Ink Advantage 2776
+Deskjet Ink Advantage 6476
+
+Marca : HP
+Garantia : 90 dias contra defeito Fabricação",HP,DesignJet,3YM80AL 2300 2700 667 667XL Deskjet Ink Advantage 2376 Deskjet Ink Advantage 2774 Deskjet Ink Advantage 2776 Deskjet Ink Advantage 6476,Unidade,8 mL,300,Original,1,2025-06-16 03:24:05
+69,69,https://produto.mercadolivre.com.br/MLB-2813292506-cartucho-tinta-original-hp-667xl-2776-2774-6476-colorido-_JM#is_advertising=true&backend_model=search-backend&position=12&search_layout=grid&type=pad&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=12&ad_click_id=MjkzZTMwN2YtMGJlOC00MzdjLTk4ZDktMDE0MTIwYWE0YjUw,Cartucho Tinta Original Hp 667xl 2776 2774 6476 Colorido,229.9,4.7,62,Tec Print,"Imprima seus documentos todos os dias com alta qualidade garantida a um preço acessível com cartuchos de tinta HP originais de baixo custo, projetados com proteção contra fraude e alertas de pouca tinta o que lhe oferece um desempenho sem preocupações e resultados consistentes.
+
+Especificações
+
+Cartucho HP 667 xl colorido
+
+Rendimento Medio com cobertura de 5% : 330 páginas
+
+Compatibilidade .
+
+Deskjet Ink Advantage 2376
+Deskjet Ink Advantage 2774
+Deskjet Ink Advantage 2776
+Deskjet Ink Advantage 6476
+
+Marca : HP
+Garantia : 90 dias contra defeito Fabricação",HP,DesignJet,2300 2700 667 667XL Deskjet Ink Advantage 2376 Deskjet Ink Advantage 2774 Deskjet Ink Advantage 2776 Deskjet Ink Advantage 6476,Unidade,8 mL,300,Original,1,2025-06-16 03:24:12
 70,70,https://produto.mercadolivre.com.br/MLB-4316298166-cartucho-hp-667-preto-original-3ym79ab-667-color-3ym78al-_JM#polycard_client=search-nordic&position=16&search_layout=grid&type=item&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&wid=MLB4316298166&sid=search,Cartucho Hp 667 Preto Original 3ym79ab + 667 Color 3ym78al,187.99,4.6,67,Tec Print,"Características do Produto .
 
 01 Cartucho HP 667 Preto 3YM79AB HP
@@ -570,8 +1732,96 @@ Compatibilidade :
 Deskjet Ink Advantage 2376
 Deskjet Ink Advantage 2774
 Deskjet Ink Advantage 2776
-Deskjet Ink Advantage 6476",HP,Advantage,667,Unidade,100,Original,1,2,2025-06-16,03:24:19,,
-73,73,https://produto.mercadolivre.com.br/MLB-3670252660-kit-cartucho-hp-667-preto-hp-667-colorido-original--_JM#polycard_client=search-nordic&position=22&search_layout=grid&type=item&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&wid=MLB3670252660&sid=search,Kit Cartucho Hp 667 Preto + Hp 667 Colorido Original / ,147.99,4.8,79,vanvan,O vendedor não inseriu a descrição do produto,HP,,667,Kit,,Original,1,2,2025-06-16,03:24:37,,
+Deskjet Ink Advantage 6476",HP,Advantage,667,Unidade,2 mL,100,Original,1,2025-06-16 03:24:19
+71,71,https://produto.mercadolivre.com.br/MLB-4247218688-cartucho-tinta-original-hp-667-preto-deskjet-6476-2376-2776-_JM#polycard_client=search-nordic&position=17&search_layout=grid&type=item&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&wid=MLB4247218688&sid=search,Cartucho Tinta Original Hp 667 Preto Deskjet 6476 2376 2776 ,78.99,4.7,145,Tec Print,"Descrição .
+
+Características do Produto :
+
+Imprima seus documentos todos os dias com alta qualidade garantida a um preço acessível com cartuchos de tinta HP originais de baixo custo, projetados com proteção contra fraude e alertas de pouca tinta o que lhe oferece um desempenho sem preocupações e resultados consistentes.
+
+Especificações :
+
+Cartucho HP 667 preto
+
+Rendimento: 120 páginas ( com cobertura de 5% ) .
+
+Impressoras e Multifuncionais Compatíveis:
+
+Deskjet Ink Advantage 2376; Deskjet Ink Advantage 2776; Deskjet Ink Advantage 6476
+HP DeskJet Plus Ink Advantage 6000 series, HP DeskJet Plus Ink Advantage 6400 series, HP Deskjet Ink Advantage 1200 Printer, HP Deskjet Ink Advantage 2300 All-in-One, HP DeskJet Ink Advantage 2700 All-in-One Printer, HP DeskJet Ink Advantage 4100 All-in-One Printer - Deskjet Ink Advantage 2774",HP,DeskJet,3YM79AL 667 2376 2776 2774 Deskjet Ink Advantage 2376 - Deskjet Ink Advantage 2776 Deskjet Ink Advantage 6476,Unidade,2 mL,100,Original,1,2025-06-16 03:24:25
+72,72,https://produto.mercadolivre.com.br/MLB-2149887649-cartucho-de-tinta-hp-667-preto-original-p-deskjet-2774-2776-_JM#polycard_client=search-nordic&position=18&search_layout=grid&type=item&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&wid=MLB2149887649&sid=search,Cartucho De Tinta Hp 667 Preto Original P/ Deskjet 2774 2776,90.7,4.7,7,Mundoware,"Especificações
+
+
+Cartucho de Tinta HP 667 3YM79AB 3YM79AL 3YM79L Preto Original
+
+Cor: Preto • Black
+
+Quantidade de Tinta: 2 ml
+
+Rendimento: Aproximadamente 120 páginas
+
+Tipo: Pigmentada
+
+Estado: Novo, Lacrado e Pronto para o uso.
+
+Modelo: 667 / 3YM79AB / 3YM79AL / 3YM79L
+
+Marca: HP
+
+Garantia: 1 ano para Defeitos de Fabricação com Troca Imediata, Envio Grátis e Logística Reversa Gratuita.
+
+
+
+Impressoras Compatíveis
+
+HP Deskjet Ink Advantage 2376
+HP Deskjet Ink Advantage 2774
+HP Deskjet Ink Advantage 2776
+HP Deskjet Ink Advantage 6476
+
+
+
+Porque usar Cartucho HP Original
+
+
+Impressões que funcionam todas às vezes. Cartuchos projetados para alto rendimento.
+
+Impressões resistentes à água e que não desbotam com o tempo.
+
+Cores mais vibrantes e nítidas. Com Tecnologia anti curvas.
+
+Fotos e documentos que duram mais de 50 anos sem perder a cor e a qualidade.
+
+Resultados superiores da primeira à última página, sem obstruções ou impressões com bandas.
+
+Impressão sustentável, os cartuchos HP originais são feitos com até 50% de material reciclado.
+
+Receba alertas práticos e saiba quando a tinta está acabando.
+
+Garantia do vendedor: 12 meses",HP,DeskJet,HP 667 Preto 3YM79AB 3YM79AL,Unidade,2 mL,120,Original,1,2025-06-16 03:24:32
+73,73,https://produto.mercadolivre.com.br/MLB-3670252660-kit-cartucho-hp-667-preto-hp-667-colorido-original--_JM#polycard_client=search-nordic&position=22&search_layout=grid&type=item&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&wid=MLB3670252660&sid=search,Kit Cartucho Hp 667 Preto + Hp 667 Colorido Original / ,147.99,4.8,79,vanvan,O vendedor não inseriu a descrição do produto,HP,,667,Kit,2 mL,,Original,1,2025-06-16 03:24:37
+74,74,https://produto.mercadolivre.com.br/MLB-3201775232-cartucho-hp-667-preto-original-3ym79ab-2376-2774-2776-6476-_JM#polycard_client=search-nordic&position=23&search_layout=grid&type=item&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&wid=MLB3201775232&sid=search,Cartucho Hp 667 Preto Original 3ym79ab 2376 2774 2776 6476,78.98,4.7,30,SARAIVA COMERCIO,"Características do Produto:
+
+Volume de páginas impressas: até 120 páginas.
+Impressões que funcionam todas as vezes. Cartuchos projetados para alto rendimento. Impressões resistentes à água e que não desbotam com o tempo. Cores mais vibrantes e nítidas. Com Tecnologia anti curvas. Fotos e documentos que duram mais de 50 anos sem perder a cor e a qualidade. Resultados superiores da primeira à última página, sem obstruções ou impressões com bandas. Impressão sustentável, os cartuchos HP originais são feitos com até 50% de material reciclado.
+Compatíveis com a nova geração de impressoras Deskjet Ink Advantage da HP, que contempla as impressoras:
+
+DESKJET INK ADVANTAGE 1275;
+DESKJET INK ADVANTAGE 2374;
+DESKJET INK ADVANTAGE 2375;
+DESKJET INK ADVANTAGE 2376;
+DESKJET INK ADVANTAGE 2774;
+DESKJET INK ADVANTAGE 2775;
+DESKJET INK ADVANTAGE 2776;
+DESKJET INK ADVANTAGE 2874;
+HP Deskjet Ink Advantage Plus 6475;
+HP Deskjet Ink Advantage Plus 6476.
+
+Produto novo, 100% Original, lacrado, com nota fiscal, envio rápido.
+
+1 (um) Cartucho de Tinta HP 667 3YM79AL Preto / 2ml
+
+Garantia do vendedor: 3 meses",HP,Ink Advantage,Impressoras 2774 2874 1275 2374 2375 2775 6475 - 3YM79AB,Unidade,2 mL,120,Original,1,2025-06-16 03:24:44
 75,75,https://produto.mercadolivre.com.br/MLB-4067047721-kit-2-cartucho-origianl-hp-667-preto-e-color-2376-2874-2776-_JM#polycard_client=search-nordic&position=24&search_layout=grid&type=item&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&wid=MLB4067047721&sid=search,Kit 2 Cartucho Origianl Hp 667 Preto E Color 2376 2874 2776,190.94,,,reciclemaiscartuchos,"Kit 2 Cartuchos Hp 667 Preto E Color Hp Deskjet
 
 -------------------ESPECIFICAÇÕES-------------------------
@@ -620,7 +1870,246 @@ The brands cited in the ad belong to their respective manufacturers. Only mentio
 
 --------------- HORÁRIOS DE ENVIOS ---------------------
 
-*OS HORÁRIOS DE ENVIOS SEGUEM CONFORME O CRONOGRAMA DA PLATAFORMA.",HP,Advantage,667,Kit,100,Original,1,2,2025-06-16,03:24:50,,
+*OS HORÁRIOS DE ENVIOS SEGUEM CONFORME O CRONOGRAMA DA PLATAFORMA.",HP,Advantage,667,Kit,2 mL,100,Original,1,2025-06-16 03:24:50
+76,76,https://produto.mercadolivre.com.br/MLB-1852251485-kit-cartucho-tinta-original-hp-667xl-2776-preto-e-colorido-_JM#is_advertising=true&backend_model=search-backend&position=19&search_layout=grid&type=pad&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=19&ad_click_id=NDQwZmY0YTktMWM4Ni00MDEyLWIzMTItMmY0M2Y3Y2Y1NWQw,Kit Cartucho Tinta Original Hp 667xl 2776 Preto E Colorido ,439.9,4.9,29,Tec Print,"Os Cartuchos Originais HP permitem uma excelente qualidade na impressão, com alta performance em impressões da primeira a ultima página.
+
+Características Gerais :
+
+- Volume de páginas impressas: até 480 páginas*
+
+- Economize em papel, tinta e energia com impressões 100% perfeitas .
+
+- Resistente à umidade e água, impressões resistentes a manchas e desbotamentos .
+
+- Tecnologia anti curvas, páginas mais planas e mais secas quando saem da sua impressora .
+
+- Fotos e documentos que duram mais de 50 anos sem perder a cor e a qualidade
+
+- Resultados superiores da primeira à última página, sem obstruções ou impressões com bandas.
+
+- Impressão sustentável, os cartuchos HP originais são feitos com até 50% de material reciclado .
+
+Impressoras Compatíveis:
+
+HP Deskjet Ink Advantage 1275
+HP Deskjet Ink Advantage 2374
+HP Deskjet Ink Advantage 2375
+HP Deskjet Ink Advantage 2376
+HP Deskjet Ink Advantage 2775
+HP Deskjet Ink Advantage 2776
+HP Deskjet Ink Advantage Plus 6475
+HP Deskjet Ink Advantage Plus 6476
+
+Especificações:
+
+Imagens reais do produto .
+
+Referencia no Cartucho: HP 667XL
+Cor: Colorido
+Classe: Original
+Volume de tinta: **8,0ml
+Peso: 38gr
+
+Referencia no Cartucho: HP 667 - 3YM81AL
+Cor: Preto
+Classe: Original
+Volume de tinta: **8,5ml
+Peso: 38gr
+
+Rendimento: *480 páginas
+Fabricante: Hewlett Packard
+
+
+Garantia: 3 meses para defeito de fabricação com HP
+
+*Rendimento com base em aproximadamente 5% de cobertura por pagina A4.
+
+*O rendimento real varia consideravelmente de acordo com o conteúdo das páginas impressas e outros fatores.",HP,DesignJet,667xl 667 Deskjet Ink Advantage 2376; Deskjet Ink Advantage 2776 Deskjet Ink Advantage 6476,Unidade,"16,5 mL",400,Original,1,2025-06-16 03:24:57
+77,77,https://produto.mercadolivre.com.br/MLB-3593038716-02-cartucho-tinta-hp-667-preto-01-cartucho-667-colorido-_JM#is_advertising=true&backend_model=search-backend&position=20&search_layout=grid&type=pad&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=20&ad_click_id=ODdlMzljYjctM2Y4MS00MjU5LWEwNjctNDBhMzFmMjQ2MWFl,02 Cartucho Tinta Hp 667 Preto + 01 Cartucho 667 Colorido ,279.9,4.7,74,Tec Print,"Obtenha a qualidade da HP que você conhece e confia. Imprima documentos todos os dias com texto e imagens nítidas e os custos de impressão acessíveis com os cartuchos originais HP. Imprima bordas perfeitas em textos e em gráficos, usando Cartuchos Originais HP. Qualidade impressionante de texto e imagens para desfrutar de documentos e fotos.
+
+
+
+- Volume de páginas impressas: até 100 páginas
+
+- Impressões que funcionam todas as vezes. Cartuchos projetados para alto rendimento
+
+- Impressões resistentes à água e que não desbotam com o tempo
+
+- Cores mais vibrantes e nítidas. Com Tecnologia anti curvas
+
+- Fotos e documentos que duram mais de 50 anos sem perder a cor e a qualidade
+
+- Resultados superiores da primeira à última página, sem obstruções ou impressões com bandas
+
+- Impressão sustentável, os cartuchos HP originais são feitos com até 50% de material reciclado
+
+
+
+Compatibilidade
+
+- Deskjet Ink Advantage 2376
+
+- Deskjet Ink Advantage 2776
+
+- Deskjet Ink Advantage 6476
+
+
+
+Kit inclui :
+
+02 ( dois ) Cartuchos de Tinta HP 667 3YM79AL Original Preto / 2ml
+
+01 (um) Cartucho de Tinta HP 667 3YM78AL Original Colorido / 2ml
+
+
+Marca : HP Original",HP,Advantage,667 2376 2776 Deskjet Ink Advantage 2376 - Deskjet Ink Advantage 2776 Deskjet Ink Advantage 6476,Unidade,2 mL,100,Original,1,2025-06-16 03:25:04
+78,78,https://produto.mercadolivre.com.br/MLB-1807118313-kit-cartuchos-hp-667-preto-color-1275-2376-2775-2776-6476-_JM#is_advertising=true&backend_model=search-backend&position=21&search_layout=grid&type=pad&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=21&ad_click_id=NWRhZmQ2NWEtNWZkOS00MTljLWE0ODUtYTZmMTE3ZjZjODA0,Kit Cartuchos Hp 667 Preto Color 1275 2376 2775 2776 6476,215.0,4.2,5,LKF COMERCIO,"Acompanha
+
+- 1 Cartucho Preto 667
+- 1 Cartucho Colorido 667
+
+- Rendimento em Preto 120 paginas
+- Rendimento em Colorido 100 paginas
+
+- Tecnologia de impressão: Jato de Tinta
+
+- Capacidade/Rendimento: 2 ml cada
+
+Compatíveis com a nova geração de impressoras Deskjet Ink Advantage da HP, que contempla as impressoras:
+
+DESKJET INK ADVANTAGE 1275;
+DESKJET INK ADVANTAGE 2374;
+DESKJET INK ADVANTAGE 2375;
+DESKJET INK ADVANTAGE 2376;
+DESKJET INK ADVANTAGE 2774;
+DESKJET INK ADVANTAGE 2775;
+DESKJET INK ADVANTAGE 2776;
+DESKJET INK ADVANTAGE 2874;
+HP Deskjet Ink Advantage Plus 6475;
+HP Deskjet Ink Advantage Plus 6476.
+
+Produto novo, 100% Original, lacrado, com nota fiscal, envio rápido.
+
+Garantia do vendedor: 3 meses",HP,,Impressoras 2774 2874 2374 2375 6475,Kit,4 mL,220,Original,1,2025-06-16 03:25:10
+79,79,https://produto.mercadolivre.com.br/MLB-2788449919-kit-cartucho-hp-667-preto-667-colorido-original-2376-2776-_JM#polycard_client=search-nordic&position=25&search_layout=grid&type=item&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&wid=MLB2788449919&sid=search,Kit Cartucho Hp 667 Preto + 667 Colorido Original 2376 2776,169.0,5.0,44,informticaponto,"Adquira para sua impressora a melhor tinta de impressão do mercado! Com impressões inteligentes, que proporcionam excelente desempenho do início ao fim do insumo. Confira mais detalhes do produto abaixo:
+
+Kit Cartucho de Tinta HP 667 Preto + HP 667 Colorido Advantage Original
+
+1 (um) Cartucho de tinta HP 667 Preto Advantage Original - 3YM79AL
+1 (um) Cartucho de Tinta HP 667 Colorido Advantage Original - 3YM78AL
+
+Compatíveis com a nova geração de impressoras Deskjet Ink Advantage da HP, que contempla as impressoras:
+
+DESKJET INK ADVANTAGE 2376;
+DESKJET INK ADVANTAGE 2776
+DESKJET INK ADVANTAGE 2775
+DESKJET INK ADVANTAGE 2774
+DESKJET INK ADVANTAGE 2375
+DESKJET INK ADVANTAGE 2374
+DESKJET INK ADVANTAGE 1275
+HP Deskjet Ink Advantage Plus 6475
+HP Deskjet Ink Advantage Plus 6476
+
+Cartucho hp deskjet ink advantage 2774
+Cartucho para impressora hp 2774
+Cartucho para impressora hp 2774
+Impressora hp 2774 cartucho
+
+Diferenciadores:
+
+Impressões que funcionam todas as vezes. Cartuchos projetados para alto rendimento.
+Impressões resistentes à água e que não desbotam com o tempo.
+Cores mais vibrantes e nítidas. Com Tecnologia anti curvas.
+Fotos e documentos que duram mais de 50 anos sem perder a cor e a qualidade.
+Resultados superiores da primeira à última página, sem obstruções ou impressões com bandas.
+
+Segurança e Observação:
+Garantimos o total respeito ao consumidor. Prestamos um atendimento ágil e rápido. Em caso de devoluções ou problemas com o produto, entrem em contato imediatamente conosco para que possamos analisar o caso mais breve possível.
+
+• Os cartuchos anunciados além de originais e lacrados nas caixas, estão prontos para uso.
+
+• Dúvidas freqüentes:
+• Os produtos são novos? R: Sim, todos os produtos são novos e lacrados.
+• A mercadoria está disponível à pronta entrega? R: Sim, trabalhamos com produtos em estoque.
+
+Somos a PONTO NET INFORMÁTICA, atuamos há 15 anos oferecendo as melhores oportunidades em toners, impressoras, tintas de recarga e materiais de informática.
+
+Garantia do vendedor: 7 dias",HP,Advantage,Tinta hp 667,Kit,2 mL,,Original,1,2025-06-16 03:25:17
+80,80,https://produto.mercadolivre.com.br/MLB-3670221466-cartucho-de-tinta-hp-667xl-85ml-preto-advantage-original-_JM#polycard_client=search-nordic&position=26&search_layout=grid&type=item&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&wid=MLB3670221466&sid=search,"Cartucho De Tinta Hp 667xl 8,5ml Preto Advantage Original",195.2,4.4,22,vanvan,"Aproveite ao máximo sua impressora HP e também sua tinta. Imprima todas as fotos e documentos de alta qualidade que precisar usando os cartuchos de tinta originais HP, que ajudam a garantir que sua impressora HP ofereça os resultados consistentes que você espera.
+
+Conclua facilmente seus projetos. Alertas precisos podem ajudar a garantir que você não fique sem tinta na hora errada.
+
+Crie documentos atraentes com os cartuchos de tinta HP, projetados para oferecer cores intensas e texto nítido e preciso.
+
+- Rendimento Preto 480 paginas
+- Tecnologia de impressão: Jato de Tinta
+- Capacidade/Rendimento: 8.5 ml
+
+Impressoras Compatíveis:
+- HP Deskjet Ink Advantage 1275
+- HP Deskjet Ink Advantage 2374
+- HP Deskjet Ink Advantage 2375
+- HP Deskjet Ink Advantage 2376
+- HP Deskjet Ink Advantage 2775
+- HP Deskjet Ink Advantage 2776
+- HP Deskjet Ink Advantage Plus 6475
+- HP Deskjet Ink Advantage Plus 6476",HP,Advantage,667XL,Unidade,"8,5 mL",480,Original,1,2025-06-16 03:25:22
+81,81,https://produto.mercadolivre.com.br/MLB-1919057611-kit-cartuchos-hp-667-preto-color-p-deskjet-advantage-2774-_JM#polycard_client=search-nordic&position=27&search_layout=grid&type=item&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&wid=MLB1919057611&sid=search,Kit Cartuchos Hp 667 Preto Color P/ Deskjet Advantage 2774,236.76,,,Forthome Office,"KIT DE CARTUCHOS DE TINTA HP ORIGINAL 667 PRETO E COLORIDO
+
+ATENÇÃO
+GARANTIA NO PRAZO DE 30 DIAS APÓS RECEBIMENTO DA COMPRA, DIRETAMENTE COM O FABRICANTE.
+
+Obtenha a qualidade da HP que você conhece e confia. Imprima documentos todos os dias com texto e imagens nítidas e os custos de impressão acessíveis com os cartuchos originais HP. Imprima bordas perfeitas em textos e em gráficos, usando Cartuchos Originais HP. Qualidade impressionante de texto e imagens para desfrutar de documentos e fotos.
+
+- Volume de páginas impressas: até 100 páginas
+
+- Impressões que funcionam todas as vezes. Cartuchos projetados para alto rendimento
+
+- Impressões resistentes à água e que não desbotam com o tempo
+
+- Cores mais vibrantes e nítidas. Com Tecnologia anti curvas
+
+- Fotos e documentos que duram mais de 50 anos sem perder a cor e a qualidade
+
+- Resultados superiores da primeira à última página, sem obstruções ou impressões com bandas
+
+- Impressão sustentável, os cartuchos HP originais são feitos com até 50% de material reciclado
+
+Compatibilidade:
+
+- Deskjet Ink Advantage 2376
+- Deskjet Ink Advantage 2776
+- Deskjet Ink Advantage 6476
+
+Especificação:
+
+Produto Original
+Cartucho de Tinta HP 667
+Cor: Colorido
+Rendimento de páginas: aprox. 100 páginas
+Garantia de 03 meses em caso de defeito de fabricação
+Marca: HP
+
+Garantia do vendedor: 3 meses",HP,,Cartucho HP 667 Para Deskjet Ink Advantage 2774,Kit,2 mL,100,Original,1,2025-06-16 03:25:28
+82,82,https://produto.mercadolivre.com.br/MLB-5261281130-cartucho-de-tinta-hp-667-preto-e-colorido-advantage-original-_JM#polycard_client=search-nordic&position=28&search_layout=grid&type=item&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&wid=MLB5261281130&sid=search,Cartucho De Tinta Hp 667 Preto E Colorido Advantage Original,153.19,5.0,4,Eshop,"Aproveite ao máximo sua impressora HP e também sua tinta. Imprima todas as fotos e documentos de alta qualidade que precisar usando os cartuchos de tinta originais HP, que ajudam a garantir que sua impressora HP ofereça os resultados consistentes que você espera.
+
+
+
+Conclua facilmente seus projetos. Alertas precisos podem ajudar a garantir que você não fique sem tinta na hora errada.
+
+Crie documentos atraentes com os cartuchos de tinta HP, projetados para oferecer cores intensas e texto nítido e preciso.
+
+- Rendimento Preto 120 paginas
+- Rendimento Colorido 100 paginas
+- Tecnologia de impressão: Jato de Tinta
+- Capacidade/Rendimento: 4 ml total
+
+
+Impressoras Compatíveis:
+
+- HP Deskjet Ink Advantage Séries 2376
+- HP Deskjet Ink Advantage Séries 2776
+- HP Deskjet Ink Advantage Séries 6476",HP,Advantage,667 Deskjet Ink Advantage,Kit,4 mL,220,Original,1,2025-06-16 03:25:35
 83,83,https://produto.mercadolivre.com.br/MLB-3617476011-kit-cartucho-hp-667-preto-e-colorido-original-1200-2300-2700-_JM#polycard_client=search-nordic&position=29&search_layout=grid&type=item&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&wid=MLB3617476011&sid=search,Kit Cartucho Hp 667 Preto E Colorido Original 1200 2300 2700,174.9,4.7,27,RFGINFO,"Adquira para sua impressora a melhor tinta de impressão do mercado! Com impressões inteligentes, que proporcionam excelente desempenho do início ao fim do insumo. Confira mais detalhes do produto abaixo:
 
 Kit Cartucho de Tinta HP 667 Preto + HP 667 Colorido Advantage Original
@@ -662,7 +2151,70 @@ Garantimos o total respeito ao consumidor. Prestamos um atendimento ágil e ráp
 • Os produtos são novos? R: Sim, todos os produtos são novos e lacrados.
 • A mercadoria está disponível à pronta entrega? R: Sim, trabalhamos com produtos em estoque.
 
-Garantia do vendedor: 7 dias",HP,Advantage,667,Kit,120,Original,1,4,2025-06-16,03:25:42,,
+Garantia do vendedor: 7 dias",HP,Advantage,667,Kit,4 mL,120,Original,1,2025-06-16 03:25:42
+84,84,https://produto.mercadolivre.com.br/MLB-3142771512-kit-2-cartuchos-tinta-preta-hp-667-original-1275-2374-2375-_JM#polycard_client=search-nordic&backend_model=search-backend&position=30&search_layout=grid&type=item&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&wid=MLB3142771512&sid=search,Kit 2 Cartuchos Tinta Preta Hp 667 Original 1275 2374 2375,179.2,4.8,93,SARAIVA COMERCIO,"Kit 2 Cartuchos de Tinta Hp 667 Preta 3YM79AL 1275 2374 2375 2376 2775 2776 6475 6476
+
+Acompanha
+
+- 2 Cartuchos Preto 667
+- Rendimento em Preto 120 paginas por cartucho
+- Tecnologia de impressão: Jato de Tinta
+- Capacidade/Rendimento: 2 ml cada
+
+Compatíveis com a nova geração de impressoras Deskjet Ink Advantage da HP, que contempla as impressoras:
+
+DESKJET INK ADVANTAGE 1275;
+DESKJET INK ADVANTAGE 2374;
+DESKJET INK ADVANTAGE 2375;
+DESKJET INK ADVANTAGE 2376;
+DESKJET INK ADVANTAGE 2774;
+DESKJET INK ADVANTAGE 2775;
+DESKJET INK ADVANTAGE 2776;
+DESKJET INK ADVANTAGE 2874;
+HP Deskjet Ink Advantage Plus 6475;
+HP Deskjet Ink Advantage Plus 6476.
+
+Produto novo, 100% Original, lacrado, com nota fiscal, envio rápido.
+
+Garantia do vendedor: 3 meses",HP,,Impressoras 2774 2874 2376 2775 2776 6475 6476 - 3YM79AB,Kit,4 mL,220,Original,1,2025-06-16 03:25:48
+85,85,https://produto.mercadolivre.com.br/MLB-3593015356-02-cartucho-tinta-hp-667-preto-01-cartucho-667-colorido-_JM#polycard_client=search-nordic&position=31&search_layout=grid&type=item&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&wid=MLB3593015356&sid=search,02 Cartucho Tinta Hp 667 Preto + 01 Cartucho 667 Colorido ,266.16,4.7,74,Tec Print,"Obtenha a qualidade da HP que você conhece e confia. Imprima documentos todos os dias com texto e imagens nítidas e os custos de impressão acessíveis com os cartuchos originais HP. Imprima bordas perfeitas em textos e em gráficos, usando Cartuchos Originais HP. Qualidade impressionante de texto e imagens para desfrutar de documentos e fotos.
+
+
+
+- Volume de páginas impressas: até 100 páginas
+
+- Impressões que funcionam todas as vezes. Cartuchos projetados para alto rendimento
+
+- Impressões resistentes à água e que não desbotam com o tempo
+
+- Cores mais vibrantes e nítidas. Com Tecnologia anti curvas
+
+- Fotos e documentos que duram mais de 50 anos sem perder a cor e a qualidade
+
+- Resultados superiores da primeira à última página, sem obstruções ou impressões com bandas
+
+- Impressão sustentável, os cartuchos HP originais são feitos com até 50% de material reciclado
+
+
+
+Compatibilidade
+
+- Deskjet Ink Advantage 2376
+
+- Deskjet Ink Advantage 2776
+
+- Deskjet Ink Advantage 6476
+
+
+
+Kit inclui :
+
+02 ( dois ) Cartuchos de Tinta HP 667 3YM79AL Original Preto / 2ml
+
+01 (um) Cartucho de Tinta HP 667 3YM78AL Original Colorido / 2ml
+
+
+Marca : HP Original",HP,Advantage,667 2376 2776 Deskjet Ink Advantage 2376 - Deskjet Ink Advantage 2776 Deskjet Ink Advantage 6476,Unidade,2 mL,100,Original,1,2025-06-16 03:25:55
 86,86,https://produto.mercadolivre.com.br/MLB-5419090478-cartucho-667-preto-hp-deskjet-ink-advantage-2un-_JM#polycard_client=search-nordic&position=32&search_layout=grid&type=item&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&wid=MLB5419090478&sid=search,Cartucho 667 Preto Hp Deskjet Ink Advantage,225.5,,,UNIVERSODV,"***PRODUTOS A PRONTA ENTREGA COM NOTA FISCAL, COMPRANDO ATÉ AS 12:00 ENVIAMOS NO MESMO DIA***
 
 TODOS OS NOSSOS ENVIOS POSSUEM SEGURO E QUALQUER PROBLEMA COM O PRODUTO RECEBERÁ SEU DINHEIRO DE VOLTA SEM BUROCRACIA.
@@ -695,7 +2247,40 @@ Tipo de Desempenho:
 Padrão
 
 Conteúdo da Embalagem:
-- 2 Cartucho novo de tinta HP original",HP,,667,Kit,200,Original,1,2,2025-06-16,03:26:01,,
+- 2 Cartucho novo de tinta HP original",HP,,667,Kit,2 mL,200,Original,1,2025-06-16 03:26:01
+87,87,https://www.mercadolivre.com.br/kit--de-cartuchos-originais-hp-667-xl-black--color/up/MLBU1440498316#polycard_client=search-nordic&searchVariation=MLBU1440498316&wid=MLB2940742305&position=5&search_layout=grid&type=product&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&sid=search,Kit  De Cartuchos Originais Hp 667 Xl Black + Color,284.57,4.1,18,TECNO EKN,"Cartucho Original HP 667 XL black
+Cartucho Original HP 667 XL color
+Imprima os documentos e as fotos de alta qualidade que você precisa por um ótimo valor. Com cartuchos com preço muito acessível, obtenha tinta HP original por um preço acessível, além de resultados confiáveis e consistentes de cartuchos projetados com a impressora HP.
+Aproveite as vantagens da qualidade premium original HP a um custo acessível.
+Cause uma boa impressão com os cartuchos de tinta originais HP, projetados para proporcionar texto nítido e preciso.
+Imprima até duas vezes mais páginas em preto e em cores com os cartuchos de tinta originais HP de alto rendimento
+Conte com os cartuchos de tinta originais HP para obter desempenho de impressão. Ajude a garantir impressões nítidas e intensas em casa, na escola e no trabalho com cartuchos desenvolvidos e testados com a impressora HP e projetados para facilitar o uso.
+Escolha cartuchos de tinta originais HP especialmente desenvolvidos para funcionar com sua impressora HP.
+Conclua facilmente seus projetos. Alertas de baixo nível de tinta podem ajudar a garantir que você não fique sem tinta na hora errada.
+As tintas originais HP foram projetadas para ajudá-lo a imprimir com eficiência, sem comprometer a qualidade.
+Cartuchos originais HP que se encaixam na maneira como você vive, trabalha e imprime. Conte com resultados consistentes de alta qualidade e com a facilidade para repetir o pedido que você espera da HP em casa ou em qualquer lugar.
+• Preto
+• Tinta
+• Cartuchos de tinta de alta capacidade
+Impressoras compatíveis:
+
+1275 / 2374 / 2375 / 2376 / 2775 / 2776 / 6475 / 6476
+
+Informações Legais:
+
+Marcas e Modelos são citados apenas para melhor compreensão dos clientes e como referência técnica para utilização correta dos produtos. Decorre de necessidade legal, além de ser previsto em lei que não pode haver impedimento para tal, conforme o Art. 31 do Código de Defesa do Consumidor (Lei nº. 8.078/90) e Art. 132, inciso II, da Lei da Propriedade Industrial (nº. 9.279/96), que são leis federais e seguem transcritos tais dispositivos:
+
+Art. 31 do CDC (Lei nº. 8.078/90): “A oferta e apresentação de produtos e serviços devem assegurar informações corretas, claras, precisas, ostensivas e em língua portuguesa sobre suas características, qualidade, quantidade, composição, preço, garantia, prazos de validade e origem, entre outros dados, bem como sobre os riscos que apresentem à saúde e segurança dos consumidores.”
+
+Art. 132, inciso II da LPI (nº. 9.279/96): O titular da marca não poderá: (...) II- impedir que fabricantes de acessórios utilizem a marca para indicar a destinação do produto, desde que obedecidas ás práticas leais de concorrência”.
+
+The brands cited in the ad belong to their respective manufacturers. Only mentioned as references for the correct use of the product, as Article 31 of the Act: 8078 of 11.09.1990.
+
+Rendimento médio informado conforme Norma ISO/IEC 19752.
+
+Imagens meramente ilustrativas.
+
+Garantia do vendedor: 7 dias",HP,DesignJet,667XL,Kit,16 mL,,Original,1,2025-06-16 03:26:08
 88,88,https://produto.mercadolivre.com.br/MLB-1849964605-cartucho-667-hp-preto-original-p-hp-2376-2774-2776-com-nf-_JM#polycard_client=search-nordic&position=33&search_layout=grid&type=item&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&wid=MLB1849964605&sid=search,Cartucho 667 Hp Preto Original P/ Hp 2376 2774 2776 Com Nf,70.68,4.7,514,VIIT,"Obtenha a qualidade da HP que você conhece e confia. Imprima documentos todos os dias com texto e imagens nítidas e os custos de impressão acessíveis com os cartuchos originais HP. Imprima bordas perfeitas em textos e em gráficos, usando Cartuchos Originais HP. Qualidade impressionante de texto e imagens para desfrutar de documentos e fotos.
  
  
@@ -744,7 +2329,42 @@ COMO IDENTIFICAR CARTUCHOS ORIGINAIS HP:
 - Verifique a etiqueta de segurança na caixa e certifique-se de que, à medida que você a movimenta para cima e para baixo e de um lado para o outro, as cores mudam ou o ""HP"" se movimenta pela etiqueta.
  
 2. Digitalize o código
-Use o aplicativo HP SureSupply ou algum leitor de código QR para digitalizar o código do selo de segurança do cartucho. ",HP,Ink Advantage,667,un,100,Original,1,2,2025-06-16,03:26:14,,
+Use o aplicativo HP SureSupply ou algum leitor de código QR para digitalizar o código do selo de segurança do cartucho. ",HP,Ink Advantage,667,un,2 mL,100,Original,1,2025-06-16 03:26:14
+89,89,https://produto.mercadolivre.com.br/MLB-1757243706-kit-cartucho-tinta-original-hp-667-pretocolorido-2376-2776-_JM#polycard_client=search-nordic&position=34&search_layout=grid&type=item&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&wid=MLB1757243706&sid=search,Kit Cartucho Tinta Original Hp 667 Preto/colorido 2376 2776,187.99,4.7,464,Tec Print,"Obtenha a qualidade da HP que você conhece e confia. Imprima documentos todos os dias com texto e imagens nítidas e os custos de impressão acessíveis com os cartuchos originais HP. Imprima bordas perfeitas em textos e em gráficos, usando Cartuchos Originais HP. Qualidade impressionante de texto e imagens para desfrutar de documentos e fotos.
+
+
+
+- Volume de páginas impressas: até 100 páginas
+
+- Impressões que funcionam todas as vezes. Cartuchos projetados para alto rendimento
+
+- Impressões resistentes à água e que não desbotam com o tempo
+
+- Cores mais vibrantes e nítidas. Com Tecnologia anti curvas
+
+- Fotos e documentos que duram mais de 50 anos sem perder a cor e a qualidade
+
+- Resultados superiores da primeira à última página, sem obstruções ou impressões com bandas
+
+- Impressão sustentável, os cartuchos HP originais são feitos com até 50% de material reciclado
+
+
+
+Compatibilidade
+
+- Deskjet Ink Advantage 2376
+
+- Deskjet Ink Advantage 2776
+
+- Deskjet Ink Advantage 6476
+
+
+
+Kit
+
+1 (um) Cartucho de Tinta HP 667 3YM79AL Original Preto / 2ml
+
+1 (um) Cartucho de Tinta HP 667 3YM78AL Original Colorido / 2ml",HP,Advantage,664,Kit,2 mL,100,Original,1,2025-06-16 03:26:21
 90,90,https://produto.mercadolivre.com.br/MLB-4316298374-cartucho-hp-667-preto-original-3ym79ab-667-color-3ym78al-_JM#polycard_client=search-nordic&position=35&search_layout=grid&type=item&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&wid=MLB4316298374&sid=search,Cartucho Hp 667 Preto Original 3ym79ab + 667 Color 3ym78al,177.75,4.6,67,Tec Print,"Características do Produto .
 
 01 Cartucho HP 667 Preto 3YM79AB HP
@@ -778,7 +2398,128 @@ Compatibilidade :
 Deskjet Ink Advantage 2376
 Deskjet Ink Advantage 2774
 Deskjet Ink Advantage 2776
-Deskjet Ink Advantage 6476",HP,Advantage,667,Unidade,100,Original,1,2,2025-06-16,03:26:27,,
+Deskjet Ink Advantage 6476",HP,Advantage,667,Unidade,2 mL,100,Original,1,2025-06-16 03:26:27
+91,91,https://produto.mercadolivre.com.br/MLB-3329826903-kit-cartucho-original-hp-667-2-pretos-e-1-color-2300-2700-_JM#polycard_client=search-nordic&position=36&search_layout=grid&type=item&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&wid=MLB3329826903&sid=search,Kit Cartucho Original Hp 667  2 Pretos E 1 Color 2300 2700,219.9,4.8,82,vanvan,"***REVENDEDOR OFICIAL HP BRASIL***
+
+Obtenha a qualidade da HP que você conhece e confia. Imprima documentos todos os dias com texto e imagens nítidas e os custos de impressão acessíveis com os cartuchos originais HP. Imprima bordas perfeitas em textos e em gráficos, usando Cartuchos Originais HP. Qualidade impressionante de texto e imagens para desfrutar de documentos e fotos.
+
+KIT 2 Cartuchos Pretos e 1 Cartucho Colorido
+
+- Volume de páginas impressas: até 100 páginas por cartucho
+
+- Impressões que funcionam todas as vezes. Cartuchos projetados para alto rendimento
+
+- Impressões resistentes à água e que não desbotam com o tempo
+
+- Cores mais vibrantes e nítidas. Com Tecnologia anti curvas
+
+- Fotos e documentos que duram mais de 50 anos sem perder a cor e a qualidade
+
+- Resultados superiores da primeira à última página, sem obstruções ou impressões com bandas
+
+- Impressão sustentável, os cartuchos HP originais são feitos com até 50% de material reciclado
+
+
+
+Compatibilidade
+
+Serie Deskjet Ink Advantage 2300
+- Deskjet Ink Advantage 2374
+- Deskjet Ink Advantage 2375
+- Deskjet Ink Advantage 2376
+Serie Deskjet Ink Advantage 2700
+- Deskjet Ink Advantage 2774
+- Deskjet Ink Advantage 2775
+- Deskjet Ink Advantage 2776
+- Deskjet Ink Advantage 2777
+Serie DeskJet Plus Ink Advantage série 6000
+Serie DeskJet Plus Ink Advantage série 6400
+Serie Deskjet Ink Advantage 1200
+Serie DeskJet Ink Advantage 4100
+
+
+
+
+Kit
+
+2 (Dois) Cartuchos de Tinta HP 667 3YM79AL Original Preto / 2ml
+
+1 (um) Cartucho de Tinta HP 667 3YM78AL Original Colorido / 2ml",HP,,667 2774 Deskjet Ink Advantage 2376; Deskjet Ink Advantage 2776 Deskjet Ink Advantage 6476,Unidade,2 mL,100,Original,1,2025-06-16 03:26:33
+92,92,https://produto.mercadolivre.com.br/MLB-4062027457-kit-cartucho-hp-667xl-preto-e-colorido-2376-667xl-2776-2774-_JM#polycard_client=search-nordic&position=37&search_layout=grid&type=item&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&wid=MLB4062027457&sid=search,Kit Cartucho Hp 667xl Preto E Colorido 2376 667xl 2776 2774,249.0,4.0,2,TC20240813115050,"Kit Cartucho HP 667XL
+
+Conteúdo:
+- 02 unidades cartucho HP 667 XL (1x Preto e 1x Colorido)
+
+Impressoras Compatíveis:
+- HP Deskjet Ink Advantage 1275
+- HP Deskjet Ink Advantage 2374
+- HP Deskjet Ink Advantage 2375
+- HP Deskjet Ink Advantage 2376
+- HP Deskjet Ink Advantage 2775
+- HP Deskjet Ink Advantage 2776
+- HP Deskjet Ink Advantage Plus 6475
+- HP Deskjet Ink Advantage Plus 6476
+
+Ficha técnica do produto:
+
+Modelo: 667XL (3YM81AB)
+Cor: Preto
+Tecnologia de impressão: Jato de tinta
+Capacidade de impressão: até 480 páginas
+
+Modelo: 667XL (3YM80AL)
+Cor: Colorido
+Tecnologia de impressão: Jato de tinta
+Capacidade de impressão: até 400 páginas
+
+OBS: O rendimento pode variar de acordo com o conteúdo das páginas impressas e outros fatores.
+
+* O rendimento é baseado em aproximadamente 5% de cobertura por página A4. *
+
+Dimensões do produto (L x P x A): 11,5 x 3,6 x 11,1 cm
+Peso: 0,05 kg",HP,,667 XL 2376 667XL 2776 2774,Kit,,300,Original,1,2025-06-16 03:26:38
+93,93,https://produto.mercadolivre.com.br/MLB-2788285656-combo-cartucho-tintas-hp-667-impressora-deskjet-advantage-_JM#polycard_client=search-nordic&position=38&search_layout=grid&type=item&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&wid=MLB2788285656&sid=search,Combo Cartucho Tintas Hp 667 Impressora Deskjet Advantage  ,182.74,5.0,1 avaliação,siad,"Cartucho de Tinta HP 667 Colorido Advantage Original - 3YM78AL Tinta Colorida
+Cartucho de Tinta HP 667 Preto Advantage Original - 3YM79AL
+
+Obtenha a qualidade da HP que você conhece e confia. Imprima documentos todos os dias com texto e imagens nítidas e os custos de impressão acessíveis com os cartuchos originais HP. Imprima bordas perfeitas em textos e em gráficos, usando Cartuchos Originais HP. Qualidade impressionante de texto e imagens para desfrutar de documentos e fotos.
+
+* ESPECIFICAÇÕES TÉCNICAS
+- Cor - Tinta Colorida
+- Rendimento - 100 Páginas
+- Cor - Tinta Preta
+- Rendimento - 120 Páginas
+
+* COMPATIVEL
+- Impressora HP Deskjet Ink Advantage 1275
+- Impressora HP Deskjet Ink Advantage 2374
+- Impressora HP Deskjet Ink Advantage 2375
+- Impressora HP Deskjet Ink Advantage 2376
+- Impressora HP Deskjet Ink Advantage 2774
+- Impressora HP Deskjet Ink Advantage 2775
+- Impressora HP Deskjet Ink Advantage 2776
+- Impressora HP Deskjet Ink Advantage Plus 6475
+- Impressora HP Deskjet Ink Advantage Plus 6476
+
+CONTEÚDO DA EMBALAGEM
+- 1 (um) Cartucho de Tinta HP 667 - 3YM78AL Colorido 2ml
+- 1 (um) Cartucho de Tinta HP 667 - 3YM79AL Preto 2ml
+
+Garantia do vendedor: 7 dias",HP,,667 - HP Deskjet Advantage 1275 - 2374 - 2375 - 2376 - 2774 - 2775- 2776 - HP Deskjet Ink Advantage Plus 6475 - 6476,Unidade,2 mL,220,Original,1,2025-06-16 03:26:45
+94,94,https://produto.mercadolivre.com.br/MLB-5398732000-cartucho-tinta-hp-667xl-colorido-original-2776-2774-6476-_JM#polycard_client=search-nordic&position=39&search_layout=grid&type=item&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&wid=MLB5398732000&sid=search,Cartucho Tinta Hp 667xl Colorido Original 2776 2774 6476,129.9,5.0,1 avaliação,TC20240813115050,"Imprima seus documentos todos os dias com alta qualidade garantida a um preço acessível com cartuchos de tinta HP originais de baixo custo, projetados com proteção contra fraude e alertas de pouca tinta o que lhe oferece um desempenho sem preocupações e resultados consistentes.
+
+Especificações
+
+Cartucho HP 667 xl colorido
+
+
+Compatibilidade .
+
+Deskjet Ink Advantage 2376
+Deskjet Ink Advantage 2774
+Deskjet Ink Advantage 2776
+Deskjet Ink Advantage 6476
+
+Marca : HP",HP,Advantage,3YM80AL 2300 2700 667 667XL Deskjet Ink Advantage 2376 Deskjet Ink Advantage 2774 Deskjet Ink Advantage 2776 Deskjet Ink Advantage 6476,Unidade,8 mL,300,Original,1,2025-06-16 03:26:51
 95,95,https://produto.mercadolivre.com.br/MLB-5211225064-cartucho-de-tinta-hp-667-colorido-advantage-original-_JM#polycard_client=search-nordic&position=40&search_layout=grid&type=item&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&wid=MLB5211225064&sid=search,Cartucho De Tinta Hp 667 Colorido Advantage Original,68.55,,,Eshop,"Cartucho HP 667 Colorido
 
 Aproveite ao máximo sua impressora HP e também sua tinta. Imprima todas as fotos e documentos de alta qualidade que precisar usando os cartuchos de tinta originais HP, que ajudam a garantir que sua impressora HP ofereça os resultados consistentes que você espera.
@@ -794,7 +2535,7 @@ Crie documentos atraentes com os cartuchos de tinta HP, projetados para oferecer
 Impressoras Compatíveis:
 - HP Deskjet Ink Advantage 2376
 - HP Deskjet Ink Advantage 2776
-- HP Deskjet Ink Advantage 6476",HP,Ink Advantage,667,Unidade,120,Original,1,2,2025-06-16,03:26:58,,
+- HP Deskjet Ink Advantage 6476",HP,Ink Advantage,667,Unidade,2 mL,120,Original,1,2025-06-16 03:26:58
 96,96,https://produto.mercadolivre.com.br/MLB-4285003760-kit-cartucho-tinta-original-hp-667-pretocolorido-2376-2776-_JM#polycard_client=search-nordic&position=41&search_layout=grid&type=item&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&wid=MLB4285003760&sid=search,Kit Cartucho Tinta Original Hp 667 Preto/colorido 2376 2776,177.84,4.6,54,Tec Print,"Obtenha a qualidade da HP que você conhece e confia. Imprima documentos todos os dias com texto e imagens nítidas e os custos de impressão acessíveis com os cartuchos originais HP. Imprima bordas perfeitas em textos e em gráficos, usando Cartuchos Originais HP. Qualidade impressionante de texto e imagens para desfrutar de documentos e fotos.
 
 
@@ -829,7 +2570,46 @@ Kit
 
 1 (um) Cartucho de Tinta HP 667 3YM79AL Original Preto / 2ml
 
-1 (um) Cartucho de Tinta HP 667 3YM78AL Original Colorido / 2ml",HP,Advantage,667,Unidade,100,Original,1,2,2025-06-16,03:27:04,,
+1 (um) Cartucho de Tinta HP 667 3YM78AL Original Colorido / 2ml",HP,Advantage,667,Unidade,2 mL,100,Original,1,2025-06-16 03:27:04
+97,97,https://produto.mercadolivre.com.br/MLB-3837324286-cartucho-de-tinta-hp-667-colorido-advantage-original-_JM#polycard_client=search-nordic&position=42&search_layout=grid&type=item&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&wid=MLB3837324286&sid=search,Cartucho De Tinta Hp 667 Colorido Advantage Original,71.9,4.6,37,vanvan,"Vamos te apresentar oCartucho De Tinta Hp 667 Colorido Advantage Original
+
+
+Características:
+
+Aproveite ao máximo sua impressora HP e também sua tinta. Imprima todas as fotos e documentos de alta qualidade que precisar usando os cartuchos de tinta originais HP, que ajudam a garantir que sua impressora HP ofereça os resultados consistentes que você espera.
+
+Conclua facilmente seus projetos. Alertas precisos podem ajudar a garantir que você não fique sem tinta na hora errada.
+
+Crie documentos atraentes com os cartuchos de tinta HP, projetados para oferecer cores intensas e texto nítido e preciso.
+
+
+Especificações:
+
+- Rendimento Colorido 100 paginas
+- Tecnologia de impressão: Jato de Tinta
+- Capacidade/Rendimento: 2 ml
+
+
+Impressoras Compatíveis:
+
+- HP Deskjet Ink Advantage 2376
+- HP Deskjet Ink Advantage 2776
+- HP Deskjet Ink Advantage 6476
+
+
+
+ENVIO ÁGIL Enviamos as compras efetuadas durante o expediente comercial até as 15:00 no mesmo dia após a confirmação do pagamento.
+
+PRODUTOS AUTÊNTICOS COM NF Só comercializamos produtos originais com nota fiscal.
+
+GARANTIA Seu produto possui garantia total de 90 dias contra defeitos de fabricação.
+
+VALIDADE Seu produto não possui um prazo de validade enquanto estiver em uso.
+
+
+ATENDIMENTO Fornecemos suporte gratuito e especializado para que você tenha a solução mais adequada. Vamos te ajudar a entender qual o melhor produto conforme suas necessidades e objetivo. Nossa equipe está à sua disposição
+
+Garantia do vendedor: 3 meses",HP,Advantage,667 Colorido Modelos 2376 2776 Deskjet Ink Advantage 2376 Deskjet Ink Advantage 2776 Deskjet Ink Advantage 6476,Unidade,2 mL,100,Original,1,2025-06-16 03:27:11
 98,98,https://www.mercadolivre.com.br/kit-2-cartuchos-hp-667-preto-p-2374-2376-2774-2776/p/MLB39018524#polycard_client=search-nordic&searchVariation=MLB39018524&wid=MLB5246599880&position=6&search_layout=grid&type=product&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&sid=search,Kit 2 Cartuchos Hp 667 Preto P/ 2374 2376 2774 2776,157.2,4.8,96,SCOTCH,"Características do Produto
 Imprima seus documentos todos os dias com alta qualidade garantida a um preço acessível com cartuchos de tinta HP de baixo custo, projetados com proteção contra fraude e alertas de pouca tinta, oferecendo um desempenho sem preocupações e resultados consistentes.
 
@@ -844,4 +2624,35 @@ Deskjet Ink Advantage 2776
 Deskjet Ink Advantage 6476
 
 Conteúdo da embalagem:
-- 02 Cartuchos HP 667 Preto (Black)",HP,,667,Unidade,120,Original,1,2,2025-06-16,03:27:16,,
+- 02 Cartuchos HP 667 Preto (Black)",HP,,667,Unidade,2 mL,120,Original,1,2025-06-16 03:27:16
+99,99,https://produto.mercadolivre.com.br/MLB-1757249676-cartucho-tinta-original-hp-667-preto-deskjet-6476-2376-2776-_JM#polycard_client=search-nordic&position=43&search_layout=grid&type=item&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&wid=MLB1757249676&sid=search,Cartucho Tinta Original Hp 667 Preto Deskjet 6476 2376 2776 ,105.63,4.3,23,Tec Print,"Descrição .
+
+Características do Produto :
+
+Imprima seus documentos todos os dias com alta qualidade garantida a um preço acessível com cartuchos de tinta HP originais de baixo custo, projetados com proteção contra fraude e alertas de pouca tinta o que lhe oferece um desempenho sem preocupações e resultados consistentes.
+
+Especificações :
+
+Cartucho HP 667 preto
+Rendimento: 120 páginas ( com cobertura de 5% ) .
+
+Impressoras e Multifuncionais Compatíveis:
+
+Deskjet Ink Advantage 2376; Deskjet Ink Advantage 2776; Deskjet Ink Advantage 6476",HP,Advantage,667 preto 2376 2776 Deskjet Ink Advantage 2376 - Deskjet Ink Advantage 2776 Deskjet Ink Advantage 6476,Unidade,2 mL,100,Original,1,2025-06-16 03:27:23
+100,100,https://produto.mercadolivre.com.br/MLB-2813311538-cartucho-tinta-original-hp-667xl-2776-2774-6476-colorido-_JM#polycard_client=search-nordic&backend_model=search-backend&position=44&search_layout=grid&type=item&tracking_id=a05e4e3c-7ee0-4ebf-a2e9-72fe4d227a05&wid=MLB2813311538&sid=search,Cartucho Tinta Original Hp 667xl 2776 2774 6476 Colorido,219.99,4.6,58,Tec Print,"Imprima seus documentos todos os dias com alta qualidade garantida a um preço acessível com cartuchos de tinta HP originais de baixo custo, projetados com proteção contra fraude e alertas de pouca tinta o que lhe oferece um desempenho sem preocupações e resultados consistentes.
+
+Especificações
+
+Cartucho HP 667 xl colorido
+
+Rendimento Medio com cobertura de 5% : 330 páginas
+
+Compatibilidade .
+
+Deskjet Ink Advantage 2376
+Deskjet Ink Advantage 2774
+Deskjet Ink Advantage 2776
+Deskjet Ink Advantage 6476
+
+Marca : HP
+Garantia : 90 dias contra defeito Fabricação",HP,DesignJet,3YM80AL 2300 2700 667 667XL Deskjet Ink Advantage 2376 Deskjet Ink Advantage 2774 Deskjet Ink Advantage 2776 Deskjet Ink Advantage 6476,Unidade,8 mL,300,Original,1,2025-06-16 03:27:30
